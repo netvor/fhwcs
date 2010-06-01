@@ -1,0 +1,15 @@
+
+
+==== Lowest score in group stage ====
+
+^ Team                                               ^  Group  ^  GF/GA  ^  GD  ^  Pts  ^
+| :CHI: **Petr** (Chile)                             |      H  |  0/0    |    0 |     0 |
+| :HON: **Hana** (Honduras)                          |      H  |  0/0    |    0 |     0 |
+| :SUI: **Jaroslava** (Switzerland)                  |      H  |  0/0    |    0 |     0 |
+| :ESP: **Miroslav** (Spain)                         |      H  |  0/0    |    0 |     0 |
+| :POR: **Kateřina** (Portugal)                      |      G  |  0/0    |    0 |     0 |
+| :CIV: **Josef** (Côte d'Ivoire)                    |      G  |  0/0    |    0 |     0 |
+| :PRK: **Petra** (Korea DPR)                        |      G  |  0/0    |    0 |     0 |
+| :BRA: **Jana** (Brazil)                            |      G  |  0/0    |    0 |     0 |
+| :SVK: **Ludmila** (Slovakia)                       |      F  |  0/0    |    0 |     0 |
+| :NZL: **Michal** (New Zealand)                     |      F  |  0/0    |    0 |     0 |

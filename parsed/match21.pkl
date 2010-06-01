@@ -1,0 +1,43 @@
+(iglobals
+MatchStat
+p0
+(dp1
+S'group'
+p2
+S'D'
+p3
+sS'awayCode'
+p4
+S'SRB'
+p5
+sS'hasResults'
+p6
+I00
+sS'when'
+p7
+S'18 June - 13:30'
+p8
+sS'number'
+p9
+I21
+sS'homeWiki'
+p10
+V:GER: **Eva** (Germany)
+p11
+sS'awayWiki'
+p12
+V:SRB: **Vladimír** (Serbia)
+p13
+sS'awayName'
+p14
+S'Serbia'
+p15
+sS'homeName'
+p16
+S'Germany'
+p17
+sS'homeCode'
+p18
+S'GER'
+p19
+sb.

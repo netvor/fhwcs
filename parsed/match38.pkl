@@ -1,0 +1,43 @@
+(iglobals
+MatchStat
+p0
+(dp1
+S'group'
+p2
+S'C'
+p3
+sS'awayCode'
+p4
+S'ALG'
+p5
+sS'hasResults'
+p6
+I00
+sS'when'
+p7
+S'23 June - 16:00'
+p8
+sS'number'
+p9
+I38
+sS'homeWiki'
+p10
+V:USA: **David** (USA)
+p11
+sS'awayWiki'
+p12
+V:ALG: **Marie** (Algeria)
+p13
+sS'awayName'
+p14
+S'Algeria'
+p15
+sS'homeName'
+p16
+S'USA'
+p17
+sS'homeCode'
+p18
+S'USA'
+p19
+sb.
