@@ -1,0 +1,17 @@
+To Do
+=====
+
+Add import for:
+
+  * MGS
+  * MYCIGS
+  * MYCPG
+  * MGPG
+  * FG
+
+I think that all of these will require the match reports as the data source, **unless** there is 
+some "statistics" page on fifa.com that I can pull from. In any case, FG will have to use the 
+match reports, there is no escaping.
+
+It might be a good idea to include some data verification, by comparing the data retrieved from 
+various sources, e.g. compare GSS to match reports.
