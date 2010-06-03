@@ -22,11 +22,11 @@ p9
 I7
 sS'homeWiki'
 p10
-V:GER: **Eva** (Germany)
+V:GER: **Harmen** (Germany)
 p11
 sS'awayWiki'
 p12
-V:AUS: **Jan** (Australia)
+V:AUS: **Sonia** (Australia)
 p13
 sS'awayName'
 p14

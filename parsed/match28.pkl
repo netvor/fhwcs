@@ -22,11 +22,11 @@ p9
 I28
 sS'homeWiki'
 p10
-V:ITA: **Zden\u011bk** (Italy)
+V:ITA: **Rudy** (Italy)
 p11
 sS'awayWiki'
 p12
-V:NZL: **Michal** (New Zealand)
+V:NZL: **George** (New Zealand)
 p13
 sS'awayName'
 p14

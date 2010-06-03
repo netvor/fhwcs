@@ -22,11 +22,11 @@ p9
 I13
 sS'homeWiki'
 p10
-V:CIV: **Josef** (Côte d'Ivoire)
+V:CIV: **Quido** (Côte d'Ivoire)
 p11
 sS'awayWiki'
 p12
-V:POR: **Kate\u0159ina** (Portugal)
+V:POR: **Jens** (Portugal)
 p13
 sS'awayName'
 p14

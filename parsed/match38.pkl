@@ -22,11 +22,11 @@ p9
 I38
 sS'homeWiki'
 p10
-V:USA: **David** (USA)
+V:USA: **Harmen** (USA)
 p11
 sS'awayWiki'
 p12
-V:ALG: **Marie** (Algeria)
+V:ALG: **Martine** (Algeria)
 p13
 sS'awayName'
 p14

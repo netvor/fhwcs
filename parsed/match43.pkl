@@ -22,11 +22,11 @@ p9
 I43
 sS'homeWiki'
 p10
-V:DEN: **Jaroslav** (Denmark)
+V:DEN: **Bas** (Denmark)
 p11
 sS'awayWiki'
 p12
-V:JPN: **Václav** (Japan)
+V:JPN: **Marty** (Japan)
 p13
 sS'awayName'
 p14

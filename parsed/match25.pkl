@@ -22,11 +22,11 @@ p9
 I25
 sS'homeWiki'
 p10
-V:NED: **Lenka** (Netherlands)
+V:NED: **Floris** (Netherlands)
 p11
 sS'awayWiki'
 p12
-V:JPN: **Václav** (Japan)
+V:JPN: **Marty** (Japan)
 p13
 sS'awayName'
 p14

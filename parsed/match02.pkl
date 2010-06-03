@@ -22,11 +22,11 @@ p9
 I2
 sS'homeWiki'
 p10
-V:URU: **Helena** (Uruguay)
+V:URU: **AJ** (Uruguay)
 p11
 sS'awayWiki'
 p12
-V:FRA: **Tomá\u0161** (France)
+V:FRA: **Bas** (France)
 p13
 sS'awayName'
 p14

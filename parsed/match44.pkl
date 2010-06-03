@@ -22,11 +22,11 @@ p9
 I44
 sS'homeWiki'
 p10
-V:CMR: **Pavel** (Cameroon)
+V:CMR: **Lisa** (Cameroon)
 p11
 sS'awayWiki'
 p12
-V:NED: **Lenka** (Netherlands)
+V:NED: **Floris** (Netherlands)
 p13
 sS'awayName'
 p14

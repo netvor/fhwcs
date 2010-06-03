@@ -22,11 +22,11 @@ p9
 I47
 sS'homeWiki'
 p10
-V:CHI: **Petr** (Chile)
+V:CHI: **Ailee** (Chile)
 p11
 sS'awayWiki'
 p12
-V:ESP: **Miroslav** (Spain)
+V:ESP: **Katka** (Spain)
 p13
 sS'awayName'
 p14

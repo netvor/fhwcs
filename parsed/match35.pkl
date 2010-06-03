@@ -22,11 +22,11 @@ p9
 I35
 sS'homeWiki'
 p10
-V:NGA: **Milan** (Nigeria)
+V:NGA: **Pippa** (Nigeria)
 p11
 sS'awayWiki'
 p12
-V:KOR: **V\u011bra** (Korea Republic)
+V:KOR: **Rudy** (Korea Republic)
 p13
 sS'awayName'
 p14

@@ -22,11 +22,11 @@ p9
 I1
 sS'homeWiki'
 p10
-V:RSA: **Lucie** (South Africa)
+V:RSA: **Scott** (South Africa)
 p11
 sS'awayWiki'
 p12
-V:MEX: **Karel** (Mexico)
+V:MEX: **Sue** (Mexico)
 p13
 sS'awayName'
 p14

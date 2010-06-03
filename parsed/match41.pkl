@@ -22,11 +22,11 @@ p9
 I41
 sS'homeWiki'
 p10
-V:SVK: **Ludmila** (Slovakia)
+V:SVK: **Viktor** (Slovakia)
 p11
 sS'awayWiki'
 p12
-V:ITA: **Zden\u011bk** (Italy)
+V:ITA: **Rudy** (Italy)
 p13
 sS'awayName'
 p14

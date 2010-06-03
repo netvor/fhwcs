@@ -22,11 +22,11 @@ p9
 I40
 sS'homeWiki'
 p10
-V:AUS: **Jan** (Australia)
+V:AUS: **Sonia** (Australia)
 p11
 sS'awayWiki'
 p12
-V:SRB: **Vladimír** (Serbia)
+V:SRB: **Olivia** (Serbia)
 p13
 sS'awayName'
 p14

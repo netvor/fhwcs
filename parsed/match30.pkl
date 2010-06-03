@@ -22,11 +22,11 @@ p9
 I30
 sS'homeWiki'
 p10
-V:POR: **Kate\u0159ina** (Portugal)
+V:POR: **Jens** (Portugal)
 p11
 sS'awayWiki'
 p12
-V:PRK: **Petra** (Korea DPR)
+V:PRK: **Sonia** (Korea DPR)
 p13
 sS'awayName'
 p14

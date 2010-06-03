@@ -22,11 +22,11 @@ p9
 I14
 sS'homeWiki'
 p10
-V:BRA: **Jana** (Brazil)
+V:BRA: **Vendulka** (Brazil)
 p11
 sS'awayWiki'
 p12
-V:PRK: **Petra** (Korea DPR)
+V:PRK: **Sonia** (Korea DPR)
 p13
 sS'awayName'
 p14

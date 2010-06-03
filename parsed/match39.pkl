@@ -22,11 +22,11 @@ p9
 I39
 sS'homeWiki'
 p10
-V:GHA: **Franti\u0161ek** (Ghana)
+V:GHA: **AJ** (Ghana)
 p11
 sS'awayWiki'
 p12
-V:GER: **Eva** (Germany)
+V:GER: **Harmen** (Germany)
 p13
 sS'awayName'
 p14

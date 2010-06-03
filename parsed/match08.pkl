@@ -22,11 +22,11 @@ p9
 I8
 sS'homeWiki'
 p10
-V:SRB: **Vladimír** (Serbia)
+V:SRB: **Olivia** (Serbia)
 p11
 sS'awayWiki'
 p12
-V:GHA: **Franti\u0161ek** (Ghana)
+V:GHA: **AJ** (Ghana)
 p13
 sS'awayName'
 p14

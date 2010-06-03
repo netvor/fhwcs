@@ -22,11 +22,11 @@ p9
 I26
 sS'homeWiki'
 p10
-V:CMR: **Pavel** (Cameroon)
+V:CMR: **Lisa** (Cameroon)
 p11
 sS'awayWiki'
 p12
-V:DEN: **Jaroslav** (Denmark)
+V:DEN: **Bas** (Denmark)
 p13
 sS'awayName'
 p14

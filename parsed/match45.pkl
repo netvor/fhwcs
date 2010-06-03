@@ -22,11 +22,11 @@ p9
 I45
 sS'homeWiki'
 p10
-V:POR: **Kate\u0159ina** (Portugal)
+V:POR: **Jens** (Portugal)
 p11
 sS'awayWiki'
 p12
-V:BRA: **Jana** (Brazil)
+V:BRA: **Vendulka** (Brazil)
 p13
 sS'awayName'
 p14

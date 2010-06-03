@@ -22,11 +22,11 @@ p9
 I24
 sS'homeWiki'
 p10
-V:GHA: **Franti\u0161ek** (Ghana)
+V:GHA: **AJ** (Ghana)
 p11
 sS'awayWiki'
 p12
-V:AUS: **Jan** (Australia)
+V:AUS: **Sonia** (Australia)
 p13
 sS'awayName'
 p14

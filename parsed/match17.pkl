@@ -22,11 +22,11 @@ p9
 I17
 sS'homeWiki'
 p10
-V:RSA: **Lucie** (South Africa)
+V:RSA: **Scott** (South Africa)
 p11
 sS'awayWiki'
 p12
-V:URU: **Helena** (Uruguay)
+V:URU: **AJ** (Uruguay)
 p13
 sS'awayName'
 p14

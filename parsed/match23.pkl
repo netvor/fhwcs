@@ -22,11 +22,11 @@ p9
 I23
 sS'homeWiki'
 p10
-V:ENG: **Martin** (England)
+V:ENG: **George** (England)
 p11
 sS'awayWiki'
 p12
-V:ALG: **Marie** (Algeria)
+V:ALG: **Martine** (Algeria)
 p13
 sS'awayName'
 p14

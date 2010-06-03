@@ -22,11 +22,11 @@ p9
 I34
 sS'homeWiki'
 p10
-V:FRA: **Tomá\u0161** (France)
+V:FRA: **Bas** (France)
 p11
 sS'awayWiki'
 p12
-V:RSA: **Lucie** (South Africa)
+V:RSA: **Scott** (South Africa)
 p13
 sS'awayName'
 p14

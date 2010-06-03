@@ -22,11 +22,11 @@ p9
 I42
 sS'homeWiki'
 p10
-V:PAR: **Alena** (Paraguay)
+V:PAR: **Martine** (Paraguay)
 p11
 sS'awayWiki'
 p12
-V:NZL: **Michal** (New Zealand)
+V:NZL: **George** (New Zealand)
 p13
 sS'awayName'
 p14

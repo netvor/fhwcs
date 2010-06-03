@@ -22,11 +22,11 @@ p9
 I37
 sS'homeWiki'
 p10
-V:SVN: **Luká\u0161** (Slovenia)
+V:SVN: **Jens** (Slovenia)
 p11
 sS'awayWiki'
 p12
-V:ENG: **Martin** (England)
+V:ENG: **George** (England)
 p13
 sS'awayName'
 p14

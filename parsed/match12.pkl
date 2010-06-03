@@ -22,11 +22,11 @@ p9
 I12
 sS'homeWiki'
 p10
-V:NZL: **Michal** (New Zealand)
+V:NZL: **George** (New Zealand)
 p11
 sS'awayWiki'
 p12
-V:SVK: **Ludmila** (Slovakia)
+V:SVK: **Viktor** (Slovakia)
 p13
 sS'awayName'
 p14

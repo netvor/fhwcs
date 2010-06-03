@@ -22,11 +22,11 @@ p9
 I29
 sS'homeWiki'
 p10
-V:BRA: **Jana** (Brazil)
+V:BRA: **Vendulka** (Brazil)
 p11
 sS'awayWiki'
 p12
-V:CIV: **Josef** (Côte d'Ivoire)
+V:CIV: **Quido** (Côte d'Ivoire)
 p13
 sS'awayName'
 p14

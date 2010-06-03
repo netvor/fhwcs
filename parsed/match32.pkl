@@ -22,11 +22,11 @@ p9
 I32
 sS'homeWiki'
 p10
-V:ESP: **Miroslav** (Spain)
+V:ESP: **Katka** (Spain)
 p11
 sS'awayWiki'
 p12
-V:HON: **Hana** (Honduras)
+V:HON: **Sue** (Honduras)
 p13
 sS'awayName'
 p14

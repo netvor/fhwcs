@@ -22,11 +22,11 @@ p9
 I10
 sS'homeWiki'
 p10
-V:JPN: **Václav** (Japan)
+V:JPN: **Marty** (Japan)
 p11
 sS'awayWiki'
 p12
-V:CMR: **Pavel** (Cameroon)
+V:CMR: **Lisa** (Cameroon)
 p13
 sS'awayName'
 p14

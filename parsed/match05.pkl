@@ -22,11 +22,11 @@ p9
 I5
 sS'homeWiki'
 p10
-V:ENG: **Martin** (England)
+V:ENG: **George** (England)
 p11
 sS'awayWiki'
 p12
-V:USA: **David** (USA)
+V:USA: **Harmen** (USA)
 p13
 sS'awayName'
 p14

@@ -4,22 +4,22 @@
 
 
 ^ //Group A://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group B://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :RSA: **Lucie** (South Africa)                     |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :ARG: **Jiří** (Argentina)                         |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :MEX: **Karel** (Mexico)                           |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :NGA: **Milan** (Nigeria)                          |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :URU: **Helena** (Uruguay)                         |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :KOR: **Věra** (Korea Republic)                    |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :FRA: **Tomáš** (France)                           |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :GRE: **Anna** (Greece)                            |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :RSA: **Scott** (South Africa)                     |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :ARG: **George** (Argentina)                       |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :MEX: **Sue** (Mexico)                             |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :NGA: **Pippa** (Nigeria)                          |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :URU: **AJ** (Uruguay)                             |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :KOR: **Rudy** (Korea Republic)                    |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :FRA: **Bas** (France)                             |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :GRE: **Paul** (Greece)                            |    0 |  0/0/0     |  0/0    |    0 |     0 |
 ^ //Group C://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group D://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :ENG: **Martin** (England)                         |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :GER: **Eva** (Germany)                            |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :USA: **David** (USA)                              |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :AUS: **Jan** (Australia)                          |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :ALG: **Marie** (Algeria)                          |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :SRB: **Vladimír** (Serbia)                        |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :SVN: **Lukáš** (Slovenia)                         |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :GHA: **František** (Ghana)                        |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :ENG: **George** (England)                         |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :GER: **Harmen** (Germany)                         |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :USA: **Harmen** (USA)                             |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :AUS: **Sonia** (Australia)                        |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :ALG: **Martine** (Algeria)                        |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :SRB: **Olivia** (Serbia)                          |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :SVN: **Jens** (Slovenia)                          |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :GHA: **AJ** (Ghana)                               |    0 |  0/0/0     |  0/0    |    0 |     0 |
 ^ //Group E://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group F://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :NED: **Lenka** (Netherlands)                      |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :ITA: **Zdeněk** (Italy)                           |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :DEN: **Jaroslav** (Denmark)                       |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :PAR: **Alena** (Paraguay)                         |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :JPN: **Václav** (Japan)                           |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :NZL: **Michal** (New Zealand)                     |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :CMR: **Pavel** (Cameroon)                         |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :SVK: **Ludmila** (Slovakia)                       |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :NED: **Floris** (Netherlands)                     |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :ITA: **Rudy** (Italy)                             |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :DEN: **Bas** (Denmark)                            |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :PAR: **Martine** (Paraguay)                       |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :JPN: **Marty** (Japan)                            |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :NZL: **George** (New Zealand)                     |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :CMR: **Lisa** (Cameroon)                          |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :SVK: **Viktor** (Slovakia)                        |    0 |  0/0/0     |  0/0    |    0 |     0 |
 ^ //Group G://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group H://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :BRA: **Jana** (Brazil)                            |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :ESP: **Miroslav** (Spain)                         |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :PRK: **Petra** (Korea DPR)                        |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :SUI: **Jaroslava** (Switzerland)                  |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :CIV: **Josef** (Côte d'Ivoire)                    |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :HON: **Hana** (Honduras)                          |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :POR: **Kateřina** (Portugal)                      |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :CHI: **Petr** (Chile)                             |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :BRA: **Vendulka** (Brazil)                        |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :ESP: **Katka** (Spain)                            |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :PRK: **Sonia** (Korea DPR)                        |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :SUI: **Paul** (Switzerland)                       |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :CIV: **Quido** (Côte d'Ivoire)                    |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :HON: **Sue** (Honduras)                           |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :POR: **Jens** (Portugal)                          |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :CHI: **Ailee** (Chile)                            |    0 |  0/0/0     |  0/0    |    0 |     0 |

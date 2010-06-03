@@ -22,11 +22,11 @@ p9
 I6
 sS'homeWiki'
 p10
-V:ALG: **Marie** (Algeria)
+V:ALG: **Martine** (Algeria)
 p11
 sS'awayWiki'
 p12
-V:SVN: **Luká\u0161** (Slovenia)
+V:SVN: **Jens** (Slovenia)
 p13
 sS'awayName'
 p14

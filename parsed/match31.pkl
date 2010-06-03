@@ -22,11 +22,11 @@ p9
 I31
 sS'homeWiki'
 p10
-V:CHI: **Petr** (Chile)
+V:CHI: **Ailee** (Chile)
 p11
 sS'awayWiki'
 p12
-V:SUI: **Jaroslava** (Switzerland)
+V:SUI: **Paul** (Switzerland)
 p13
 sS'awayName'
 p14

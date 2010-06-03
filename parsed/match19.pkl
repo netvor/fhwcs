@@ -22,11 +22,11 @@ p9
 I19
 sS'homeWiki'
 p10
-V:GRE: **Anna** (Greece)
+V:GRE: **Paul** (Greece)
 p11
 sS'awayWiki'
 p12
-V:NGA: **Milan** (Nigeria)
+V:NGA: **Pippa** (Nigeria)
 p13
 sS'awayName'
 p14

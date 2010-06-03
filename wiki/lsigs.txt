@@ -3,13 +3,13 @@
 ==== Lowest score in group stage ====
 
 ^ Team                                               ^  Group  ^  GF/GA  ^  GD  ^  Pts  ^
-| :CHI: **Petr** (Chile)                             |      H  |  0/0    |    0 |     0 |
-| :HON: **Hana** (Honduras)                          |      H  |  0/0    |    0 |     0 |
-| :SUI: **Jaroslava** (Switzerland)                  |      H  |  0/0    |    0 |     0 |
-| :ESP: **Miroslav** (Spain)                         |      H  |  0/0    |    0 |     0 |
-| :POR: **Kateřina** (Portugal)                      |      G  |  0/0    |    0 |     0 |
-| :CIV: **Josef** (Côte d'Ivoire)                    |      G  |  0/0    |    0 |     0 |
-| :PRK: **Petra** (Korea DPR)                        |      G  |  0/0    |    0 |     0 |
-| :BRA: **Jana** (Brazil)                            |      G  |  0/0    |    0 |     0 |
-| :SVK: **Ludmila** (Slovakia)                       |      F  |  0/0    |    0 |     0 |
-| :NZL: **Michal** (New Zealand)                     |      F  |  0/0    |    0 |     0 |
+| :CHI: **Ailee** (Chile)                            |      H  |  0/0    |    0 |     0 |
+| :HON: **Sue** (Honduras)                           |      H  |  0/0    |    0 |     0 |
+| :SUI: **Paul** (Switzerland)                       |      H  |  0/0    |    0 |     0 |
+| :ESP: **Katka** (Spain)                            |      H  |  0/0    |    0 |     0 |
+| :POR: **Jens** (Portugal)                          |      G  |  0/0    |    0 |     0 |
+| :CIV: **Quido** (Côte d'Ivoire)                    |      G  |  0/0    |    0 |     0 |
+| :PRK: **Sonia** (Korea DPR)                        |      G  |  0/0    |    0 |     0 |
+| :BRA: **Vendulka** (Brazil)                        |      G  |  0/0    |    0 |     0 |
+| :SVK: **Viktor** (Slovakia)                        |      F  |  0/0    |    0 |     0 |
+| :NZL: **George** (New Zealand)                     |      F  |  0/0    |    0 |     0 |

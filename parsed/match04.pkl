@@ -22,11 +22,11 @@ p9
 I4
 sS'homeWiki'
 p10
-V:KOR: **V\u011bra** (Korea Republic)
+V:KOR: **Rudy** (Korea Republic)
 p11
 sS'awayWiki'
 p12
-V:GRE: **Anna** (Greece)
+V:GRE: **Paul** (Greece)
 p13
 sS'awayName'
 p14

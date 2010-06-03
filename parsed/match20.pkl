@@ -22,11 +22,11 @@ p9
 I20
 sS'homeWiki'
 p10
-V:ARG: **Ji\u0159í** (Argentina)
+V:ARG: **George** (Argentina)
 p11
 sS'awayWiki'
 p12
-V:KOR: **V\u011bra** (Korea Republic)
+V:KOR: **Rudy** (Korea Republic)
 p13
 sS'awayName'
 p14

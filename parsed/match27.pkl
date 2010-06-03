@@ -22,11 +22,11 @@ p9
 I27
 sS'homeWiki'
 p10
-V:SVK: **Ludmila** (Slovakia)
+V:SVK: **Viktor** (Slovakia)
 p11
 sS'awayWiki'
 p12
-V:PAR: **Alena** (Paraguay)
+V:PAR: **Martine** (Paraguay)
 p13
 sS'awayName'
 p14
