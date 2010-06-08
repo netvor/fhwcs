@@ -3,13 +3,13 @@
 ==== Lowest score in group stage ====
 
 ^ Team                                               ^  Group  ^  GF/GA  ^  GD  ^  Pts  ^
-| :CHI: **Petr** (Chile)                             |      H  |  0/0    |    0 |     0 |
-| :HON: **Hana** (Honduras)                          |      H  |  0/0    |    0 |     0 |
-| :SUI: **Jaroslava** (Switzerland)                  |      H  |  0/0    |    0 |     0 |
-| :ESP: **Miroslav** (Spain)                         |      H  |  0/0    |    0 |     0 |
-| :POR: **Kateřina** (Portugal)                      |      G  |  0/0    |    0 |     0 |
-| :CIV: **Josef** (Côte d'Ivoire)                    |      G  |  0/0    |    0 |     0 |
-| :PRK: **Petra** (Korea DPR)                        |      G  |  0/0    |    0 |     0 |
-| :BRA: **Jana** (Brazil)                            |      G  |  0/0    |    0 |     0 |
-| :SVK: **Ludmila** (Slovakia)                       |      F  |  0/0    |    0 |     0 |
-| :NZL: **Michal** (New Zealand)                     |      F  |  0/0    |    0 |     0 |
+| :CHI: **Maxwell Jones** (Chile)                    |      H  |  0/0    |    0 |     0 |
+| :HON: **Eng Seong Tan** (Honduras)                 |      H  |  0/0    |    0 |     0 |
+| :SUI: **Arthur Kleinman** (Switzerland)            |      H  |  0/0    |    0 |     0 |
+| :ESP: **Wilfred Bion** (Spain)                     |      H  |  0/0    |    0 |     0 |
+| :POR: **Michael Rutter** (Portugal)                |      G  |  0/0    |    0 |     0 |
+| :CIV: **Richard von Krafft-Ebing** (Côte d'Ivoire) |      G  |  0/0    |    0 |     0 |
+| :PRK: **Frantz Fanon** (Korea DPR)                 |      G  |  0/0    |    0 |     0 |
+| :BRA: **Michael Shepherd** (Brazil)                |      G  |  0/0    |    0 |     0 |
+| :SVK: **John Bowlby** (Slovakia)                   |      F  |  0/0    |    0 |     0 |
+| :NZL: **Elisabeth Kübler-Ross** (New Zealand)      |      F  |  0/0    |    0 |     0 |

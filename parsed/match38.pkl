@@ -15,18 +15,18 @@ p6
 I00
 sS'when'
 p7
-S'23 June - 16:00'
+V23 June 16:00
 p8
 sS'number'
 p9
 I38
 sS'homeWiki'
 p10
-V:USA: **David** (USA)
+V:USA: **Peter Sifneos** (USA)
 p11
 sS'awayWiki'
 p12
-V:ALG: **Marie** (Algeria)
+V:ALG: **Ladislas von Meduna** (Algeria)
 p13
 sS'awayName'
 p14

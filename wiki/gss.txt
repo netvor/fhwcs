@@ -4,22 +4,22 @@
 
 
 ^ //Group A://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group B://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :RSA: **Lucie** (South Africa)                     |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :ARG: **Jiří** (Argentina)                         |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :MEX: **Karel** (Mexico)                           |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :NGA: **Milan** (Nigeria)                          |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :URU: **Helena** (Uruguay)                         |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :KOR: **Věra** (Korea Republic)                    |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :FRA: **Tomáš** (France)                           |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :GRE: **Anna** (Greece)                            |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :RSA: **Kurt Schneider** (South Africa)            |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :ARG: **Aaron Beck** (Argentina)                   |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :MEX: **Karl Leonhard** (Mexico)                   |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :NGA: **Eugene Paykel** (Nigeria)                  |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :URU: **John Cade** (Uruguay)                      |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :KOR: **Norman Krietman** (Korea Republic)         |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :FRA: **Niall McLaren** (France)                   |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :GRE: **Paul Watzlawick** (Greece)                 |    0 |  0/0/0     |  0/0    |    0 |     0 |
 ^ //Group C://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group D://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :ENG: **Martin** (England)                         |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :GER: **Eva** (Germany)                            |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :USA: **David** (USA)                              |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :AUS: **Jan** (Australia)                          |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :ALG: **Marie** (Algeria)                          |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :SRB: **Vladimír** (Serbia)                        |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :SVN: **Lukáš** (Slovenia)                         |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :GHA: **František** (Ghana)                        |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :ENG: **W. H. R. Rivers** (England)                |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :GER: **John Nemiah** (Germany)                    |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :USA: **Peter Sifneos** (USA)                      |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :AUS: **Sir Aubrey Lewis** (Australia)             |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :ALG: **Ladislas von Meduna** (Algeria)            |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :SRB: **Thomas Szasz** (Serbia)                    |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :SVN: **Carl Gustav Jung** (Slovenia)              |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :GHA: **Eugene Bleuler** (Ghana)                   |    0 |  0/0/0     |  0/0    |    0 |     0 |
 ^ //Group E://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group F://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :NED: **Lenka** (Netherlands)                      |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :ITA: **Zdeněk** (Italy)                           |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :DEN: **Jaroslav** (Denmark)                       |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :PAR: **Alena** (Paraguay)                         |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :JPN: **Václav** (Japan)                           |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :NZL: **Michal** (New Zealand)                     |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :CMR: **Pavel** (Cameroon)                         |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :SVK: **Ludmila** (Slovakia)                       |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :NED: **Eve Johnstone** (Netherlands)              |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :ITA: **Alwyn Lishman** (Italy)                    |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :DEN: **John Batty Tuke** (Denmark)                |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :PAR: **Sigmund Freud** (Paraguay)                 |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :JPN: **Ian Oswald** (Japan)                       |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :NZL: **Elisabeth Kübler-Ross** (New Zealand)      |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :CMR: **Ivan Pavlov** (Cameroon)                   |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :SVK: **John Bowlby** (Slovakia)                   |    0 |  0/0/0     |  0/0    |    0 |     0 |
 ^ //Group G://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group H://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :BRA: **Jana** (Brazil)                            |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :ESP: **Miroslav** (Spain)                         |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :PRK: **Petra** (Korea DPR)                        |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :SUI: **Jaroslava** (Switzerland)                  |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :CIV: **Josef** (Côte d'Ivoire)                    |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :HON: **Hana** (Honduras)                          |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :POR: **Kateřina** (Portugal)                      |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :CHI: **Petr** (Chile)                             |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :BRA: **Michael Shepherd** (Brazil)                |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :ESP: **Wilfred Bion** (Spain)                     |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :PRK: **Frantz Fanon** (Korea DPR)                 |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :SUI: **Arthur Kleinman** (Switzerland)            |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :CIV: **Richard von Krafft-Ebing** (Côte d'Ivoire) |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :HON: **Eng Seong Tan** (Honduras)                 |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :POR: **Michael Rutter** (Portugal)                |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :CHI: **Maxwell Jones** (Chile)                    |    0 |  0/0/0     |  0/0    |    0 |     0 |

@@ -15,18 +15,18 @@ p6
 I00
 sS'when'
 p7
-S'11 June - 16:00'
+V11 June 16:00
 p8
 sS'number'
 p9
 I1
 sS'homeWiki'
 p10
-V:RSA: **Lucie** (South Africa)
+V:RSA: **Kurt Schneider** (South Africa)
 p11
 sS'awayWiki'
 p12
-V:MEX: **Karel** (Mexico)
+V:MEX: **Karl Leonhard** (Mexico)
 p13
 sS'awayName'
 p14

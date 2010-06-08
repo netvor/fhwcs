@@ -15,18 +15,18 @@ p6
 I00
 sS'when'
 p7
-S'22 June - 20:30'
+V22 June 20:30
 p8
 sS'number'
 p9
 I36
 sS'homeWiki'
 p10
-V:GRE: **Anna** (Greece)
+V:GRE: **Paul Watzlawick** (Greece)
 p11
 sS'awayWiki'
 p12
-V:ARG: **Ji\u0159í** (Argentina)
+V:ARG: **Aaron Beck** (Argentina)
 p13
 sS'awayName'
 p14

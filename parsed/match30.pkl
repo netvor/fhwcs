@@ -15,18 +15,18 @@ p6
 I00
 sS'when'
 p7
-S'21 June - 13:30'
+V21 June 13:30
 p8
 sS'number'
 p9
 I30
 sS'homeWiki'
 p10
-V:POR: **Kate\u0159ina** (Portugal)
+V:POR: **Michael Rutter** (Portugal)
 p11
 sS'awayWiki'
 p12
-V:PRK: **Petra** (Korea DPR)
+V:PRK: **Frantz Fanon** (Korea DPR)
 p13
 sS'awayName'
 p14

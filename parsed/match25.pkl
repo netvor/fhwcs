@@ -15,18 +15,18 @@ p6
 I00
 sS'when'
 p7
-S'19 June - 13:30'
+V19 June 13:30
 p8
 sS'number'
 p9
 I25
 sS'homeWiki'
 p10
-V:NED: **Lenka** (Netherlands)
+V:NED: **Eve Johnstone** (Netherlands)
 p11
 sS'awayWiki'
 p12
-V:JPN: **Václav** (Japan)
+V:JPN: **Ian Oswald** (Japan)
 p13
 sS'awayName'
 p14

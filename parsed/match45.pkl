@@ -15,18 +15,18 @@ p6
 I00
 sS'when'
 p7
-S'25 June - 16:00'
+V25 June 16:00
 p8
 sS'number'
 p9
 I45
 sS'homeWiki'
 p10
-V:POR: **Kate\u0159ina** (Portugal)
+V:POR: **Michael Rutter** (Portugal)
 p11
 sS'awayWiki'
 p12
-V:BRA: **Jana** (Brazil)
+V:BRA: **Michael Shepherd** (Brazil)
 p13
 sS'awayName'
 p14

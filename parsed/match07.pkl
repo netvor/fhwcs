@@ -15,18 +15,18 @@ p6
 I00
 sS'when'
 p7
-S'13 June - 20:30'
+V13 June 20:30
 p8
 sS'number'
 p9
 I7
 sS'homeWiki'
 p10
-V:GER: **Eva** (Germany)
+V:GER: **John Nemiah** (Germany)
 p11
 sS'awayWiki'
 p12
-V:AUS: **Jan** (Australia)
+V:AUS: **Sir Aubrey Lewis** (Australia)
 p13
 sS'awayName'
 p14

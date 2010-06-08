@@ -15,18 +15,18 @@ p6
 I00
 sS'when'
 p7
-S'19 June - 16:00'
+V19 June 16:00
 p8
 sS'number'
 p9
 I24
 sS'homeWiki'
 p10
-V:GHA: **Franti\u0161ek** (Ghana)
+V:GHA: **Eugene Bleuler** (Ghana)
 p11
 sS'awayWiki'
 p12
-V:AUS: **Jan** (Australia)
+V:AUS: **Sir Aubrey Lewis** (Australia)
 p13
 sS'awayName'
 p14

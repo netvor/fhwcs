@@ -15,18 +15,18 @@ p6
 I00
 sS'when'
 p7
-S'23 June - 20:30'
+V23 June 20:30
 p8
 sS'number'
 p9
 I40
 sS'homeWiki'
 p10
-V:AUS: **Jan** (Australia)
+V:AUS: **Sir Aubrey Lewis** (Australia)
 p11
 sS'awayWiki'
 p12
-V:SRB: **Vladimír** (Serbia)
+V:SRB: **Thomas Szasz** (Serbia)
 p13
 sS'awayName'
 p14

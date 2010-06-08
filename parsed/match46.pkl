@@ -15,18 +15,18 @@ p6
 I00
 sS'when'
 p7
-S'25 June - 16:00'
+V25 June 16:00
 p8
 sS'number'
 p9
 I46
 sS'homeWiki'
 p10
-V:PRK: **Petra** (Korea DPR)
+V:PRK: **Frantz Fanon** (Korea DPR)
 p11
 sS'awayWiki'
 p12
-V:CIV: **Josef** (Côte d'Ivoire)
+V:CIV: **Richard von Krafft-Ebing** (Côte d'Ivoire)
 p13
 sS'awayName'
 p14

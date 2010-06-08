@@ -15,18 +15,18 @@ p6
 I00
 sS'when'
 p7
-S'13 June - 13:30'
+V13 June 13:30
 p8
 sS'number'
 p9
 I6
 sS'homeWiki'
 p10
-V:ALG: **Marie** (Algeria)
+V:ALG: **Ladislas von Meduna** (Algeria)
 p11
 sS'awayWiki'
 p12
-V:SVN: **Luká\u0161** (Slovenia)
+V:SVN: **Carl Gustav Jung** (Slovenia)
 p13
 sS'awayName'
 p14
