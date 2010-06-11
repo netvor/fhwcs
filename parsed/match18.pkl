@@ -22,11 +22,11 @@ p9
 I18
 sS'homeWiki'
 p10
-V:FRA: **Niall McLaren** (France)
+V:FRA: **Jana L.** (France)
 p11
 sS'awayWiki'
 p12
-V:MEX: **Karl Leonhard** (Mexico)
+V:MEX: **Olina H.** (Mexico)
 p13
 sS'awayName'
 p14

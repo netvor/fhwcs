@@ -22,11 +22,11 @@ p9
 I7
 sS'homeWiki'
 p10
-V:GER: **John Nemiah** (Germany)
+V:GER: **Lenny** (Germany)
 p11
 sS'awayWiki'
 p12
-V:AUS: **Sir Aubrey Lewis** (Australia)
+V:AUS: **Petra** (Australia)
 p13
 sS'awayName'
 p14

@@ -22,11 +22,11 @@ p9
 I44
 sS'homeWiki'
 p10
-V:CMR: **Ivan Pavlov** (Cameroon)
+V:CMR: **Markéta** (Cameroon)
 p11
 sS'awayWiki'
 p12
-V:NED: **Eve Johnstone** (Netherlands)
+V:NED: **Olina K.** (Netherlands)
 p13
 sS'awayName'
 p14

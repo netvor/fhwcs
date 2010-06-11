@@ -22,11 +22,11 @@ p9
 I24
 sS'homeWiki'
 p10
-V:GHA: **Eugene Bleuler** (Ghana)
+V:GHA: **Franta** (Ghana)
 p11
 sS'awayWiki'
 p12
-V:AUS: **Sir Aubrey Lewis** (Australia)
+V:AUS: **Petra** (Australia)
 p13
 sS'awayName'
 p14

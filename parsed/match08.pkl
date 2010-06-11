@@ -22,11 +22,11 @@ p9
 I8
 sS'homeWiki'
 p10
-V:SRB: **Thomas Szasz** (Serbia)
+V:SRB: **Denisa** (Serbia)
 p11
 sS'awayWiki'
 p12
-V:GHA: **Eugene Bleuler** (Ghana)
+V:GHA: **Franta** (Ghana)
 p13
 sS'awayName'
 p14

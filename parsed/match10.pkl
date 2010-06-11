@@ -22,11 +22,11 @@ p9
 I10
 sS'homeWiki'
 p10
-V:JPN: **Ian Oswald** (Japan)
+V:JPN: **Standa** (Japan)
 p11
 sS'awayWiki'
 p12
-V:CMR: **Ivan Pavlov** (Cameroon)
+V:CMR: **Markéta** (Cameroon)
 p13
 sS'awayName'
 p14

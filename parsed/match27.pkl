@@ -22,11 +22,11 @@ p9
 I27
 sS'homeWiki'
 p10
-V:SVK: **John Bowlby** (Slovakia)
+V:SVK: **Franta** (Slovakia)
 p11
 sS'awayWiki'
 p12
-V:PAR: **Sigmund Freud** (Paraguay)
+V:PAR: **Jana L.** (Paraguay)
 p13
 sS'awayName'
 p14

@@ -3,13 +3,13 @@
 ==== Lowest score in group stage ====
 
 ^ Team                                               ^  Group  ^  GF/GA  ^  GD  ^  Pts  ^
-| :CHI: **Maxwell Jones** (Chile)                    |      H  |  0/0    |    0 |     0 |
-| :HON: **Eng Seong Tan** (Honduras)                 |      H  |  0/0    |    0 |     0 |
-| :SUI: **Arthur Kleinman** (Switzerland)            |      H  |  0/0    |    0 |     0 |
-| :ESP: **Wilfred Bion** (Spain)                     |      H  |  0/0    |    0 |     0 |
-| :POR: **Michael Rutter** (Portugal)                |      G  |  0/0    |    0 |     0 |
-| :CIV: **Richard von Krafft-Ebing** (Côte d'Ivoire) |      G  |  0/0    |    0 |     0 |
-| :PRK: **Frantz Fanon** (Korea DPR)                 |      G  |  0/0    |    0 |     0 |
-| :BRA: **Michael Shepherd** (Brazil)                |      G  |  0/0    |    0 |     0 |
-| :SVK: **John Bowlby** (Slovakia)                   |      F  |  0/0    |    0 |     0 |
-| :NZL: **Elisabeth Kübler-Ross** (New Zealand)      |      F  |  0/0    |    0 |     0 |
+| :CHI: **Hanka** (Chile)                            |      H  |  0/0    |    0 |     0 |
+| :HON: **Žužu** (Honduras)                          |      H  |  0/0    |    0 |     0 |
+| :SUI: **Renata Z.** (Switzerland)                  |      H  |  0/0    |    0 |     0 |
+| :ESP: **Jana V.** (Spain)                          |      H  |  0/0    |    0 |     0 |
+| :POR: **Eva** (Portugal)                           |      G  |  0/0    |    0 |     0 |
+| :CIV: **Martin** (Côte d'Ivoire)                   |      G  |  0/0    |    0 |     0 |
+| :PRK: **Martina** (Korea DPR)                      |      G  |  0/0    |    0 |     0 |
+| :BRA: **Dana** (Brazil)                            |      G  |  0/0    |    0 |     0 |
+| :SVK: **Franta** (Slovakia)                        |      F  |  0/0    |    0 |     0 |
+| :NZL: **Martin** (New Zealand)                     |      F  |  0/0    |    0 |     0 |

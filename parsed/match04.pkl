@@ -22,11 +22,11 @@ p9
 I4
 sS'homeWiki'
 p10
-V:KOR: **Norman Krietman** (Korea Republic)
+V:KOR: **Vlasta** (Korea Republic)
 p11
 sS'awayWiki'
 p12
-V:GRE: **Paul Watzlawick** (Greece)
+V:GRE: **Denisa** (Greece)
 p13
 sS'awayName'
 p14

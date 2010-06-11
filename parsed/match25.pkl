@@ -22,11 +22,11 @@ p9
 I25
 sS'homeWiki'
 p10
-V:NED: **Eve Johnstone** (Netherlands)
+V:NED: **Olina K.** (Netherlands)
 p11
 sS'awayWiki'
 p12
-V:JPN: **Ian Oswald** (Japan)
+V:JPN: **Standa** (Japan)
 p13
 sS'awayName'
 p14

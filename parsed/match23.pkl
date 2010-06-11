@@ -22,11 +22,11 @@ p9
 I23
 sS'homeWiki'
 p10
-V:ENG: **W. H. R. Rivers** (England)
+V:ENG: **Hanka** (England)
 p11
 sS'awayWiki'
 p12
-V:ALG: **Ladislas von Meduna** (Algeria)
+V:ALG: **\u017du\u017eu** (Algeria)
 p13
 sS'awayName'
 p14

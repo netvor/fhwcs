@@ -22,11 +22,11 @@ p9
 I9
 sS'homeWiki'
 p10
-V:NED: **Eve Johnstone** (Netherlands)
+V:NED: **Olina K.** (Netherlands)
 p11
 sS'awayWiki'
 p12
-V:DEN: **John Batty Tuke** (Denmark)
+V:DEN: **Martina** (Denmark)
 p13
 sS'awayName'
 p14

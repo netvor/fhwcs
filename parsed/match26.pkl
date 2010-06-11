@@ -22,11 +22,11 @@ p9
 I26
 sS'homeWiki'
 p10
-V:CMR: **Ivan Pavlov** (Cameroon)
+V:CMR: **Markéta** (Cameroon)
 p11
 sS'awayWiki'
 p12
-V:DEN: **John Batty Tuke** (Denmark)
+V:DEN: **Martina** (Denmark)
 p13
 sS'awayName'
 p14

@@ -22,11 +22,11 @@ p9
 I42
 sS'homeWiki'
 p10
-V:PAR: **Sigmund Freud** (Paraguay)
+V:PAR: **Jana L.** (Paraguay)
 p11
 sS'awayWiki'
 p12
-V:NZL: **Elisabeth Kübler-Ross** (New Zealand)
+V:NZL: **Martin** (New Zealand)
 p13
 sS'awayName'
 p14

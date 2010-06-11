@@ -22,11 +22,11 @@ p9
 I37
 sS'homeWiki'
 p10
-V:SVN: **Carl Gustav Jung** (Slovenia)
+V:SVN: **Eva** (Slovenia)
 p11
 sS'awayWiki'
 p12
-V:ENG: **W. H. R. Rivers** (England)
+V:ENG: **Hanka** (England)
 p13
 sS'awayName'
 p14

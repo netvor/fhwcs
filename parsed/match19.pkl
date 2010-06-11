@@ -22,11 +22,11 @@ p9
 I19
 sS'homeWiki'
 p10
-V:GRE: **Paul Watzlawick** (Greece)
+V:GRE: **Denisa** (Greece)
 p11
 sS'awayWiki'
 p12
-V:NGA: **Eugene Paykel** (Nigeria)
+V:NGA: **Standa** (Nigeria)
 p13
 sS'awayName'
 p14

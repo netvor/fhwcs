@@ -22,11 +22,11 @@ p9
 I13
 sS'homeWiki'
 p10
-V:CIV: **Richard von Krafft-Ebing** (Côte d'Ivoire)
+V:CIV: **Martin** (Côte d'Ivoire)
 p11
 sS'awayWiki'
 p12
-V:POR: **Michael Rutter** (Portugal)
+V:POR: **Eva** (Portugal)
 p13
 sS'awayName'
 p14

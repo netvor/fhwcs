@@ -22,11 +22,11 @@ p9
 I20
 sS'homeWiki'
 p10
-V:ARG: **Aaron Beck** (Argentina)
+V:ARG: **Mí\u0161a** (Argentina)
 p11
 sS'awayWiki'
 p12
-V:KOR: **Norman Krietman** (Korea Republic)
+V:KOR: **Vlasta** (Korea Republic)
 p13
 sS'awayName'
 p14

@@ -22,11 +22,11 @@ p9
 I17
 sS'homeWiki'
 p10
-V:RSA: **Kurt Schneider** (South Africa)
+V:RSA: **Wendy** (South Africa)
 p11
 sS'awayWiki'
 p12
-V:URU: **John Cade** (Uruguay)
+V:URU: **Renata Z.** (Uruguay)
 p13
 sS'awayName'
 p14

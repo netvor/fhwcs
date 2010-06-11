@@ -22,11 +22,11 @@ p9
 I32
 sS'homeWiki'
 p10
-V:ESP: **Wilfred Bion** (Spain)
+V:ESP: **Jana V.** (Spain)
 p11
 sS'awayWiki'
 p12
-V:HON: **Eng Seong Tan** (Honduras)
+V:HON: **\u017du\u017eu** (Honduras)
 p13
 sS'awayName'
 p14

@@ -22,11 +22,11 @@ p9
 I35
 sS'homeWiki'
 p10
-V:NGA: **Eugene Paykel** (Nigeria)
+V:NGA: **Standa** (Nigeria)
 p11
 sS'awayWiki'
 p12
-V:KOR: **Norman Krietman** (Korea Republic)
+V:KOR: **Vlasta** (Korea Republic)
 p13
 sS'awayName'
 p14

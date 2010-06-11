@@ -22,11 +22,11 @@ p9
 I40
 sS'homeWiki'
 p10
-V:AUS: **Sir Aubrey Lewis** (Australia)
+V:AUS: **Petra** (Australia)
 p11
 sS'awayWiki'
 p12
-V:SRB: **Thomas Szasz** (Serbia)
+V:SRB: **Denisa** (Serbia)
 p13
 sS'awayName'
 p14

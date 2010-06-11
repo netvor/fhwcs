@@ -22,11 +22,11 @@ p9
 I15
 sS'homeWiki'
 p10
-V:HON: **Eng Seong Tan** (Honduras)
+V:HON: **\u017du\u017eu** (Honduras)
 p11
 sS'awayWiki'
 p12
-V:CHI: **Maxwell Jones** (Chile)
+V:CHI: **Hanka** (Chile)
 p13
 sS'awayName'
 p14

@@ -22,11 +22,11 @@ p9
 I16
 sS'homeWiki'
 p10
-V:ESP: **Wilfred Bion** (Spain)
+V:ESP: **Jana V.** (Spain)
 p11
 sS'awayWiki'
 p12
-V:SUI: **Arthur Kleinman** (Switzerland)
+V:SUI: **Renata Z.** (Switzerland)
 p13
 sS'awayName'
 p14

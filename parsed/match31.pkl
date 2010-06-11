@@ -22,11 +22,11 @@ p9
 I31
 sS'homeWiki'
 p10
-V:CHI: **Maxwell Jones** (Chile)
+V:CHI: **Hanka** (Chile)
 p11
 sS'awayWiki'
 p12
-V:SUI: **Arthur Kleinman** (Switzerland)
+V:SUI: **Renata Z.** (Switzerland)
 p13
 sS'awayName'
 p14

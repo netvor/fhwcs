@@ -22,11 +22,11 @@ p9
 I45
 sS'homeWiki'
 p10
-V:POR: **Michael Rutter** (Portugal)
+V:POR: **Eva** (Portugal)
 p11
 sS'awayWiki'
 p12
-V:BRA: **Michael Shepherd** (Brazil)
+V:BRA: **Dana** (Brazil)
 p13
 sS'awayName'
 p14

@@ -22,11 +22,11 @@ p9
 I28
 sS'homeWiki'
 p10
-V:ITA: **Alwyn Lishman** (Italy)
+V:ITA: **Jana V.** (Italy)
 p11
 sS'awayWiki'
 p12
-V:NZL: **Elisabeth Kübler-Ross** (New Zealand)
+V:NZL: **Martin** (New Zealand)
 p13
 sS'awayName'
 p14

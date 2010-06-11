@@ -22,11 +22,11 @@ p9
 I2
 sS'homeWiki'
 p10
-V:URU: **John Cade** (Uruguay)
+V:URU: **Renata Z.** (Uruguay)
 p11
 sS'awayWiki'
 p12
-V:FRA: **Niall McLaren** (France)
+V:FRA: **Jana L.** (France)
 p13
 sS'awayName'
 p14

@@ -22,11 +22,11 @@ p9
 I46
 sS'homeWiki'
 p10
-V:PRK: **Frantz Fanon** (Korea DPR)
+V:PRK: **Martina** (Korea DPR)
 p11
 sS'awayWiki'
 p12
-V:CIV: **Richard von Krafft-Ebing** (Côte d'Ivoire)
+V:CIV: **Martin** (Côte d'Ivoire)
 p13
 sS'awayName'
 p14

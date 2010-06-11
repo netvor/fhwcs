@@ -22,11 +22,11 @@ p9
 I34
 sS'homeWiki'
 p10
-V:FRA: **Niall McLaren** (France)
+V:FRA: **Jana L.** (France)
 p11
 sS'awayWiki'
 p12
-V:RSA: **Kurt Schneider** (South Africa)
+V:RSA: **Wendy** (South Africa)
 p13
 sS'awayName'
 p14

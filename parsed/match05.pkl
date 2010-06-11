@@ -22,11 +22,11 @@ p9
 I5
 sS'homeWiki'
 p10
-V:ENG: **W. H. R. Rivers** (England)
+V:ENG: **Hanka** (England)
 p11
 sS'awayWiki'
 p12
-V:USA: **Peter Sifneos** (USA)
+V:USA: **Tomá\u0161** (USA)
 p13
 sS'awayName'
 p14

@@ -21,7 +21,7 @@ p8
 I0
 sS'teamWiki'
 p9
-V:RSA: **Kurt Schneider** (South Africa)
+V:RSA: **Wendy** (South Africa)
 p10
 sS'teamName'
 p11
@@ -58,7 +58,7 @@ I0
 sg8
 I0
 sg9
-V:MEX: **Karl Leonhard** (Mexico)
+V:MEX: **Olina H.** (Mexico)
 p21
 sg11
 S'Mexico'
@@ -89,7 +89,7 @@ I0
 sg8
 I0
 sg9
-V:URU: **John Cade** (Uruguay)
+V:URU: **Renata Z.** (Uruguay)
 p26
 sg11
 S'Uruguay'
@@ -120,7 +120,7 @@ I0
 sg8
 I0
 sg9
-V:FRA: **Niall McLaren** (France)
+V:FRA: **Jana L.** (France)
 p31
 sg11
 S'France'
@@ -152,7 +152,7 @@ I0
 sg8
 I0
 sg9
-V:ARG: **Aaron Beck** (Argentina)
+V:ARG: **Mí\u0161a** (Argentina)
 p37
 sg11
 S'Argentina'
@@ -183,7 +183,7 @@ I0
 sg8
 I0
 sg9
-V:NGA: **Eugene Paykel** (Nigeria)
+V:NGA: **Standa** (Nigeria)
 p42
 sg11
 S'Nigeria'
@@ -214,7 +214,7 @@ I0
 sg8
 I0
 sg9
-V:KOR: **Norman Krietman** (Korea Republic)
+V:KOR: **Vlasta** (Korea Republic)
 p47
 sg11
 S'Korea Republic'
@@ -245,7 +245,7 @@ I0
 sg8
 I0
 sg9
-V:GRE: **Paul Watzlawick** (Greece)
+V:GRE: **Denisa** (Greece)
 p52
 sg11
 S'Greece'
@@ -277,7 +277,7 @@ I0
 sg8
 I0
 sg9
-V:ENG: **W. H. R. Rivers** (England)
+V:ENG: **Hanka** (England)
 p58
 sg11
 S'England'
@@ -308,7 +308,7 @@ I0
 sg8
 I0
 sg9
-V:USA: **Peter Sifneos** (USA)
+V:USA: **Tomá\u0161** (USA)
 p63
 sg11
 S'USA'
@@ -339,7 +339,7 @@ I0
 sg8
 I0
 sg9
-V:ALG: **Ladislas von Meduna** (Algeria)
+V:ALG: **\u017du\u017eu** (Algeria)
 p68
 sg11
 S'Algeria'
@@ -370,7 +370,7 @@ I0
 sg8
 I0
 sg9
-V:SVN: **Carl Gustav Jung** (Slovenia)
+V:SVN: **Eva** (Slovenia)
 p73
 sg11
 S'Slovenia'
@@ -402,7 +402,7 @@ I0
 sg8
 I0
 sg9
-V:GER: **John Nemiah** (Germany)
+V:GER: **Lenny** (Germany)
 p79
 sg11
 S'Germany'
@@ -433,7 +433,7 @@ I0
 sg8
 I0
 sg9
-V:AUS: **Sir Aubrey Lewis** (Australia)
+V:AUS: **Petra** (Australia)
 p84
 sg11
 S'Australia'
@@ -464,7 +464,7 @@ I0
 sg8
 I0
 sg9
-V:SRB: **Thomas Szasz** (Serbia)
+V:SRB: **Denisa** (Serbia)
 p89
 sg11
 S'Serbia'
@@ -495,7 +495,7 @@ I0
 sg8
 I0
 sg9
-V:GHA: **Eugene Bleuler** (Ghana)
+V:GHA: **Franta** (Ghana)
 p94
 sg11
 S'Ghana'
@@ -527,7 +527,7 @@ I0
 sg8
 I0
 sg9
-V:NED: **Eve Johnstone** (Netherlands)
+V:NED: **Olina K.** (Netherlands)
 p100
 sg11
 S'Netherlands'
@@ -558,7 +558,7 @@ I0
 sg8
 I0
 sg9
-V:DEN: **John Batty Tuke** (Denmark)
+V:DEN: **Martina** (Denmark)
 p105
 sg11
 S'Denmark'
@@ -589,7 +589,7 @@ I0
 sg8
 I0
 sg9
-V:JPN: **Ian Oswald** (Japan)
+V:JPN: **Standa** (Japan)
 p110
 sg11
 S'Japan'
@@ -620,7 +620,7 @@ I0
 sg8
 I0
 sg9
-V:CMR: **Ivan Pavlov** (Cameroon)
+V:CMR: **Markéta** (Cameroon)
 p115
 sg11
 S'Cameroon'
@@ -652,7 +652,7 @@ I0
 sg8
 I0
 sg9
-V:ITA: **Alwyn Lishman** (Italy)
+V:ITA: **Jana V.** (Italy)
 p121
 sg11
 S'Italy'
@@ -683,7 +683,7 @@ I0
 sg8
 I0
 sg9
-V:PAR: **Sigmund Freud** (Paraguay)
+V:PAR: **Jana L.** (Paraguay)
 p126
 sg11
 S'Paraguay'
@@ -714,7 +714,7 @@ I0
 sg8
 I0
 sg9
-V:NZL: **Elisabeth Kübler-Ross** (New Zealand)
+V:NZL: **Martin** (New Zealand)
 p131
 sg11
 S'New Zealand'
@@ -745,7 +745,7 @@ I0
 sg8
 I0
 sg9
-V:SVK: **John Bowlby** (Slovakia)
+V:SVK: **Franta** (Slovakia)
 p136
 sg11
 S'Slovakia'
@@ -777,7 +777,7 @@ I0
 sg8
 I0
 sg9
-V:BRA: **Michael Shepherd** (Brazil)
+V:BRA: **Dana** (Brazil)
 p142
 sg11
 S'Brazil'
@@ -808,7 +808,7 @@ I0
 sg8
 I0
 sg9
-V:PRK: **Frantz Fanon** (Korea DPR)
+V:PRK: **Martina** (Korea DPR)
 p147
 sg11
 S'Korea DPR'
@@ -839,7 +839,7 @@ I0
 sg8
 I0
 sg9
-V:CIV: **Richard von Krafft-Ebing** (Côte d'Ivoire)
+V:CIV: **Martin** (Côte d'Ivoire)
 p152
 sg11
 VCôte d'Ivoire
@@ -870,7 +870,7 @@ I0
 sg8
 I0
 sg9
-V:POR: **Michael Rutter** (Portugal)
+V:POR: **Eva** (Portugal)
 p157
 sg11
 S'Portugal'
@@ -902,7 +902,7 @@ I0
 sg8
 I0
 sg9
-V:ESP: **Wilfred Bion** (Spain)
+V:ESP: **Jana V.** (Spain)
 p163
 sg11
 S'Spain'
@@ -933,7 +933,7 @@ I0
 sg8
 I0
 sg9
-V:SUI: **Arthur Kleinman** (Switzerland)
+V:SUI: **Renata Z.** (Switzerland)
 p168
 sg11
 S'Switzerland'
@@ -964,7 +964,7 @@ I0
 sg8
 I0
 sg9
-V:HON: **Eng Seong Tan** (Honduras)
+V:HON: **\u017du\u017eu** (Honduras)
 p173
 sg11
 S'Honduras'
@@ -995,7 +995,7 @@ I0
 sg8
 I0
 sg9
-V:CHI: **Maxwell Jones** (Chile)
+V:CHI: **Hanka** (Chile)
 p178
 sg11
 S'Chile'

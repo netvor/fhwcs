@@ -22,11 +22,11 @@ p9
 I43
 sS'homeWiki'
 p10
-V:DEN: **John Batty Tuke** (Denmark)
+V:DEN: **Martina** (Denmark)
 p11
 sS'awayWiki'
 p12
-V:JPN: **Ian Oswald** (Japan)
+V:JPN: **Standa** (Japan)
 p13
 sS'awayName'
 p14

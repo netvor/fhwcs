@@ -22,11 +22,11 @@ p9
 I41
 sS'homeWiki'
 p10
-V:SVK: **John Bowlby** (Slovakia)
+V:SVK: **Franta** (Slovakia)
 p11
 sS'awayWiki'
 p12
-V:ITA: **Alwyn Lishman** (Italy)
+V:ITA: **Jana V.** (Italy)
 p13
 sS'awayName'
 p14

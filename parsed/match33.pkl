@@ -22,11 +22,11 @@ p9
 I33
 sS'homeWiki'
 p10
-V:MEX: **Karl Leonhard** (Mexico)
+V:MEX: **Olina H.** (Mexico)
 p11
 sS'awayWiki'
 p12
-V:URU: **John Cade** (Uruguay)
+V:URU: **Renata Z.** (Uruguay)
 p13
 sS'awayName'
 p14

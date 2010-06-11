@@ -22,11 +22,11 @@ p9
 I6
 sS'homeWiki'
 p10
-V:ALG: **Ladislas von Meduna** (Algeria)
+V:ALG: **\u017du\u017eu** (Algeria)
 p11
 sS'awayWiki'
 p12
-V:SVN: **Carl Gustav Jung** (Slovenia)
+V:SVN: **Eva** (Slovenia)
 p13
 sS'awayName'
 p14

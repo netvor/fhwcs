@@ -22,11 +22,11 @@ p9
 I11
 sS'homeWiki'
 p10
-V:ITA: **Alwyn Lishman** (Italy)
+V:ITA: **Jana V.** (Italy)
 p11
 sS'awayWiki'
 p12
-V:PAR: **Sigmund Freud** (Paraguay)
+V:PAR: **Jana L.** (Paraguay)
 p13
 sS'awayName'
 p14

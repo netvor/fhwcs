@@ -22,11 +22,11 @@ p9
 I22
 sS'homeWiki'
 p10
-V:SVN: **Carl Gustav Jung** (Slovenia)
+V:SVN: **Eva** (Slovenia)
 p11
 sS'awayWiki'
 p12
-V:USA: **Peter Sifneos** (USA)
+V:USA: **Tomá\u0161** (USA)
 p13
 sS'awayName'
 p14

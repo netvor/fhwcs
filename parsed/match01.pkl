@@ -22,11 +22,11 @@ p9
 I1
 sS'homeWiki'
 p10
-V:RSA: **Kurt Schneider** (South Africa)
+V:RSA: **Wendy** (South Africa)
 p11
 sS'awayWiki'
 p12
-V:MEX: **Karl Leonhard** (Mexico)
+V:MEX: **Olina H.** (Mexico)
 p13
 sS'awayName'
 p14

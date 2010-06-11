@@ -3,51 +3,51 @@
 ===== Calendar =====
 
 ^  No.  ^       When       ^  Match                                                                                     ^   Results   ^     YC/RC     ^        First Goal        ^
-|     1 |    11 June 16:00 | Group A: :RSA: **Kurt Schneider** (South Africa) //vs.// :MEX: **Karl Leonhard** (Mexico)  |             |               |                          |
-|     2 |    11 June 20:30 | Group A: :URU: **John Cade** (Uruguay) //vs.// :FRA: **Niall McLaren** (France)            |             |               |                          |
-|     3 |    12 June 16:00 | Group B: :ARG: **Aaron Beck** (Argentina) //vs.// :NGA: **Eugene Paykel** (Nigeria)        |             |               |                          |
-|     4 |    12 June 13:30 | Group B: :KOR: **Norman Krietman** (Korea Republic) //vs.// :GRE: **Paul Watzlawick** (Greece) |             |               |                          |
-|     5 |    12 June 20:30 | Group C: :ENG: **W. H. R. Rivers** (England) //vs.// :USA: **Peter Sifneos** (USA)         |             |               |                          |
-|     6 |    13 June 13:30 | Group C: :ALG: **Ladislas von Meduna** (Algeria) //vs.// :SVN: **Carl Gustav Jung** (Slovenia) |             |               |                          |
-|     7 |    13 June 20:30 | Group D: :GER: **John Nemiah** (Germany) //vs.// :AUS: **Sir Aubrey Lewis** (Australia)    |             |               |                          |
-|     8 |    13 June 16:00 | Group D: :SRB: **Thomas Szasz** (Serbia) //vs.// :GHA: **Eugene Bleuler** (Ghana)          |             |               |                          |
-|     9 |    14 June 13:30 | Group E: :NED: **Eve Johnstone** (Netherlands) //vs.// :DEN: **John Batty Tuke** (Denmark) |             |               |                          |
-|    10 |    14 June 16:00 | Group E: :JPN: **Ian Oswald** (Japan) //vs.// :CMR: **Ivan Pavlov** (Cameroon)             |             |               |                          |
-|    11 |    14 June 20:30 | Group F: :ITA: **Alwyn Lishman** (Italy) //vs.// :PAR: **Sigmund Freud** (Paraguay)        |             |               |                          |
-|    12 |    15 June 13:30 | Group F: :NZL: **Elisabeth Kübler-Ross** (New Zealand) //vs.// :SVK: **John Bowlby** (Slovakia) |             |               |                          |
-|    13 |    15 June 16:00 | Group G: :CIV: **Richard von Krafft-Ebing** (Côte d'Ivoire) //vs.// :POR: **Michael Rutter** (Portugal) |             |               |                          |
-|    14 |    15 June 20:30 | Group G: :BRA: **Michael Shepherd** (Brazil) //vs.// :PRK: **Frantz Fanon** (Korea DPR)    |             |               |                          |
-|    15 |    16 June 13:30 | Group H: :HON: **Eng Seong Tan** (Honduras) //vs.// :CHI: **Maxwell Jones** (Chile)        |             |               |                          |
-|    16 |    16 June 16:00 | Group H: :ESP: **Wilfred Bion** (Spain) //vs.// :SUI: **Arthur Kleinman** (Switzerland)    |             |               |                          |
-|    17 |    16 June 20:30 | Group A: :RSA: **Kurt Schneider** (South Africa) //vs.// :URU: **John Cade** (Uruguay)     |             |               |                          |
-|    18 |    17 June 20:30 | Group A: :FRA: **Niall McLaren** (France) //vs.// :MEX: **Karl Leonhard** (Mexico)         |             |               |                          |
-|    19 |    17 June 16:00 | Group B: :GRE: **Paul Watzlawick** (Greece) //vs.// :NGA: **Eugene Paykel** (Nigeria)      |             |               |                          |
-|    20 |    17 June 13:30 | Group B: :ARG: **Aaron Beck** (Argentina) //vs.// :KOR: **Norman Krietman** (Korea Republic) |             |               |                          |
-|    21 |    18 June 13:30 | Group D: :GER: **John Nemiah** (Germany) //vs.// :SRB: **Thomas Szasz** (Serbia)           |             |               |                          |
-|    22 |    18 June 16:00 | Group C: :SVN: **Carl Gustav Jung** (Slovenia) //vs.// :USA: **Peter Sifneos** (USA)       |             |               |                          |
-|    23 |    18 June 20:30 | Group C: :ENG: **W. H. R. Rivers** (England) //vs.// :ALG: **Ladislas von Meduna** (Algeria) |             |               |                          |
-|    24 |    19 June 16:00 | Group D: :GHA: **Eugene Bleuler** (Ghana) //vs.// :AUS: **Sir Aubrey Lewis** (Australia)   |             |               |                          |
-|    25 |    19 June 13:30 | Group E: :NED: **Eve Johnstone** (Netherlands) //vs.// :JPN: **Ian Oswald** (Japan)        |             |               |                          |
-|    26 |    19 June 20:30 | Group E: :CMR: **Ivan Pavlov** (Cameroon) //vs.// :DEN: **John Batty Tuke** (Denmark)      |             |               |                          |
-|    27 |    20 June 13:30 | Group F: :SVK: **John Bowlby** (Slovakia) //vs.// :PAR: **Sigmund Freud** (Paraguay)       |             |               |                          |
-|    28 |    20 June 16:00 | Group F: :ITA: **Alwyn Lishman** (Italy) //vs.// :NZL: **Elisabeth Kübler-Ross** (New Zealand) |             |               |                          |
-|    29 |    20 June 20:30 | Group G: :BRA: **Michael Shepherd** (Brazil) //vs.// :CIV: **Richard von Krafft-Ebing** (Côte d'Ivoire) |             |               |                          |
-|    30 |    21 June 13:30 | Group G: :POR: **Michael Rutter** (Portugal) //vs.// :PRK: **Frantz Fanon** (Korea DPR)    |             |               |                          |
-|    31 |    21 June 16:00 | Group H: :CHI: **Maxwell Jones** (Chile) //vs.// :SUI: **Arthur Kleinman** (Switzerland)   |             |               |                          |
-|    32 |    21 June 20:30 | Group H: :ESP: **Wilfred Bion** (Spain) //vs.// :HON: **Eng Seong Tan** (Honduras)         |             |               |                          |
-|    33 |    22 June 16:00 | Group A: :MEX: **Karl Leonhard** (Mexico) //vs.// :URU: **John Cade** (Uruguay)            |             |               |                          |
-|    34 |    22 June 16:00 | Group A: :FRA: **Niall McLaren** (France) //vs.// :RSA: **Kurt Schneider** (South Africa)  |             |               |                          |
-|    35 |    22 June 20:30 | Group B: :NGA: **Eugene Paykel** (Nigeria) //vs.// :KOR: **Norman Krietman** (Korea Republic) |             |               |                          |
-|    36 |    22 June 20:30 | Group B: :GRE: **Paul Watzlawick** (Greece) //vs.// :ARG: **Aaron Beck** (Argentina)       |             |               |                          |
-|    37 |    23 June 16:00 | Group C: :SVN: **Carl Gustav Jung** (Slovenia) //vs.// :ENG: **W. H. R. Rivers** (England) |             |               |                          |
-|    38 |    23 June 16:00 | Group C: :USA: **Peter Sifneos** (USA) //vs.// :ALG: **Ladislas von Meduna** (Algeria)     |             |               |                          |
-|    39 |    23 June 20:30 | Group D: :GHA: **Eugene Bleuler** (Ghana) //vs.// :GER: **John Nemiah** (Germany)          |             |               |                          |
-|    40 |    23 June 20:30 | Group D: :AUS: **Sir Aubrey Lewis** (Australia) //vs.// :SRB: **Thomas Szasz** (Serbia)    |             |               |                          |
-|    41 |    24 June 16:00 | Group F: :SVK: **John Bowlby** (Slovakia) //vs.// :ITA: **Alwyn Lishman** (Italy)          |             |               |                          |
-|    42 |    24 June 16:00 | Group F: :PAR: **Sigmund Freud** (Paraguay) //vs.// :NZL: **Elisabeth Kübler-Ross** (New Zealand) |             |               |                          |
-|    43 |    24 June 20:30 | Group E: :DEN: **John Batty Tuke** (Denmark) //vs.// :JPN: **Ian Oswald** (Japan)          |             |               |                          |
-|    44 |    24 June 20:30 | Group E: :CMR: **Ivan Pavlov** (Cameroon) //vs.// :NED: **Eve Johnstone** (Netherlands)    |             |               |                          |
-|    45 |    25 June 16:00 | Group G: :POR: **Michael Rutter** (Portugal) //vs.// :BRA: **Michael Shepherd** (Brazil)   |             |               |                          |
-|    46 |    25 June 16:00 | Group G: :PRK: **Frantz Fanon** (Korea DPR) //vs.// :CIV: **Richard von Krafft-Ebing** (Côte d'Ivoire) |             |               |                          |
-|    47 |    25 June 20:30 | Group H: :CHI: **Maxwell Jones** (Chile) //vs.// :ESP: **Wilfred Bion** (Spain)            |             |               |                          |
-|    48 |    25 June 20:30 | Group H: :SUI: **Arthur Kleinman** (Switzerland) //vs.// :HON: **Eng Seong Tan** (Honduras) |             |               |                          |
+|     1 |    11 June 16:00 | Group A: :RSA: **Wendy** (South Africa) //vs.// :MEX: **Olina H.** (Mexico)                |             |               |                          |
+|     2 |    11 June 20:30 | Group A: :URU: **Renata Z.** (Uruguay) //vs.// :FRA: **Jana L.** (France)                  |             |               |                          |
+|     3 |    12 June 16:00 | Group B: :ARG: **Míša** (Argentina) //vs.// :NGA: **Standa** (Nigeria)                     |             |               |                          |
+|     4 |    12 June 13:30 | Group B: :KOR: **Vlasta** (Korea Republic) //vs.// :GRE: **Denisa** (Greece)               |             |               |                          |
+|     5 |    12 June 20:30 | Group C: :ENG: **Hanka** (England) //vs.// :USA: **Tomáš** (USA)                           |             |               |                          |
+|     6 |    13 June 13:30 | Group C: :ALG: **Žužu** (Algeria) //vs.// :SVN: **Eva** (Slovenia)                         |             |               |                          |
+|     7 |    13 June 20:30 | Group D: :GER: **Lenny** (Germany) //vs.// :AUS: **Petra** (Australia)                     |             |               |                          |
+|     8 |    13 June 16:00 | Group D: :SRB: **Denisa** (Serbia) //vs.// :GHA: **Franta** (Ghana)                        |             |               |                          |
+|     9 |    14 June 13:30 | Group E: :NED: **Olina K.** (Netherlands) //vs.// :DEN: **Martina** (Denmark)              |             |               |                          |
+|    10 |    14 June 16:00 | Group E: :JPN: **Standa** (Japan) //vs.// :CMR: **Markéta** (Cameroon)                     |             |               |                          |
+|    11 |    14 June 20:30 | Group F: :ITA: **Jana V.** (Italy) //vs.// :PAR: **Jana L.** (Paraguay)                    |             |               |                          |
+|    12 |    15 June 13:30 | Group F: :NZL: **Martin** (New Zealand) //vs.// :SVK: **Franta** (Slovakia)                |             |               |                          |
+|    13 |    15 June 16:00 | Group G: :CIV: **Martin** (Côte d'Ivoire) //vs.// :POR: **Eva** (Portugal)                 |             |               |                          |
+|    14 |    15 June 20:30 | Group G: :BRA: **Dana** (Brazil) //vs.// :PRK: **Martina** (Korea DPR)                     |             |               |                          |
+|    15 |    16 June 13:30 | Group H: :HON: **Žužu** (Honduras) //vs.// :CHI: **Hanka** (Chile)                         |             |               |                          |
+|    16 |    16 June 16:00 | Group H: :ESP: **Jana V.** (Spain) //vs.// :SUI: **Renata Z.** (Switzerland)               |             |               |                          |
+|    17 |    16 June 20:30 | Group A: :RSA: **Wendy** (South Africa) //vs.// :URU: **Renata Z.** (Uruguay)              |             |               |                          |
+|    18 |    17 June 20:30 | Group A: :FRA: **Jana L.** (France) //vs.// :MEX: **Olina H.** (Mexico)                    |             |               |                          |
+|    19 |    17 June 16:00 | Group B: :GRE: **Denisa** (Greece) //vs.// :NGA: **Standa** (Nigeria)                      |             |               |                          |
+|    20 |    17 June 13:30 | Group B: :ARG: **Míša** (Argentina) //vs.// :KOR: **Vlasta** (Korea Republic)              |             |               |                          |
+|    21 |    18 June 13:30 | Group D: :GER: **Lenny** (Germany) //vs.// :SRB: **Denisa** (Serbia)                       |             |               |                          |
+|    22 |    18 June 16:00 | Group C: :SVN: **Eva** (Slovenia) //vs.// :USA: **Tomáš** (USA)                            |             |               |                          |
+|    23 |    18 June 20:30 | Group C: :ENG: **Hanka** (England) //vs.// :ALG: **Žužu** (Algeria)                        |             |               |                          |
+|    24 |    19 June 16:00 | Group D: :GHA: **Franta** (Ghana) //vs.// :AUS: **Petra** (Australia)                      |             |               |                          |
+|    25 |    19 June 13:30 | Group E: :NED: **Olina K.** (Netherlands) //vs.// :JPN: **Standa** (Japan)                 |             |               |                          |
+|    26 |    19 June 20:30 | Group E: :CMR: **Markéta** (Cameroon) //vs.// :DEN: **Martina** (Denmark)                  |             |               |                          |
+|    27 |    20 June 13:30 | Group F: :SVK: **Franta** (Slovakia) //vs.// :PAR: **Jana L.** (Paraguay)                  |             |               |                          |
+|    28 |    20 June 16:00 | Group F: :ITA: **Jana V.** (Italy) //vs.// :NZL: **Martin** (New Zealand)                  |             |               |                          |
+|    29 |    20 June 20:30 | Group G: :BRA: **Dana** (Brazil) //vs.// :CIV: **Martin** (Côte d'Ivoire)                  |             |               |                          |
+|    30 |    21 June 13:30 | Group G: :POR: **Eva** (Portugal) //vs.// :PRK: **Martina** (Korea DPR)                    |             |               |                          |
+|    31 |    21 June 16:00 | Group H: :CHI: **Hanka** (Chile) //vs.// :SUI: **Renata Z.** (Switzerland)                 |             |               |                          |
+|    32 |    21 June 20:30 | Group H: :ESP: **Jana V.** (Spain) //vs.// :HON: **Žužu** (Honduras)                       |             |               |                          |
+|    33 |    22 June 16:00 | Group A: :MEX: **Olina H.** (Mexico) //vs.// :URU: **Renata Z.** (Uruguay)                 |             |               |                          |
+|    34 |    22 June 16:00 | Group A: :FRA: **Jana L.** (France) //vs.// :RSA: **Wendy** (South Africa)                 |             |               |                          |
+|    35 |    22 June 20:30 | Group B: :NGA: **Standa** (Nigeria) //vs.// :KOR: **Vlasta** (Korea Republic)              |             |               |                          |
+|    36 |    22 June 20:30 | Group B: :GRE: **Denisa** (Greece) //vs.// :ARG: **Míša** (Argentina)                      |             |               |                          |
+|    37 |    23 June 16:00 | Group C: :SVN: **Eva** (Slovenia) //vs.// :ENG: **Hanka** (England)                        |             |               |                          |
+|    38 |    23 June 16:00 | Group C: :USA: **Tomáš** (USA) //vs.// :ALG: **Žužu** (Algeria)                            |             |               |                          |
+|    39 |    23 June 20:30 | Group D: :GHA: **Franta** (Ghana) //vs.// :GER: **Lenny** (Germany)                        |             |               |                          |
+|    40 |    23 June 20:30 | Group D: :AUS: **Petra** (Australia) //vs.// :SRB: **Denisa** (Serbia)                     |             |               |                          |
+|    41 |    24 June 16:00 | Group F: :SVK: **Franta** (Slovakia) //vs.// :ITA: **Jana V.** (Italy)                     |             |               |                          |
+|    42 |    24 June 16:00 | Group F: :PAR: **Jana L.** (Paraguay) //vs.// :NZL: **Martin** (New Zealand)               |             |               |                          |
+|    43 |    24 June 20:30 | Group E: :DEN: **Martina** (Denmark) //vs.// :JPN: **Standa** (Japan)                      |             |               |                          |
+|    44 |    24 June 20:30 | Group E: :CMR: **Markéta** (Cameroon) //vs.// :NED: **Olina K.** (Netherlands)             |             |               |                          |
+|    45 |    25 June 16:00 | Group G: :POR: **Eva** (Portugal) //vs.// :BRA: **Dana** (Brazil)                          |             |               |                          |
+|    46 |    25 June 16:00 | Group G: :PRK: **Martina** (Korea DPR) //vs.// :CIV: **Martin** (Côte d'Ivoire)            |             |               |                          |
+|    47 |    25 June 20:30 | Group H: :CHI: **Hanka** (Chile) //vs.// :ESP: **Jana V.** (Spain)                         |             |               |                          |
+|    48 |    25 June 20:30 | Group H: :SUI: **Renata Z.** (Switzerland) //vs.// :HON: **Žužu** (Honduras)               |             |               |                          |

@@ -22,11 +22,11 @@ p9
 I14
 sS'homeWiki'
 p10
-V:BRA: **Michael Shepherd** (Brazil)
+V:BRA: **Dana** (Brazil)
 p11
 sS'awayWiki'
 p12
-V:PRK: **Frantz Fanon** (Korea DPR)
+V:PRK: **Martina** (Korea DPR)
 p13
 sS'awayName'
 p14

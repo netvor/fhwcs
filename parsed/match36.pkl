@@ -22,11 +22,11 @@ p9
 I36
 sS'homeWiki'
 p10
-V:GRE: **Paul Watzlawick** (Greece)
+V:GRE: **Denisa** (Greece)
 p11
 sS'awayWiki'
 p12
-V:ARG: **Aaron Beck** (Argentina)
+V:ARG: **Mí\u0161a** (Argentina)
 p13
 sS'awayName'
 p14

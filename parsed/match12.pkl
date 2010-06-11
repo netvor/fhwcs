@@ -22,11 +22,11 @@ p9
 I12
 sS'homeWiki'
 p10
-V:NZL: **Elisabeth Kübler-Ross** (New Zealand)
+V:NZL: **Martin** (New Zealand)
 p11
 sS'awayWiki'
 p12
-V:SVK: **John Bowlby** (Slovakia)
+V:SVK: **Franta** (Slovakia)
 p13
 sS'awayName'
 p14

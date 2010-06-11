@@ -22,11 +22,11 @@ p9
 I3
 sS'homeWiki'
 p10
-V:ARG: **Aaron Beck** (Argentina)
+V:ARG: **Mí\u0161a** (Argentina)
 p11
 sS'awayWiki'
 p12
-V:NGA: **Eugene Paykel** (Nigeria)
+V:NGA: **Standa** (Nigeria)
 p13
 sS'awayName'
 p14
