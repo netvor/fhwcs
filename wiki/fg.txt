@@ -6,8 +6,10 @@
 | :ENG: **Hanka** (England)                          |       4' |
 | :ARG: **Míša** (Argentina)                         |       6' |
 | :KOR: **Vlasta** (Korea Republic)                  |       7' |
+| :GER: **Lenny** (Germany)                          |       8' |
+| :GER: **Lenny** (Germany)                          |      26' |
 | :USA: **Tomáš** (USA)                              |      40' |
 | :KOR: **Vlasta** (Korea Republic)                  |      52' |
 | :RSA: **Wendy** (South Africa)                     |      55' |
-| :MEX: **Olina H.** (Mexico)                        |      79' |
-| :SVN: **Eva** (Slovenia)                           |      79' |
+| :GER: **Lenny** (Germany)                          |      68' |
+| :GER: **Lenny** (Germany)                          |      70' |
