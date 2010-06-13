@@ -35,11 +35,11 @@
 | :MEX: **Sue** (Mexico)                             |              1 |
 | :ENG: **George** (England)                         |              1 |
 | :USA: **Harmen** (USA)                             |              1 |
+| :SVN: **Jens** (Slovenia)                          |              1 |
 | :RSA: **Scott** (South Africa)                     |              1 |
 | :GRE: **Paul** (Greece)                            |              0 |
 | :NGA: **Pippa** (Nigeria)                          |              0 |
-| :FRA: **Bas** (France)                             |              0 |
-| :URU: **AJ** (Uruguay)                             |              0 |
+| :ALG: **Martine** (Algeria)                        |              0 |
 
 
 ===== Fastest goal =====
@@ -52,6 +52,7 @@
 | :KOR: **Rudy** (Korea Republic)                    |      52' |
 | :RSA: **Scott** (South Africa)                     |      55' |
 | :MEX: **Sue** (Mexico)                             |      79' |
+| :SVN: **Jens** (Slovenia)                          |      79' |
 
 
 ===== Most goals per game =====
@@ -60,6 +61,7 @@
 |     5 |  12 June - 20:30 | Group C: :ENG: **George** (England) //vs.// :USA: **Harmen** (USA)                         | **2** (1:1)    |
 |     4 |  12 June - 13:30 | Group B: :KOR: **Rudy** (Korea Republic) //vs.// :GRE: **Paul** (Greece)                   | **2** (2:0)    |
 |     1 |  11 June - 16:00 | Group A: :RSA: **Scott** (South Africa) //vs.// :MEX: **Sue** (Mexico)                     | **2** (1:1)    |
+|     6 |  13 June - 13:30 | Group C: :ALG: **Martine** (Algeria) //vs.// :SVN: **Jens** (Slovenia)                     | **1** (0:1)    |
 |     3 |  12 June - 16:00 | Group B: :ARG: **George** (Argentina) //vs.// :NGA: **Pippa** (Nigeria)                    | **1** (1:0)    |
 |     2 |  11 June - 20:30 | Group A: :URU: **AJ** (Uruguay) //vs.// :FRA: **Bas** (France)                             | **0** (0:0)    |
 
@@ -69,6 +71,7 @@
 ^  No.  ^       When       ^  Match                                                                                     ^  Yellow cards  ^  Direct red cards  ^      Total      ^
 |     5 |  12 June - 20:30 | Group C: :ENG: **George** (England) //vs.// :USA: **Harmen** (USA)                         | 6 (3:3)        | 0 (0:0)            | **6** (3:3)     |
 |     2 |  11 June - 20:30 | Group A: :URU: **AJ** (Uruguay) //vs.// :FRA: **Bas** (France)                             | 6 (3:3)        | 0 (0:0)            | **6** (3:3)     |
+|     6 |  13 June - 13:30 | Group C: :ALG: **Martine** (Algeria) //vs.// :SVN: **Jens** (Slovenia)                     | 4 (2:2)        | 0 (0:0)            | **4** (2:2)     |
 |     1 |  11 June - 16:00 | Group A: :RSA: **Scott** (South Africa) //vs.// :MEX: **Sue** (Mexico)                     | 4 (2:2)        | 0 (0:0)            | **4** (2:2)     |
 |     3 |  12 June - 16:00 | Group B: :ARG: **George** (Argentina) //vs.// :NGA: **Pippa** (Nigeria)                    | 2 (1:1)        | 0 (0:0)            | **2** (1:1)     |
 |     4 |  12 June - 13:30 | Group B: :KOR: **Rudy** (Korea Republic) //vs.// :GRE: **Paul** (Greece)                   | 1 (0:1)        | 0 (0:0)            | **1** (0:1)     |
@@ -82,11 +85,11 @@
 | :URU: **AJ** (Uruguay)                             |              3 |                  0 |   **3** |
 | :USA: **Harmen** (USA)                             |              3 |                  0 |   **3** |
 | :MEX: **Sue** (Mexico)                             |              2 |                  0 |   **2** |
+| :ALG: **Martine** (Algeria)                        |              2 |                  0 |   **2** |
+| :SVN: **Jens** (Slovenia)                          |              2 |                  0 |   **2** |
 | :RSA: **Scott** (South Africa)                     |              2 |                  0 |   **2** |
 | :ARG: **George** (Argentina)                       |              1 |                  0 |   **1** |
 | :GRE: **Paul** (Greece)                            |              1 |                  0 |   **1** |
-| :NGA: **Pippa** (Nigeria)                          |              1 |                  0 |   **1** |
-| :KOR: **Rudy** (Korea Republic)                    |              0 |                  0 |   **0** |
 
 
 ==== Lowest score in group stage ====
@@ -112,7 +115,7 @@
 |     3 |  12 June - 16:00 | Group B: :ARG: **George** (Argentina) //vs.// :NGA: **Pippa** (Nigeria)                    |        1:0  |  1/0:1/0 -- total: **2**  | **6'** -- :ARG: **George** (Argentina) |
 |     4 |  12 June - 13:30 | Group B: :KOR: **Rudy** (Korea Republic) //vs.// :GRE: **Paul** (Greece)                   |        2:0  |  0/0:1/0 -- total: **1**  | **7'** -- :KOR: **Rudy** (Korea Republic) |
 |     5 |  12 June - 20:30 | Group C: :ENG: **George** (England) //vs.// :USA: **Harmen** (USA)                         |        1:1  |  3/0:3/0 -- total: **6**  | **4'** -- :ENG: **George** (England) |
-|     6 |  13 June - 13:30 | Group C: :ALG: **Martine** (Algeria) //vs.// :SVN: **Jens** (Slovenia)                     |             |               |                          |
+|     6 |  13 June - 13:30 | Group C: :ALG: **Martine** (Algeria) //vs.// :SVN: **Jens** (Slovenia)                     |        0:1  |  2/0:2/0 -- total: **4**  | **79'** -- :SVN: **Jens** (Slovenia) |
 |     7 |  13 June - 20:30 | Group D: :GER: **Harmen** (Germany) //vs.// :AUS: **Sonia** (Australia)                    |             |               |                          |
 |     8 |  13 June - 16:00 | Group D: :SRB: **Olivia** (Serbia) //vs.// :GHA: **AJ** (Ghana)                            |             |               |                          |
 |     9 |  14 June - 13:30 | Group E: :NED: **Floris** (Netherlands) //vs.// :DEN: **Bas** (Denmark)                    |             |               |                          |

@@ -10,3 +10,4 @@
 | :KOR: **Rudy** (Korea Republic)                    |      52' |
 | :RSA: **Scott** (South Africa)                     |      55' |
 | :MEX: **Sue** (Mexico)                             |      79' |
+| :SVN: **Jens** (Slovenia)                          |      79' |

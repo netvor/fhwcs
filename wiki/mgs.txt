@@ -8,8 +8,8 @@
 | :MEX: **Sue** (Mexico)                             |              1 |
 | :ENG: **George** (England)                         |              1 |
 | :USA: **Harmen** (USA)                             |              1 |
+| :SVN: **Jens** (Slovenia)                          |              1 |
 | :RSA: **Scott** (South Africa)                     |              1 |
 | :GRE: **Paul** (Greece)                            |              0 |
 | :NGA: **Pippa** (Nigeria)                          |              0 |
-| :FRA: **Bas** (France)                             |              0 |
-| :URU: **AJ** (Uruguay)                             |              0 |
+| :ALG: **Martine** (Algeria)                        |              0 |
