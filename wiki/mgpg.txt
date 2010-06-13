@@ -1,0 +1,10 @@
+
+
+===== Most goals per game =====
+
+^  No.  ^       When       ^  Match                                                                                     ^  Goals scored  ^
+|     5 |    12 June 20:30 | Group C: :ENG: **Hanka** (England) //vs.// :USA: **Tomáš** (USA)                           | **2** (1:1)    |
+|     4 |    12 June 13:30 | Group B: :KOR: **Vlasta** (Korea Republic) //vs.// :GRE: **Denisa** (Greece)               | **2** (2:0)    |
+|     1 |    11 June 16:00 | Group A: :RSA: **Wendy** (South Africa) //vs.// :MEX: **Olina H.** (Mexico)                | **2** (1:1)    |
+|     3 |    12 June 16:00 | Group B: :ARG: **Míša** (Argentina) //vs.// :NGA: **Standa** (Nigeria)                     | **1** (1:0)    |
+|     2 |    11 June 20:30 | Group A: :URU: **Renata Z.** (Uruguay) //vs.// :FRA: **Jana L.** (France)                  | **0** (0:0)    |

@@ -12,32 +12,61 @@ S'MEX'
 p5
 sS'hasResults'
 p6
-I00
-sS'when'
+I01
+sS'awayCards'
 p7
-V11 June 16:00
-p8
-sS'number'
+(lp8
+I2
+aI0
+aI2
+asS'when'
 p9
-I1
-sS'homeWiki'
+V11 June 16:00
 p10
-V:RSA: **Wendy** (South Africa)
+sS'number'
 p11
-sS'awayWiki'
+I1
+sS'awayGoals'
 p12
-V:MEX: **Olina H.** (Mexico)
-p13
-sS'awayName'
+(lp13
+I79
+asS'homeWiki'
 p14
-S'Mexico'
+V:RSA: **Wendy** (South Africa)
 p15
-sS'homeName'
+sS'awayWiki'
 p16
-S'South Africa'
+V:MEX: **Olina H.** (Mexico)
 p17
-sS'homeCode'
+sS'awayName'
 p18
-S'RSA'
+S'Mexico'
 p19
-sb.
+sS'homeName'
+p20
+S'South Africa'
+p21
+sS'goals'
+p22
+(lp23
+(I55
+g15
+tp24
+a(I79
+g17
+tp25
+asS'homeGoals'
+p26
+(lp27
+I55
+asS'homeCode'
+p28
+S'RSA'
+p29
+sS'homeCards'
+p30
+(lp31
+I2
+aI0
+aI2
+asb.

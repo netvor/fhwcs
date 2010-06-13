@@ -12,32 +12,61 @@ S'GRE'
 p5
 sS'hasResults'
 p6
-I00
-sS'when'
+I01
+sS'awayCards'
 p7
-V12 June 13:30
-p8
-sS'number'
+(lp8
+I1
+aI0
+aI1
+asS'when'
 p9
-I4
-sS'homeWiki'
+V12 June 13:30
 p10
-V:KOR: **Vlasta** (Korea Republic)
+sS'number'
 p11
-sS'awayWiki'
+I4
+sS'awayGoals'
 p12
-V:GRE: **Denisa** (Greece)
-p13
-sS'awayName'
+(lp13
+sS'homeWiki'
 p14
-S'Greece'
+V:KOR: **Vlasta** (Korea Republic)
 p15
-sS'homeName'
+sS'awayWiki'
 p16
-S'Korea Republic'
+V:GRE: **Denisa** (Greece)
 p17
-sS'homeCode'
+sS'awayName'
 p18
-S'KOR'
+S'Greece'
 p19
-sb.
+sS'homeName'
+p20
+S'Korea Republic'
+p21
+sS'goals'
+p22
+(lp23
+(I7
+g15
+tp24
+a(I52
+g15
+tp25
+asS'homeGoals'
+p26
+(lp27
+I7
+aI52
+asS'homeCode'
+p28
+S'KOR'
+p29
+sS'homeCards'
+p30
+(lp31
+I0
+aI0
+aI0
+asb.

@@ -1,0 +1,10 @@
+
+
+===== Most yellow cards per game =====
+
+^  No.  ^       When       ^  Match                                                                                     ^  Yellow cards  ^  Direct red cards  ^      Total      ^
+|     5 |    12 June 20:30 | Group C: :ENG: **Hanka** (England) //vs.// :USA: **Tomáš** (USA)                           | 6 (3:3)        | 0 (0:0)            | **6** (3:3)     |
+|     2 |    11 June 20:30 | Group A: :URU: **Renata Z.** (Uruguay) //vs.// :FRA: **Jana L.** (France)                  | 6 (3:3)        | 0 (0:0)            | **6** (3:3)     |
+|     1 |    11 June 16:00 | Group A: :RSA: **Wendy** (South Africa) //vs.// :MEX: **Olina H.** (Mexico)                | 4 (2:2)        | 0 (0:0)            | **4** (2:2)     |
+|     3 |    12 June 16:00 | Group B: :ARG: **Míša** (Argentina) //vs.// :NGA: **Standa** (Nigeria)                     | 2 (1:1)        | 0 (0:0)            | **2** (1:1)     |
+|     4 |    12 June 13:30 | Group B: :KOR: **Vlasta** (Korea Republic) //vs.// :GRE: **Denisa** (Greece)               | 1 (0:1)        | 0 (0:0)            | **1** (0:1)     |

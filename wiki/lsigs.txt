@@ -3,6 +3,9 @@
 ==== Lowest score in group stage ====
 
 ^ Team                                               ^  Group  ^  GF/GA  ^  GD  ^  Pts  ^
+| :GRE: **Denisa** (Greece)                          |      B  |  0/2    |   -2 |     0 |
+| :ALG: **Žužu** (Algeria)                           |      C  |  0/1    |   -1 |     0 |
+| :NGA: **Standa** (Nigeria)                         |      B  |  0/1    |   -1 |     0 |
 | :CHI: **Hanka** (Chile)                            |      H  |  0/0    |    0 |     0 |
 | :HON: **Žužu** (Honduras)                          |      H  |  0/0    |    0 |     0 |
 | :SUI: **Renata Z.** (Switzerland)                  |      H  |  0/0    |    0 |     0 |
@@ -10,6 +13,3 @@
 | :POR: **Eva** (Portugal)                           |      G  |  0/0    |    0 |     0 |
 | :CIV: **Martin** (Côte d'Ivoire)                   |      G  |  0/0    |    0 |     0 |
 | :PRK: **Martina** (Korea DPR)                      |      G  |  0/0    |    0 |     0 |
-| :BRA: **Dana** (Brazil)                            |      G  |  0/0    |    0 |     0 |
-| :SVK: **Franta** (Slovakia)                        |      F  |  0/0    |    0 |     0 |
-| :NZL: **Martin** (New Zealand)                     |      F  |  0/0    |    0 |     0 |
