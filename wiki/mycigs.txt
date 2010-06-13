@@ -8,8 +8,8 @@
 | :URU: **Renata Z.** (Uruguay)                      |              3 |                  0 |   **3** |
 | :ENG: **Hanka** (England)                          |              3 |                  0 |   **3** |
 | :MEX: **Olina H.** (Mexico)                        |              2 |                  0 |   **2** |
+| :ALG: **Žužu** (Algeria)                           |              2 |                  0 |   **2** |
+| :SVN: **Eva** (Slovenia)                           |              2 |                  0 |   **2** |
 | :RSA: **Wendy** (South Africa)                     |              2 |                  0 |   **2** |
 | :GRE: **Denisa** (Greece)                          |              1 |                  0 |   **1** |
 | :NGA: **Standa** (Nigeria)                         |              1 |                  0 |   **1** |
-| :ARG: **Míša** (Argentina)                         |              1 |                  0 |   **1** |
-| :KOR: **Vlasta** (Korea Republic)                  |              0 |                  0 |   **0** |

@@ -12,32 +12,57 @@ S'SVN'
 p5
 sS'hasResults'
 p6
-I00
-sS'when'
+I01
+sS'awayCards'
 p7
-V13 June 13:30
-p8
-sS'number'
+(lp8
+I2
+aI0
+aI2
+asS'when'
 p9
-I6
-sS'homeWiki'
+V13 June 13:30
 p10
-V:ALG: **\u017du\u017eu** (Algeria)
+sS'number'
 p11
-sS'awayWiki'
+I6
+sS'awayGoals'
 p12
-V:SVN: **Eva** (Slovenia)
-p13
-sS'awayName'
+(lp13
+I79
+asS'homeWiki'
 p14
-S'Slovenia'
+V:ALG: **\u017du\u017eu** (Algeria)
 p15
-sS'homeName'
+sS'awayWiki'
 p16
-S'Algeria'
+V:SVN: **Eva** (Slovenia)
 p17
-sS'homeCode'
+sS'awayName'
 p18
-S'ALG'
+S'Slovenia'
 p19
-sb.
+sS'homeName'
+p20
+S'Algeria'
+p21
+sS'goals'
+p22
+(lp23
+(I79
+g17
+tp24
+asS'homeGoals'
+p25
+(lp26
+sS'homeCode'
+p27
+S'ALG'
+p28
+sS'homeCards'
+p29
+(lp30
+I2
+aI0
+aI2
+asb.
