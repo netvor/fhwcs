@@ -17,7 +17,7 @@ def wikiMGSheader():
 def wikiMGSrow(team, goals):
   return '| %-50s | %14d |' % (team,goals)
 
-print '\n\n===== Most goals scored =====\n'.encode('utf-8')
+print '\n\n==== Most goals scored ====\n'.encode('utf-8')
 print wikiMGSheader().encode('utf-8')
 
 for (team,goals) in list(reversed(sorted(mgs.items(), key=itemgetter(1))))[:10]:

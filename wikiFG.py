@@ -14,7 +14,7 @@ def wikiFGheader():
 def wikiFGrow(team, minute):
   return "| %-50s | %7d' |" % (team,minute)
 
-print '\n\n===== Fastest goal =====\n'.encode('utf-8')
+print '\n\n==== Fastest goal ====\n'.encode('utf-8')
 print wikiFGheader().encode('utf-8')
 
 for (minute,team) in sorted(goals, key=itemgetter(0))[:10]:
