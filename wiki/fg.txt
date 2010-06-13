@@ -1,0 +1,12 @@
+
+
+===== Fastest goal =====
+
+^ Team                                               ^  Minute  ^
+| :ENG: **George** (England)                         |       4' |
+| :ARG: **George** (Argentina)                       |       6' |
+| :KOR: **Rudy** (Korea Republic)                    |       7' |
+| :USA: **Harmen** (USA)                             |      40' |
+| :KOR: **Rudy** (Korea Republic)                    |      52' |
+| :RSA: **Scott** (South Africa)                     |      55' |
+| :MEX: **Sue** (Mexico)                             |      79' |

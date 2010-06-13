@@ -1,0 +1,15 @@
+
+
+===== Most yellow cards in group stage =====
+
+^ Team                                               ^  Yellow cards  ^  Direct red cards  ^  Total  ^
+| :FRA: **Bas** (France)                             |              3 |                  0 |   **3** |
+| :ENG: **George** (England)                         |              3 |                  0 |   **3** |
+| :URU: **AJ** (Uruguay)                             |              3 |                  0 |   **3** |
+| :USA: **Harmen** (USA)                             |              3 |                  0 |   **3** |
+| :MEX: **Sue** (Mexico)                             |              2 |                  0 |   **2** |
+| :RSA: **Scott** (South Africa)                     |              2 |                  0 |   **2** |
+| :ARG: **George** (Argentina)                       |              1 |                  0 |   **1** |
+| :GRE: **Paul** (Greece)                            |              1 |                  0 |   **1** |
+| :NGA: **Pippa** (Nigeria)                          |              1 |                  0 |   **1** |
+| :KOR: **Rudy** (Korea Republic)                    |              0 |                  0 |   **0** |

@@ -3,6 +3,9 @@
 ==== Lowest score in group stage ====
 
 ^ Team                                               ^  Group  ^  GF/GA  ^  GD  ^  Pts  ^
+| :GRE: **Paul** (Greece)                            |      B  |  0/2    |   -2 |     0 |
+| :ALG: **Martine** (Algeria)                        |      C  |  0/1    |   -1 |     0 |
+| :NGA: **Pippa** (Nigeria)                          |      B  |  0/1    |   -1 |     0 |
 | :CHI: **Ailee** (Chile)                            |      H  |  0/0    |    0 |     0 |
 | :HON: **Sue** (Honduras)                           |      H  |  0/0    |    0 |     0 |
 | :SUI: **Paul** (Switzerland)                       |      H  |  0/0    |    0 |     0 |
@@ -10,6 +13,3 @@
 | :POR: **Jens** (Portugal)                          |      G  |  0/0    |    0 |     0 |
 | :CIV: **Quido** (Côte d'Ivoire)                    |      G  |  0/0    |    0 |     0 |
 | :PRK: **Sonia** (Korea DPR)                        |      G  |  0/0    |    0 |     0 |
-| :BRA: **Vendulka** (Brazil)                        |      G  |  0/0    |    0 |     0 |
-| :SVK: **Viktor** (Slovakia)                        |      F  |  0/0    |    0 |     0 |
-| :NZL: **George** (New Zealand)                     |      F  |  0/0    |    0 |     0 |

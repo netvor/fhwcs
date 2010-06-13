@@ -1,0 +1,15 @@
+
+
+===== Most goals scored =====
+
+^ Team                                               ^  Goals scored  ^
+| :KOR: **Rudy** (Korea Republic)                    |              2 |
+| :ARG: **George** (Argentina)                       |              1 |
+| :MEX: **Sue** (Mexico)                             |              1 |
+| :ENG: **George** (England)                         |              1 |
+| :USA: **Harmen** (USA)                             |              1 |
+| :RSA: **Scott** (South Africa)                     |              1 |
+| :GRE: **Paul** (Greece)                            |              0 |
+| :NGA: **Pippa** (Nigeria)                          |              0 |
+| :FRA: **Bas** (France)                             |              0 |
+| :URU: **AJ** (Uruguay)                             |              0 |

@@ -12,32 +12,53 @@ S'FRA'
 p5
 sS'hasResults'
 p6
-I00
-sS'when'
+I01
+sS'awayCards'
 p7
-S'11 June - 20:30'
-p8
-sS'number'
+(lp8
+I3
+aI0
+aI3
+asS'when'
 p9
-I2
-sS'homeWiki'
+S'11 June - 20:30'
 p10
-V:URU: **AJ** (Uruguay)
+sS'number'
 p11
-sS'awayWiki'
+I2
+sS'awayGoals'
 p12
-V:FRA: **Bas** (France)
-p13
-sS'awayName'
+(lp13
+sS'homeWiki'
 p14
-S'France'
+V:URU: **AJ** (Uruguay)
 p15
-sS'homeName'
+sS'awayWiki'
 p16
-S'Uruguay'
+V:FRA: **Bas** (France)
 p17
-sS'homeCode'
+sS'awayName'
 p18
-S'URU'
+S'France'
 p19
-sb.
+sS'homeName'
+p20
+S'Uruguay'
+p21
+sS'goals'
+p22
+(lp23
+sS'homeGoals'
+p24
+(lp25
+sS'homeCode'
+p26
+S'URU'
+p27
+sS'homeCards'
+p28
+(lp29
+I3
+aI0
+aI3
+asb.
