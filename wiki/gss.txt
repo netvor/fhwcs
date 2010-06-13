@@ -9,10 +9,10 @@
 | :URU: **AJ** (Uruguay)                             |    1 |  0/1/0     |  0/0    |    0 |     1 | ::: | :NGA: **Pippa** (Nigeria)                          |    1 |  0/0/1     |  0/1    |   -1 |     0 |
 | :FRA: **Bas** (France)                             |    1 |  0/1/0     |  0/0    |    0 |     1 | ::: | :GRE: **Paul** (Greece)                            |    1 |  0/0/1     |  0/2    |   -2 |     0 |
 ^ //Group C://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group D://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :SVN: **Jens** (Slovenia)                          |    1 |  1/0/0     |  1/0    |    1 |     3 | ::: | :GER: **Harmen** (Germany)                         |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :USA: **Harmen** (USA)                             |    1 |  0/1/0     |  1/1    |    0 |     1 | ::: | :AUS: **Sonia** (Australia)                        |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :ENG: **George** (England)                         |    1 |  0/1/0     |  1/1    |    0 |     1 | ::: | :SRB: **Olivia** (Serbia)                          |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :ALG: **Martine** (Algeria)                        |    1 |  0/0/1     |  0/1    |   -1 |     0 | ::: | :GHA: **AJ** (Ghana)                               |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :SVN: **Jens** (Slovenia)                          |    1 |  1/0/0     |  1/0    |    1 |     3 | ::: | :GER: **Harmen** (Germany)                         |    1 |  1/0/0     |  4/0    |    4 |     3 |
+| :USA: **Harmen** (USA)                             |    1 |  0/1/0     |  1/1    |    0 |     1 | ::: | :GHA: **AJ** (Ghana)                               |    1 |  1/0/0     |  1/0    |    1 |     3 |
+| :ENG: **George** (England)                         |    1 |  0/1/0     |  1/1    |    0 |     1 | ::: | :SRB: **Olivia** (Serbia)                          |    1 |  0/0/1     |  0/1    |   -1 |     0 |
+| :ALG: **Martine** (Algeria)                        |    1 |  0/0/1     |  0/1    |   -1 |     0 | ::: | :AUS: **Sonia** (Australia)                        |    1 |  0/0/1     |  0/4    |   -4 |     0 |
 ^ //Group E://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group F://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
 | :NED: **Floris** (Netherlands)                     |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :ITA: **Rudy** (Italy)                             |    0 |  0/0/0     |  0/0    |    0 |     0 |
 | :DEN: **Bas** (Denmark)                            |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :PAR: **Martine** (Paraguay)                       |    0 |  0/0/0     |  0/0    |    0 |     0 |

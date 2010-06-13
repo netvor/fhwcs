@@ -12,32 +12,57 @@ S'GHA'
 p5
 sS'hasResults'
 p6
-I00
-sS'when'
+I01
+sS'awayCards'
 p7
-S'13 June - 16:00'
-p8
-sS'number'
+(lp8
+I2
+aI0
+aI2
+asS'when'
 p9
-I8
-sS'homeWiki'
+S'13 June - 16:00'
 p10
-V:SRB: **Olivia** (Serbia)
+sS'number'
 p11
-sS'awayWiki'
+I8
+sS'awayGoals'
 p12
-V:GHA: **AJ** (Ghana)
-p13
-sS'awayName'
+(lp13
+I85
+asS'homeWiki'
 p14
-S'Ghana'
+V:SRB: **Olivia** (Serbia)
 p15
-sS'homeName'
+sS'awayWiki'
 p16
-S'Serbia'
+V:GHA: **AJ** (Ghana)
 p17
-sS'homeCode'
+sS'awayName'
 p18
-S'SRB'
+S'Ghana'
 p19
-sb.
+sS'homeName'
+p20
+S'Serbia'
+p21
+sS'goals'
+p22
+(lp23
+(I85
+g17
+tp24
+asS'homeGoals'
+p25
+(lp26
+sS'homeCode'
+p27
+S'SRB'
+p28
+sS'homeCards'
+p29
+(lp30
+I3
+aI0
+aI3
+asb.

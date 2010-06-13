@@ -6,8 +6,10 @@
 | :ENG: **George** (England)                         |       4' |
 | :ARG: **George** (Argentina)                       |       6' |
 | :KOR: **Rudy** (Korea Republic)                    |       7' |
+| :GER: **Harmen** (Germany)                         |       8' |
+| :GER: **Harmen** (Germany)                         |      26' |
 | :USA: **Harmen** (USA)                             |      40' |
 | :KOR: **Rudy** (Korea Republic)                    |      52' |
 | :RSA: **Scott** (South Africa)                     |      55' |
-| :MEX: **Sue** (Mexico)                             |      79' |
-| :SVN: **Jens** (Slovenia)                          |      79' |
+| :GER: **Harmen** (Germany)                         |      68' |
+| :GER: **Harmen** (Germany)                         |      70' |
