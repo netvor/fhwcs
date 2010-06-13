@@ -9,7 +9,10 @@ def wikiCALheader():
 
 def wikiCALrow(ms):
   if ms.hasResults:
-    pass #todo
+    results = '%d:%d' % (len(ms.homeGoals),len(ms.awayGoals))
+    try: firstgoal="**%d'** -- %s" % (min(ms.goals)[0],min(ms.goals)[1])
+    except: firstgoal='//(no goals)//'
+    ycrc = '%d/%d:%d/%d -- total: **%d**' % (ms.homeCards[0],ms.homeCards[1],ms.awayCards[0],ms.awayCards[1],ms.homeCards[2]+ms.awayCards[2])
   else:
     results=''
     ycrc=''
