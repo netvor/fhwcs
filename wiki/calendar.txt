@@ -11,9 +11,9 @@
 |     6 |  13 June - 13:30 | Group C: :ALG: **Martine** (Algeria) //vs.// :SVN: **Jens** (Slovenia)                     |        0:1  |  2/0:2/0 -- total: **4**  | **79'** -- :SVN: **Jens** (Slovenia) |
 |     7 |  13 June - 20:30 | Group D: :GER: **Harmen** (Germany) //vs.// :AUS: **Sonia** (Australia)                    |        4:0  |  2/0:3/1 -- total: **9**  | **8'** -- :GER: **Harmen** (Germany) |
 |     8 |  13 June - 16:00 | Group D: :SRB: **Olivia** (Serbia) //vs.// :GHA: **AJ** (Ghana)                            |        0:1  |  3/0:2/0 -- total: **5**  | **85'** -- :GHA: **AJ** (Ghana) |
-|     9 |  14 June - 13:30 | Group E: :NED: **Floris** (Netherlands) //vs.// :DEN: **Bas** (Denmark)                    |             |               |                          |
-|    10 |  14 June - 16:00 | Group E: :JPN: **Marty** (Japan) //vs.// :CMR: **Lisa** (Cameroon)                         |             |               |                          |
-|    11 |  14 June - 20:30 | Group F: :ITA: **Rudy** (Italy) //vs.// :PAR: **Martine** (Paraguay)                       |             |               |                          |
+|     9 |  14 June - 13:30 | Group E: :NED: **Floris** (Netherlands) //vs.// :DEN: **Bas** (Denmark)                    |        2:0  |  2/0:1/0 -- total: **3**  | **46'** -- :NED: **Floris** (Netherlands) |
+|    10 |  14 June - 16:00 | Group E: :JPN: **Marty** (Japan) //vs.// :CMR: **Lisa** (Cameroon)                         |        1:0  |  1/0:1/0 -- total: **2**  | **39'** -- :JPN: **Marty** (Japan) |
+|    11 |  14 June - 20:30 | Group F: :ITA: **Rudy** (Italy) //vs.// :PAR: **Martine** (Paraguay)                       |        1:1  |  1/0:1/0 -- total: **2**  | **39'** -- :PAR: **Martine** (Paraguay) |
 |    12 |  15 June - 13:30 | Group F: :NZL: **George** (New Zealand) //vs.// :SVK: **Viktor** (Slovakia)                |             |               |                          |
 |    13 |  15 June - 16:00 | Group G: :CIV: **Quido** (Côte d'Ivoire) //vs.// :POR: **Jens** (Portugal)                 |             |               |                          |
 |    14 |  15 June - 20:30 | Group G: :BRA: **Vendulka** (Brazil) //vs.// :PRK: **Sonia** (Korea DPR)                   |             |               |                          |

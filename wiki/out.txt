@@ -16,10 +16,10 @@
 | :ENG: **George** (England)                         |    1 |  0/1/0     |  1/1    |    0 |     1 | ::: | :SRB: **Olivia** (Serbia)                          |    1 |  0/0/1     |  0/1    |   -1 |     0 |
 | :ALG: **Martine** (Algeria)                        |    1 |  0/0/1     |  0/1    |   -1 |     0 | ::: | :AUS: **Sonia** (Australia)                        |    1 |  0/0/1     |  0/4    |   -4 |     0 |
 ^ //Group E://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group F://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :NED: **Floris** (Netherlands)                     |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :ITA: **Rudy** (Italy)                             |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :DEN: **Bas** (Denmark)                            |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :PAR: **Martine** (Paraguay)                       |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :JPN: **Marty** (Japan)                            |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :NZL: **George** (New Zealand)                     |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :CMR: **Lisa** (Cameroon)                          |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :SVK: **Viktor** (Slovakia)                        |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :NED: **Floris** (Netherlands)                     |    1 |  1/0/0     |  2/0    |    2 |     3 | ::: | :PAR: **Martine** (Paraguay)                       |    1 |  0/1/0     |  1/1    |    0 |     1 |
+| :JPN: **Marty** (Japan)                            |    1 |  1/0/0     |  1/0    |    1 |     3 | ::: | :ITA: **Rudy** (Italy)                             |    1 |  0/1/0     |  1/1    |    0 |     1 |
+| :CMR: **Lisa** (Cameroon)                          |    1 |  0/0/1     |  0/1    |   -1 |     0 | ::: | :NZL: **George** (New Zealand)                     |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :DEN: **Bas** (Denmark)                            |    1 |  0/0/1     |  0/2    |   -2 |     0 | ::: | :SVK: **Viktor** (Slovakia)                        |    0 |  0/0/0     |  0/0    |    0 |     0 |
 ^ //Group G://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group H://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
 | :BRA: **Vendulka** (Brazil)                        |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :ESP: **Katka** (Spain)                            |    0 |  0/0/0     |  0/0    |    0 |     0 |
 | :PRK: **Sonia** (Korea DPR)                        |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :SUI: **Paul** (Switzerland)                       |    0 |  0/0/0     |  0/0    |    0 |     0 |
@@ -27,22 +27,22 @@
 | :POR: **Jens** (Portugal)                          |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :CHI: **Ailee** (Chile)                            |    0 |  0/0/0     |  0/0    |    0 |     0 |
 
 
-===== Most goals scored =====
+==== Most goals scored ====
 
 ^ Team                                               ^  Goals scored  ^
 | :GER: **Harmen** (Germany)                         |              4 |
+| :NED: **Floris** (Netherlands)                     |              2 |
 | :KOR: **Rudy** (Korea Republic)                    |              2 |
-| :ARG: **George** (Argentina)                       |              1 |
-| :MEX: **Sue** (Mexico)                             |              1 |
-| :ENG: **George** (England)                         |              1 |
 | :USA: **Harmen** (USA)                             |              1 |
-| :SVN: **Jens** (Slovenia)                          |              1 |
-| :GHA: **AJ** (Ghana)                               |              1 |
+| :MEX: **Sue** (Mexico)                             |              1 |
 | :RSA: **Scott** (South Africa)                     |              1 |
-| :GRE: **Paul** (Greece)                            |              0 |
+| :ITA: **Rudy** (Italy)                             |              1 |
+| :SVN: **Jens** (Slovenia)                          |              1 |
+| :ARG: **George** (Argentina)                       |              1 |
+| :GHA: **AJ** (Ghana)                               |              1 |
 
 
-===== Fastest goal =====
+==== Fastest goal ====
 
 ^ Team                                               ^  Minute  ^
 | :ENG: **George** (England)                         |       4' |
@@ -50,27 +50,29 @@
 | :KOR: **Rudy** (Korea Republic)                    |       7' |
 | :GER: **Harmen** (Germany)                         |       8' |
 | :GER: **Harmen** (Germany)                         |      26' |
+| :JPN: **Marty** (Japan)                            |      39' |
+| :PAR: **Martine** (Paraguay)                       |      39' |
 | :USA: **Harmen** (USA)                             |      40' |
+| :NED: **Floris** (Netherlands)                     |      46' |
 | :KOR: **Rudy** (Korea Republic)                    |      52' |
-| :RSA: **Scott** (South Africa)                     |      55' |
-| :GER: **Harmen** (Germany)                         |      68' |
-| :GER: **Harmen** (Germany)                         |      70' |
 
 
-===== Most goals per game =====
+==== Most goals per game ====
 
 ^  No.  ^       When       ^  Match                                                                                     ^  Goals scored  ^
 |     7 |  13 June - 20:30 | Group D: :GER: **Harmen** (Germany) //vs.// :AUS: **Sonia** (Australia)                    | **4** (4:0)    |
+|    11 |  14 June - 20:30 | Group F: :ITA: **Rudy** (Italy) //vs.// :PAR: **Martine** (Paraguay)                       | **2** (1:1)    |
+|     9 |  14 June - 13:30 | Group E: :NED: **Floris** (Netherlands) //vs.// :DEN: **Bas** (Denmark)                    | **2** (2:0)    |
 |     5 |  12 June - 20:30 | Group C: :ENG: **George** (England) //vs.// :USA: **Harmen** (USA)                         | **2** (1:1)    |
 |     4 |  12 June - 13:30 | Group B: :KOR: **Rudy** (Korea Republic) //vs.// :GRE: **Paul** (Greece)                   | **2** (2:0)    |
 |     1 |  11 June - 16:00 | Group A: :RSA: **Scott** (South Africa) //vs.// :MEX: **Sue** (Mexico)                     | **2** (1:1)    |
+|    10 |  14 June - 16:00 | Group E: :JPN: **Marty** (Japan) //vs.// :CMR: **Lisa** (Cameroon)                         | **1** (1:0)    |
 |     8 |  13 June - 16:00 | Group D: :SRB: **Olivia** (Serbia) //vs.// :GHA: **AJ** (Ghana)                            | **1** (0:1)    |
 |     6 |  13 June - 13:30 | Group C: :ALG: **Martine** (Algeria) //vs.// :SVN: **Jens** (Slovenia)                     | **1** (0:1)    |
 |     3 |  12 June - 16:00 | Group B: :ARG: **George** (Argentina) //vs.// :NGA: **Pippa** (Nigeria)                    | **1** (1:0)    |
-|     2 |  11 June - 20:30 | Group A: :URU: **AJ** (Uruguay) //vs.// :FRA: **Bas** (France)                             | **0** (0:0)    |
 
 
-===== Most yellow cards per game =====
+==== Most yellow cards per game ====
 
 ^  No.  ^       When       ^  Match                                                                                     ^  Yellow cards  ^  Direct red cards  ^      Total      ^
 |     7 |  13 June - 20:30 | Group D: :GER: **Harmen** (Germany) //vs.// :AUS: **Sonia** (Australia)                    | 5 (2:3)        | 1 (0:1)            | **9** (2:7)     |
@@ -79,22 +81,24 @@
 |     8 |  13 June - 16:00 | Group D: :SRB: **Olivia** (Serbia) //vs.// :GHA: **AJ** (Ghana)                            | 5 (3:2)        | 0 (0:0)            | **5** (3:2)     |
 |     6 |  13 June - 13:30 | Group C: :ALG: **Martine** (Algeria) //vs.// :SVN: **Jens** (Slovenia)                     | 4 (2:2)        | 0 (0:0)            | **4** (2:2)     |
 |     1 |  11 June - 16:00 | Group A: :RSA: **Scott** (South Africa) //vs.// :MEX: **Sue** (Mexico)                     | 4 (2:2)        | 0 (0:0)            | **4** (2:2)     |
+|     9 |  14 June - 13:30 | Group E: :NED: **Floris** (Netherlands) //vs.// :DEN: **Bas** (Denmark)                    | 3 (2:1)        | 0 (0:0)            | **3** (2:1)     |
+|    11 |  14 June - 20:30 | Group F: :ITA: **Rudy** (Italy) //vs.// :PAR: **Martine** (Paraguay)                       | 2 (1:1)        | 0 (0:0)            | **2** (1:1)     |
+|    10 |  14 June - 16:00 | Group E: :JPN: **Marty** (Japan) //vs.// :CMR: **Lisa** (Cameroon)                         | 2 (1:1)        | 0 (0:0)            | **2** (1:1)     |
 |     3 |  12 June - 16:00 | Group B: :ARG: **George** (Argentina) //vs.// :NGA: **Pippa** (Nigeria)                    | 2 (1:1)        | 0 (0:0)            | **2** (1:1)     |
-|     4 |  12 June - 13:30 | Group B: :KOR: **Rudy** (Korea Republic) //vs.// :GRE: **Paul** (Greece)                   | 1 (0:1)        | 0 (0:0)            | **1** (0:1)     |
 
 
-===== Most yellow cards in group stage =====
+==== Most yellow cards in group stage ====
 
 ^ Team                                               ^  Yellow cards  ^  Direct red cards  ^  Total  ^
 | :AUS: **Sonia** (Australia)                        |              3 |                  1 |   **7** |
+| :USA: **Harmen** (USA)                             |              3 |                  0 |   **3** |
 | :SRB: **Olivia** (Serbia)                          |              3 |                  0 |   **3** |
 | :FRA: **Bas** (France)                             |              3 |                  0 |   **3** |
 | :ENG: **George** (England)                         |              3 |                  0 |   **3** |
 | :URU: **AJ** (Uruguay)                             |              3 |                  0 |   **3** |
-| :USA: **Harmen** (USA)                             |              3 |                  0 |   **3** |
 | :MEX: **Sue** (Mexico)                             |              2 |                  0 |   **2** |
 | :ALG: **Martine** (Algeria)                        |              2 |                  0 |   **2** |
-| :GER: **Harmen** (Germany)                         |              2 |                  0 |   **2** |
+| :RSA: **Scott** (South Africa)                     |              2 |                  0 |   **2** |
 | :SVN: **Jens** (Slovenia)                          |              2 |                  0 |   **2** |
 
 
@@ -102,15 +106,15 @@
 
 ^ Team                                               ^  Group  ^  GF/GA  ^  GD  ^  Pts  ^
 | :AUS: **Sonia** (Australia)                        |      D  |  0/4    |   -4 |     0 |
+| :DEN: **Bas** (Denmark)                            |      E  |  0/2    |   -2 |     0 |
 | :GRE: **Paul** (Greece)                            |      B  |  0/2    |   -2 |     0 |
+| :CMR: **Lisa** (Cameroon)                          |      E  |  0/1    |   -1 |     0 |
 | :SRB: **Olivia** (Serbia)                          |      D  |  0/1    |   -1 |     0 |
 | :ALG: **Martine** (Algeria)                        |      C  |  0/1    |   -1 |     0 |
 | :NGA: **Pippa** (Nigeria)                          |      B  |  0/1    |   -1 |     0 |
 | :CHI: **Ailee** (Chile)                            |      H  |  0/0    |    0 |     0 |
 | :HON: **Sue** (Honduras)                           |      H  |  0/0    |    0 |     0 |
 | :SUI: **Paul** (Switzerland)                       |      H  |  0/0    |    0 |     0 |
-| :ESP: **Katka** (Spain)                            |      H  |  0/0    |    0 |     0 |
-| :POR: **Jens** (Portugal)                          |      G  |  0/0    |    0 |     0 |
 
 
 ===== Calendar =====
@@ -124,9 +128,9 @@
 |     6 |  13 June - 13:30 | Group C: :ALG: **Martine** (Algeria) //vs.// :SVN: **Jens** (Slovenia)                     |        0:1  |  2/0:2/0 -- total: **4**  | **79'** -- :SVN: **Jens** (Slovenia) |
 |     7 |  13 June - 20:30 | Group D: :GER: **Harmen** (Germany) //vs.// :AUS: **Sonia** (Australia)                    |        4:0  |  2/0:3/1 -- total: **9**  | **8'** -- :GER: **Harmen** (Germany) |
 |     8 |  13 June - 16:00 | Group D: :SRB: **Olivia** (Serbia) //vs.// :GHA: **AJ** (Ghana)                            |        0:1  |  3/0:2/0 -- total: **5**  | **85'** -- :GHA: **AJ** (Ghana) |
-|     9 |  14 June - 13:30 | Group E: :NED: **Floris** (Netherlands) //vs.// :DEN: **Bas** (Denmark)                    |             |               |                          |
-|    10 |  14 June - 16:00 | Group E: :JPN: **Marty** (Japan) //vs.// :CMR: **Lisa** (Cameroon)                         |             |               |                          |
-|    11 |  14 June - 20:30 | Group F: :ITA: **Rudy** (Italy) //vs.// :PAR: **Martine** (Paraguay)                       |             |               |                          |
+|     9 |  14 June - 13:30 | Group E: :NED: **Floris** (Netherlands) //vs.// :DEN: **Bas** (Denmark)                    |        2:0  |  2/0:1/0 -- total: **3**  | **46'** -- :NED: **Floris** (Netherlands) |
+|    10 |  14 June - 16:00 | Group E: :JPN: **Marty** (Japan) //vs.// :CMR: **Lisa** (Cameroon)                         |        1:0  |  1/0:1/0 -- total: **2**  | **39'** -- :JPN: **Marty** (Japan) |
+|    11 |  14 June - 20:30 | Group F: :ITA: **Rudy** (Italy) //vs.// :PAR: **Martine** (Paraguay)                       |        1:1  |  1/0:1/0 -- total: **2**  | **39'** -- :PAR: **Martine** (Paraguay) |
 |    12 |  15 June - 13:30 | Group F: :NZL: **George** (New Zealand) //vs.// :SVK: **Viktor** (Slovakia)                |             |               |                          |
 |    13 |  15 June - 16:00 | Group G: :CIV: **Quido** (Côte d'Ivoire) //vs.// :POR: **Jens** (Portugal)                 |             |               |                          |
 |    14 |  15 June - 20:30 | Group G: :BRA: **Vendulka** (Brazil) //vs.// :PRK: **Sonia** (Korea DPR)                   |             |               |                          |

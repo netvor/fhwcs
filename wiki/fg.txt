@@ -1,6 +1,6 @@
 
 
-===== Fastest goal =====
+==== Fastest goal ====
 
 ^ Team                                               ^  Minute  ^
 | :ENG: **George** (England)                         |       4' |
@@ -8,8 +8,8 @@
 | :KOR: **Rudy** (Korea Republic)                    |       7' |
 | :GER: **Harmen** (Germany)                         |       8' |
 | :GER: **Harmen** (Germany)                         |      26' |
+| :JPN: **Marty** (Japan)                            |      39' |
+| :PAR: **Martine** (Paraguay)                       |      39' |
 | :USA: **Harmen** (USA)                             |      40' |
+| :NED: **Floris** (Netherlands)                     |      46' |
 | :KOR: **Rudy** (Korea Republic)                    |      52' |
-| :RSA: **Scott** (South Africa)                     |      55' |
-| :GER: **Harmen** (Germany)                         |      68' |
-| :GER: **Harmen** (Germany)                         |      70' |

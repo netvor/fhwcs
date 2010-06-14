@@ -1,15 +1,15 @@
 
 
-===== Most goals scored =====
+==== Most goals scored ====
 
 ^ Team                                               ^  Goals scored  ^
 | :GER: **Harmen** (Germany)                         |              4 |
+| :NED: **Floris** (Netherlands)                     |              2 |
 | :KOR: **Rudy** (Korea Republic)                    |              2 |
-| :ARG: **George** (Argentina)                       |              1 |
-| :MEX: **Sue** (Mexico)                             |              1 |
-| :ENG: **George** (England)                         |              1 |
 | :USA: **Harmen** (USA)                             |              1 |
-| :SVN: **Jens** (Slovenia)                          |              1 |
-| :GHA: **AJ** (Ghana)                               |              1 |
+| :MEX: **Sue** (Mexico)                             |              1 |
 | :RSA: **Scott** (South Africa)                     |              1 |
-| :GRE: **Paul** (Greece)                            |              0 |
+| :ITA: **Rudy** (Italy)                             |              1 |
+| :SVN: **Jens** (Slovenia)                          |              1 |
+| :ARG: **George** (Argentina)                       |              1 |
+| :GHA: **AJ** (Ghana)                               |              1 |
