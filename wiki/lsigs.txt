@@ -10,6 +10,6 @@
 | :SRB: **Denisa** (Serbia)                          |      D  |  0/1    |   -1 |     0 |
 | :ALG: **Žužu** (Algeria)                           |      C  |  0/1    |   -1 |     0 |
 | :NGA: **Standa** (Nigeria)                         |      B  |  0/1    |   -1 |     0 |
+| :PRK: **Martina** (Korea DPR)                      |      G  |  1/2    |   -1 |     0 |
 | :CHI: **Hanka** (Chile)                            |      H  |  0/0    |    0 |     0 |
 | :HON: **Žužu** (Honduras)                          |      H  |  0/0    |    0 |     0 |
-| :SUI: **Renata Z.** (Switzerland)                  |      H  |  0/0    |    0 |     0 |

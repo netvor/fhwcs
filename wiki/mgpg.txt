@@ -4,6 +4,7 @@
 
 ^  No.  ^       When       ^  Match                                                                                     ^  Goals scored  ^
 |     7 |    13 June 20:30 | Group D: :GER: **Lenny** (Germany) //vs.// :AUS: **Petra** (Australia)                     | **4** (4:0)    |
+|    14 |    15 June 20:30 | Group G: :BRA: **Dana** (Brazil) //vs.// :PRK: **Martina** (Korea DPR)                     | **3** (2:1)    |
 |    12 |    15 June 13:30 | Group F: :NZL: **Martin** (New Zealand) //vs.// :SVK: **Franta** (Slovakia)                | **2** (1:1)    |
 |    11 |    14 June 20:30 | Group F: :ITA: **Jana V.** (Italy) //vs.// :PAR: **Jana L.** (Paraguay)                    | **2** (1:1)    |
 |     9 |    14 June 13:30 | Group E: :NED: **Olina K.** (Netherlands) //vs.// :DEN: **Martina** (Denmark)              | **2** (2:0)    |
@@ -12,4 +13,3 @@
 |     1 |    11 June 16:00 | Group A: :RSA: **Wendy** (South Africa) //vs.// :MEX: **Olina H.** (Mexico)                | **2** (1:1)    |
 |    10 |    14 June 16:00 | Group E: :JPN: **Standa** (Japan) //vs.// :CMR: **Markéta** (Cameroon)                     | **1** (1:0)    |
 |     8 |    13 June 16:00 | Group D: :SRB: **Denisa** (Serbia) //vs.// :GHA: **Franta** (Ghana)                        | **1** (0:1)    |
-|     6 |    13 June 13:30 | Group C: :ALG: **Žužu** (Algeria) //vs.// :SVN: **Eva** (Slovenia)                         | **1** (0:1)    |
