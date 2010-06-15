@@ -10,8 +10,8 @@ print ("Import match report for match %d: %s vs. %s (%s)" % (ms.number, ms.homeN
 
 assert(ms.homeCode == report['homeCode'])
 assert(ms.awayCode == report['awayCode'])
-assert(ms.homeName == report['homeName'])
-assert(ms.awayName == report['awayName'])
+#assert(ms.homeName == report['homeName'])
+#assert(ms.awayName == report['awayName'])
 
 ms.goals      = report['goals']
 ms.homeGoals  = report['homeGoals']
