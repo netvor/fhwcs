@@ -92,14 +92,14 @@
 ^ Team                                               ^  Yellow  ^  2Y=R  ^  Direct Red  ^  Weighted Total  ^
 | :AUS: **Petra** (Australia)                        |        3 |      0 |            1 |            **7** |
 | :SRB: **Denisa** (Serbia)                          |        2 |      1 |            0 |            **4** |
-| :MEX: **Olina H.** (Mexico)                        |        2 |      0 |            0 |            **2** |
+| :URU: **Renata Z.** (Uruguay)                      |        2 |      1 |            0 |            **4** |
 | :FRA: **Jana L.** (France)                         |        3 |      0 |            0 |            **3** |
 | :ENG: **Hanka** (England)                          |        3 |      0 |            0 |            **3** |
-| :ARG: **Míša** (Argentina)                         |        1 |      0 |            0 |            **1** |
-| :GHA: **Franta** (Ghana)                           |        2 |      0 |            0 |            **2** |
-| :KOR: **Vlasta** (Korea Republic)                  |        0 |      0 |            0 |            **0** |
 | :USA: **Tomáš** (USA)                              |        3 |      0 |            0 |            **3** |
-| :JPN: **Standa** (Japan)                           |        1 |      0 |            0 |            **1** |
+| :ALG: **Žužu** (Algeria)                           |        1 |      1 |            0 |            **3** |
+| :MEX: **Olina H.** (Mexico)                        |        2 |      0 |            0 |            **2** |
+| :GHA: **Franta** (Ghana)                           |        2 |      0 |            0 |            **2** |
+| :SVN: **Eva** (Slovenia)                           |        2 |      0 |            0 |            **2** |
 
 
 ==== Lowest score in group stage ====
