@@ -15,11 +15,12 @@ p6
 I01
 sS'awayCards'
 p7
-(lp8
+(I2
+I0
+I0
 I2
-aI0
-aI2
-asS'when'
+tp8
+sS'when'
 p9
 S'11 June - 16:00'
 p10
@@ -65,8 +66,9 @@ S'RSA'
 p29
 sS'homeCards'
 p30
-(lp31
+(I2
+I0
+I0
 I2
-aI0
-aI2
-asb.
+tp31
+sb.

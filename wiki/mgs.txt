@@ -6,10 +6,10 @@
 | :GER: **Harmen** (Germany)                         |              4 |
 | :NED: **Floris** (Netherlands)                     |              2 |
 | :KOR: **Rudy** (Korea Republic)                    |              2 |
+| :SVK: **Viktor** (Slovakia)                        |              1 |
 | :USA: **Harmen** (USA)                             |              1 |
 | :MEX: **Sue** (Mexico)                             |              1 |
 | :RSA: **Scott** (South Africa)                     |              1 |
 | :ITA: **Rudy** (Italy)                             |              1 |
+| :NZL: **George** (New Zealand)                     |              1 |
 | :SVN: **Jens** (Slovenia)                          |              1 |
-| :ARG: **George** (Argentina)                       |              1 |
-| :GHA: **AJ** (Ghana)                               |              1 |

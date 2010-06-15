@@ -15,11 +15,12 @@ p6
 I01
 sS'awayCards'
 p7
-(lp8
+(I1
+I0
+I0
 I1
-aI0
-aI1
-asS'when'
+tp8
+sS'when'
 p9
 S'14 June - 20:30'
 p10
@@ -49,11 +50,11 @@ p21
 sS'goals'
 p22
 (lp23
-(I63
-g15
-tp24
-a(I39
+(I39
 g17
+tp24
+a(I63
+g15
 tp25
 asS'homeGoals'
 p26
@@ -65,8 +66,9 @@ S'ITA'
 p29
 sS'homeCards'
 p30
-(lp31
+(I1
+I0
+I0
 I1
-aI0
-aI1
-asb.
+tp31
+sb.

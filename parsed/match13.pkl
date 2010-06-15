@@ -12,32 +12,55 @@ S'POR'
 p5
 sS'hasResults'
 p6
-I00
-sS'when'
+I01
+sS'awayCards'
 p7
-S'15 June - 16:00'
-p8
-sS'number'
+(I1
+I0
+I0
+I1
+tp8
+sS'when'
 p9
-I13
-sS'homeWiki'
+S'15 June - 16:00'
 p10
-V:CIV: **Quido** (Côte d'Ivoire)
+sS'number'
 p11
-sS'awayWiki'
+I13
+sS'awayGoals'
 p12
-V:POR: **Jens** (Portugal)
-p13
-sS'awayName'
+(lp13
+sS'homeWiki'
 p14
-S'Portugal'
+V:CIV: **Quido** (Côte d'Ivoire)
 p15
-sS'homeName'
+sS'awayWiki'
 p16
-VCôte d'Ivoire
+V:POR: **Jens** (Portugal)
 p17
-sS'homeCode'
+sS'awayName'
 p18
-S'CIV'
+S'Portugal'
 p19
+sS'homeName'
+p20
+VCôte d'Ivoire
+p21
+sS'goals'
+p22
+(lp23
+sS'homeGoals'
+p24
+(lp25
+sS'homeCode'
+p26
+S'CIV'
+p27
+sS'homeCards'
+p28
+(I2
+I0
+I0
+I2
+tp29
 sb.

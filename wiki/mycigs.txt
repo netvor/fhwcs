@@ -2,14 +2,14 @@
 
 ==== Most yellow cards in group stage ====
 
-^ Team                                               ^  Yellow cards  ^  Direct red cards  ^  Total  ^
-| :AUS: **Sonia** (Australia)                        |              3 |                  1 |   **7** |
-| :USA: **Harmen** (USA)                             |              3 |                  0 |   **3** |
-| :SRB: **Olivia** (Serbia)                          |              3 |                  0 |   **3** |
-| :FRA: **Bas** (France)                             |              3 |                  0 |   **3** |
-| :ENG: **George** (England)                         |              3 |                  0 |   **3** |
-| :URU: **AJ** (Uruguay)                             |              3 |                  0 |   **3** |
-| :MEX: **Sue** (Mexico)                             |              2 |                  0 |   **2** |
-| :ALG: **Martine** (Algeria)                        |              2 |                  0 |   **2** |
-| :RSA: **Scott** (South Africa)                     |              2 |                  0 |   **2** |
-| :SVN: **Jens** (Slovenia)                          |              2 |                  0 |   **2** |
+^ Team                                               ^  Yellow  ^  2Y=R  ^  Direct Red  ^  Weighted Total  ^
+| :AUS: **Sonia** (Australia)                        |        3 |      0 |            1 |            **7** |
+| :SVK: **Viktor** (Slovakia)                        |        1 |      0 |            0 |            **1** |
+| :USA: **Harmen** (USA)                             |        3 |      0 |            0 |            **3** |
+| :MEX: **Sue** (Mexico)                             |        2 |      0 |            0 |            **2** |
+| :ALG: **Martine** (Algeria)                        |        1 |      1 |            0 |            **3** |
+| :RSA: **Scott** (South Africa)                     |        2 |      0 |            0 |            **2** |
+| :POR: **Jens** (Portugal)                          |        1 |      0 |            0 |            **1** |
+| :NGA: **Pippa** (Nigeria)                          |        1 |      0 |            0 |            **1** |
+| :ITA: **Rudy** (Italy)                             |        1 |      0 |            0 |            **1** |
+| :NZL: **George** (New Zealand)                     |        2 |      0 |            0 |            **2** |
