@@ -12,32 +12,67 @@ S'PRK'
 p5
 sS'hasResults'
 p6
-I00
-sS'when'
+I01
+sS'awayCards'
 p7
-S'15 June - 20:30'
-p8
-sS'number'
+(I0
+I0
+I0
+I0
+tp8
+sS'when'
 p9
-I14
-sS'homeWiki'
+S'15 June - 20:30'
 p10
-V:BRA: **Vendulka** (Brazil)
+sS'number'
 p11
-sS'awayWiki'
+I14
+sS'awayGoals'
 p12
-V:PRK: **Sonia** (Korea DPR)
-p13
-sS'awayName'
+(lp13
+I89
+asS'homeWiki'
 p14
-S'Korea DPR'
+V:BRA: **Vendulka** (Brazil)
 p15
-sS'homeName'
+sS'awayWiki'
 p16
-S'Brazil'
+V:PRK: **Sonia** (Korea DPR)
 p17
-sS'homeCode'
+sS'awayName'
 p18
-S'BRA'
+S'Korea DPR'
 p19
+sS'homeName'
+p20
+S'Brazil'
+p21
+sS'goals'
+p22
+(lp23
+(I55
+g15
+tp24
+a(I72
+g15
+tp25
+a(I89
+g17
+tp26
+asS'homeGoals'
+p27
+(lp28
+I55
+aI72
+asS'homeCode'
+p29
+S'BRA'
+p30
+sS'homeCards'
+p31
+(I1
+I0
+I0
+I1
+tp32
 sb.

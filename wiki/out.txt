@@ -21,25 +21,25 @@
 | :CMR: **Lisa** (Cameroon)                          |    1 |  0/0/1     |  0/1    |   -1 |     0 | ::: | :NZL: **George** (New Zealand)                     |    1 |  0/1/0     |  1/1    |    0 |     1 |
 | :DEN: **Bas** (Denmark)                            |    1 |  0/0/1     |  0/2    |   -2 |     0 | ::: | :SVK: **Viktor** (Slovakia)                        |    1 |  0/1/0     |  1/1    |    0 |     1 |
 ^ //Group G://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group H://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :CIV: **Quido** (Côte d'Ivoire)                    |    1 |  0/1/0     |  0/0    |    0 |     1 | ::: | :ESP: **Katka** (Spain)                            |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :POR: **Jens** (Portugal)                          |    1 |  0/1/0     |  0/0    |    0 |     1 | ::: | :SUI: **Paul** (Switzerland)                       |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :PRK: **Sonia** (Korea DPR)                        |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :HON: **Sue** (Honduras)                           |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :BRA: **Vendulka** (Brazil)                        |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :CHI: **Ailee** (Chile)                            |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :BRA: **Vendulka** (Brazil)                        |    1 |  1/0/0     |  2/1    |    1 |     3 | ::: | :ESP: **Katka** (Spain)                            |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :CIV: **Quido** (Côte d'Ivoire)                    |    1 |  0/1/0     |  0/0    |    0 |     1 | ::: | :SUI: **Paul** (Switzerland)                       |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :POR: **Jens** (Portugal)                          |    1 |  0/1/0     |  0/0    |    0 |     1 | ::: | :HON: **Sue** (Honduras)                           |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :PRK: **Sonia** (Korea DPR)                        |    1 |  0/0/1     |  1/2    |   -1 |     0 | ::: | :CHI: **Ailee** (Chile)                            |    0 |  0/0/0     |  0/0    |    0 |     0 |
 
 
 ==== Most goals scored ====
 
 ^ Team                                               ^  Goals scored  ^
 | :GER: **Harmen** (Germany)                         |              4 |
+| :BRA: **Vendulka** (Brazil)                        |              2 |
 | :NED: **Floris** (Netherlands)                     |              2 |
 | :KOR: **Rudy** (Korea Republic)                    |              2 |
 | :SVK: **Viktor** (Slovakia)                        |              1 |
+| :PRK: **Sonia** (Korea DPR)                        |              1 |
 | :USA: **Harmen** (USA)                             |              1 |
 | :MEX: **Sue** (Mexico)                             |              1 |
 | :RSA: **Scott** (South Africa)                     |              1 |
 | :ITA: **Rudy** (Italy)                             |              1 |
-| :NZL: **George** (New Zealand)                     |              1 |
-| :SVN: **Jens** (Slovenia)                          |              1 |
 
 
 ==== Fastest goal ====
@@ -61,6 +61,7 @@
 
 ^  No.  ^       When       ^  Match                                                                                     ^  Goals scored  ^
 |     7 |  13 June - 20:30 | Group D: :GER: **Harmen** (Germany) //vs.// :AUS: **Sonia** (Australia)                    | **4** (4:0)    |
+|    14 |  15 June - 20:30 | Group G: :BRA: **Vendulka** (Brazil) //vs.// :PRK: **Sonia** (Korea DPR)                   | **3** (2:1)    |
 |    12 |  15 June - 13:30 | Group F: :NZL: **George** (New Zealand) //vs.// :SVK: **Viktor** (Slovakia)                | **2** (1:1)    |
 |    11 |  14 June - 20:30 | Group F: :ITA: **Rudy** (Italy) //vs.// :PAR: **Martine** (Paraguay)                       | **2** (1:1)    |
 |     9 |  14 June - 13:30 | Group E: :NED: **Floris** (Netherlands) //vs.// :DEN: **Bas** (Denmark)                    | **2** (2:0)    |
@@ -69,7 +70,6 @@
 |     1 |  11 June - 16:00 | Group A: :RSA: **Scott** (South Africa) //vs.// :MEX: **Sue** (Mexico)                     | **2** (1:1)    |
 |    10 |  14 June - 16:00 | Group E: :JPN: **Marty** (Japan) //vs.// :CMR: **Lisa** (Cameroon)                         | **1** (1:0)    |
 |     8 |  13 June - 16:00 | Group D: :SRB: **Olivia** (Serbia) //vs.// :GHA: **AJ** (Ghana)                            | **1** (0:1)    |
-|     6 |  13 June - 13:30 | Group C: :ALG: **Martine** (Algeria) //vs.// :SVN: **Jens** (Slovenia)                     | **1** (0:1)    |
 
 
 ==== Most yellow cards per game ====
@@ -112,9 +112,9 @@
 | :SRB: **Olivia** (Serbia)                          |      D  |  0/1    |   -1 |     0 |
 | :ALG: **Martine** (Algeria)                        |      C  |  0/1    |   -1 |     0 |
 | :NGA: **Pippa** (Nigeria)                          |      B  |  0/1    |   -1 |     0 |
+| :PRK: **Sonia** (Korea DPR)                        |      G  |  1/2    |   -1 |     0 |
 | :CHI: **Ailee** (Chile)                            |      H  |  0/0    |    0 |     0 |
 | :HON: **Sue** (Honduras)                           |      H  |  0/0    |    0 |     0 |
-| :SUI: **Paul** (Switzerland)                       |      H  |  0/0    |    0 |     0 |
 
 
 ===== Calendar =====
@@ -133,7 +133,7 @@
 |    11 |  14 June - 20:30 | Group F: :ITA: **Rudy** (Italy) //vs.// :PAR: **Martine** (Paraguay)                       |      1:1  |  **2** (1:1)     | **39'** -- :PAR: **Martine** (Paraguay) |
 |    12 |  15 June - 13:30 | Group F: :NZL: **George** (New Zealand) //vs.// :SVK: **Viktor** (Slovakia)                |      1:1  |  **3** (2:1)     | **50'** -- :SVK: **Viktor** (Slovakia) |
 |    13 |  15 June - 16:00 | Group G: :CIV: **Quido** (Côte d'Ivoire) //vs.// :POR: **Jens** (Portugal)                 |      0:0  |  **3** (2:1)     | //(no goals)//           |
-|    14 |  15 June - 20:30 | Group G: :BRA: **Vendulka** (Brazil) //vs.// :PRK: **Sonia** (Korea DPR)                   |           |                  |                          |
+|    14 |  15 June - 20:30 | Group G: :BRA: **Vendulka** (Brazil) //vs.// :PRK: **Sonia** (Korea DPR)                   |      2:1  |  **1** (1:0)     | **55'** -- :BRA: **Vendulka** (Brazil) |
 |    15 |  16 June - 13:30 | Group H: :HON: **Sue** (Honduras) //vs.// :CHI: **Ailee** (Chile)                          |           |                  |                          |
 |    16 |  16 June - 16:00 | Group H: :ESP: **Katka** (Spain) //vs.// :SUI: **Paul** (Switzerland)                      |           |                  |                          |
 |    17 |  16 June - 20:30 | Group A: :RSA: **Scott** (South Africa) //vs.// :URU: **AJ** (Uruguay)                     |           |                  |                          |

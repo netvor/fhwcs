@@ -19,7 +19,7 @@
 | :CMR: **Lisa** (Cameroon)                          |    1 |  0/0/1     |  0/1    |   -1 |     0 | ::: | :NZL: **George** (New Zealand)                     |    1 |  0/1/0     |  1/1    |    0 |     1 |
 | :DEN: **Bas** (Denmark)                            |    1 |  0/0/1     |  0/2    |   -2 |     0 | ::: | :SVK: **Viktor** (Slovakia)                        |    1 |  0/1/0     |  1/1    |    0 |     1 |
 ^ //Group G://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group H://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :CIV: **Quido** (Côte d'Ivoire)                    |    1 |  0/1/0     |  0/0    |    0 |     1 | ::: | :ESP: **Katka** (Spain)                            |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :POR: **Jens** (Portugal)                          |    1 |  0/1/0     |  0/0    |    0 |     1 | ::: | :SUI: **Paul** (Switzerland)                       |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :PRK: **Sonia** (Korea DPR)                        |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :HON: **Sue** (Honduras)                           |    0 |  0/0/0     |  0/0    |    0 |     0 |
-| :BRA: **Vendulka** (Brazil)                        |    0 |  0/0/0     |  0/0    |    0 |     0 | ::: | :CHI: **Ailee** (Chile)                            |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :BRA: **Vendulka** (Brazil)                        |    1 |  1/0/0     |  2/1    |    1 |     3 | ::: | :ESP: **Katka** (Spain)                            |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :CIV: **Quido** (Côte d'Ivoire)                    |    1 |  0/1/0     |  0/0    |    0 |     1 | ::: | :SUI: **Paul** (Switzerland)                       |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :POR: **Jens** (Portugal)                          |    1 |  0/1/0     |  0/0    |    0 |     1 | ::: | :HON: **Sue** (Honduras)                           |    0 |  0/0/0     |  0/0    |    0 |     0 |
+| :PRK: **Sonia** (Korea DPR)                        |    1 |  0/0/1     |  1/2    |   -1 |     0 | ::: | :CHI: **Ailee** (Chile)                            |    0 |  0/0/0     |  0/0    |    0 |     0 |
