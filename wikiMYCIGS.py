@@ -21,5 +21,5 @@ def wikiMYCIGSrow(team, yellow, yyr, red, total):
 print '\n\n==== Most yellow cards in group stage ====\n'.encode('utf-8')
 print wikiMYCIGSheader().encode('utf-8')
 
-for (team,[yellow,yyr,red,total]) in list(reversed(sorted(cards.items(),key=lambda f:f[1][2])))[:10]:
+for (team,[yellow,yyr,red,total]) in list(reversed(sorted(cards.items(),key=lambda f:f[1][3])))[:10]:
   print wikiMYCIGSrow(team,yellow,yyr,red,total).encode('utf-8')
