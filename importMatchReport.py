@@ -13,7 +13,12 @@ assert(ms.awayCode == report['awayCode'])
 #assert(ms.homeName == report['homeName'])
 #assert(ms.awayName == report['awayName'])
 
-ms.goals      = report['goals']
+ms.goals      = list()
+for minute,team in report['goals']:
+  if team==ms.homeCode:
+    ms.goals.append( (minute,ms.homeWiki) )
+  else:
+    ms.goals.append( (minute,ms.awayWiki) )
 ms.homeGoals  = report['homeGoals']
 ms.awayGoals  = report['awayGoals']
 ms.homeCards  = report['homeCards']
