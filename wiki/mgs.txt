@@ -12,4 +12,4 @@
 | :GHA: **Franta** (Ghana)                           |              1 |
 | :USA: **Tomáš** (USA)                              |              1 |
 | :JPN: **Standa** (Japan)                           |              1 |
-| :SVN: **Eva** (Slovenia)                           |              1 |
+| :SVK: **Franta** (Slovakia)                        |              1 |

@@ -15,11 +15,12 @@ p6
 I01
 sS'awayCards'
 p7
-(lp8
+(I1
+I0
+I0
 I1
-aI0
-aI1
-asS'when'
+tp8
+sS'when'
 p9
 V14 June 16:00
 p10
@@ -61,8 +62,9 @@ S'JPN'
 p28
 sS'homeCards'
 p29
-(lp30
+(I1
+I0
+I0
 I1
-aI0
-aI1
-asb.
+tp30
+sb.

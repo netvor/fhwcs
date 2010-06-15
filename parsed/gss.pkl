@@ -708,7 +708,7 @@ I0
 sg4
 g120
 sg6
-I0
+I1
 sg7
 I0
 sg8
@@ -720,16 +720,16 @@ sg11
 S'New Zealand'
 p132
 sg13
-I0
+I1
 sg14
-I0
+I1
 sg15
 S'NZL'
 p133
 sg17
-I0
+I1
 sg18
-I0
+I1
 sba(iglobals
 TeamStat
 p134
@@ -739,7 +739,7 @@ I0
 sg4
 g120
 sg6
-I0
+I1
 sg7
 I0
 sg8
@@ -751,16 +751,16 @@ sg11
 S'Slovakia'
 p137
 sg13
-I0
+I1
 sg14
-I0
+I1
 sg15
 S'SVK'
 p138
 sg17
-I0
+I1
 sg18
-I0
+I1
 sba(iglobals
 TeamStat
 p139
@@ -771,26 +771,26 @@ sg4
 S'G'
 p141
 sg6
-I0
+I1
 sg7
 I0
 sg8
 I0
 sg9
-V:BRA: **Dana** (Brazil)
+V:CIV: **Martin** (Côte d'Ivoire)
 p142
 sg11
-S'Brazil'
+VCôte d'Ivoire
 p143
 sg13
-I0
+I1
 sg14
 I0
 sg15
-S'BRA'
+S'CIV'
 p144
 sg17
-I0
+I1
 sg18
 I0
 sba(iglobals
@@ -802,26 +802,26 @@ I0
 sg4
 g141
 sg6
-I0
+I1
 sg7
 I0
 sg8
 I0
 sg9
-V:PRK: **Martina** (Korea DPR)
+V:POR: **Eva** (Portugal)
 p147
 sg11
-S'Korea DPR'
+S'Portugal'
 p148
 sg13
-I0
+I1
 sg14
 I0
 sg15
-S'PRK'
+S'POR'
 p149
 sg17
-I0
+I1
 sg18
 I0
 sba(iglobals
@@ -839,17 +839,17 @@ I0
 sg8
 I0
 sg9
-V:CIV: **Martin** (Côte d'Ivoire)
+V:PRK: **Martina** (Korea DPR)
 p152
 sg11
-VCôte d'Ivoire
+S'Korea DPR'
 p153
 sg13
 I0
 sg14
 I0
 sg15
-S'CIV'
+S'PRK'
 p154
 sg17
 I0
@@ -870,17 +870,17 @@ I0
 sg8
 I0
 sg9
-V:POR: **Eva** (Portugal)
+V:BRA: **Dana** (Brazil)
 p157
 sg11
-S'Portugal'
+S'Brazil'
 p158
 sg13
 I0
 sg14
 I0
 sg15
-S'POR'
+S'BRA'
 p159
 sg17
 I0
