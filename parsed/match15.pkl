@@ -12,32 +12,59 @@ S'CHI'
 p5
 sS'hasResults'
 p6
-I00
-sS'when'
+I01
+sS'awayCards'
 p7
-V16 June 13:30
-p8
-sS'number'
+(I2
+I0
+I0
+I2
+tp8
+sS'when'
 p9
-I15
-sS'homeWiki'
+V16 June 13:30
 p10
-V:HON: **\u017du\u017eu** (Honduras)
+sS'number'
 p11
-sS'awayWiki'
+I15
+sS'awayGoals'
 p12
-V:CHI: **Hanka** (Chile)
-p13
-sS'awayName'
+(lp13
+I34
+asS'homeWiki'
 p14
-S'Chile'
+V:HON: **\u017du\u017eu** (Honduras)
 p15
-sS'homeName'
+sS'awayWiki'
 p16
-S'Honduras'
+V:CHI: **Hanka** (Chile)
 p17
-sS'homeCode'
+sS'awayName'
 p18
-S'HON'
+S'Chile'
 p19
+sS'homeName'
+p20
+S'Honduras'
+p21
+sS'goals'
+p22
+(lp23
+(I34
+g17
+tp24
+asS'homeGoals'
+p25
+(lp26
+sS'homeCode'
+p27
+S'HON'
+p28
+sS'homeCards'
+p29
+(I1
+I0
+I0
+I1
+tp30
 sb.

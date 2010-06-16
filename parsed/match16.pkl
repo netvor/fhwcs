@@ -12,32 +12,59 @@ S'SUI'
 p5
 sS'hasResults'
 p6
-I00
-sS'when'
+I01
+sS'awayCards'
 p7
-V16 June 16:00
-p8
-sS'number'
+(I4
+I0
+I0
+I4
+tp8
+sS'when'
 p9
-I16
-sS'homeWiki'
+V16 June 16:00
 p10
-V:ESP: **Jana V.** (Spain)
+sS'number'
 p11
-sS'awayWiki'
+I16
+sS'awayGoals'
 p12
-V:SUI: **Renata Z.** (Switzerland)
-p13
-sS'awayName'
+(lp13
+I52
+asS'homeWiki'
 p14
-S'Switzerland'
+V:ESP: **Jana V.** (Spain)
 p15
-sS'homeName'
+sS'awayWiki'
 p16
-S'Spain'
+V:SUI: **Renata Z.** (Switzerland)
 p17
-sS'homeCode'
+sS'awayName'
 p18
-S'ESP'
+S'Switzerland'
 p19
+sS'homeName'
+p20
+S'Spain'
+p21
+sS'goals'
+p22
+(lp23
+(I52
+g17
+tp24
+asS'homeGoals'
+p25
+(lp26
+sS'homeCode'
+p27
+S'ESP'
+p28
+sS'homeCards'
+p29
+(I0
+I0
+I0
+I0
+tp30
 sb.

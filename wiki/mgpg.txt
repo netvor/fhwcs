@@ -11,5 +11,5 @@
 |     5 |    12 June 20:30 | Group C: :ENG: **Hanka** (England) //vs.// :USA: **Tomáš** (USA)                           | **2** (1:1)    |
 |     4 |    12 June 13:30 | Group B: :KOR: **Vlasta** (Korea Republic) //vs.// :GRE: **Denisa** (Greece)               | **2** (2:0)    |
 |     1 |    11 June 16:00 | Group A: :RSA: **Wendy** (South Africa) //vs.// :MEX: **Olina H.** (Mexico)                | **2** (1:1)    |
-|    10 |    14 June 16:00 | Group E: :JPN: **Standa** (Japan) //vs.// :CMR: **Markéta** (Cameroon)                     | **1** (1:0)    |
-|     8 |    13 June 16:00 | Group D: :SRB: **Denisa** (Serbia) //vs.// :GHA: **Franta** (Ghana)                        | **1** (0:1)    |
+|    16 |    16 June 16:00 | Group H: :ESP: **Jana V.** (Spain) //vs.// :SUI: **Renata Z.** (Switzerland)               | **1** (0:1)    |
+|    15 |    16 June 13:30 | Group H: :HON: **Žužu** (Honduras) //vs.// :CHI: **Hanka** (Chile)                         | **1** (0:1)    |
