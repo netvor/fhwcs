@@ -25,7 +25,7 @@ whohas = { 'ALG' : u'Martine' ,
            'PAR' : u'Martine' ,
            'POR' : u'Jens' ,
            'PRK' : u'Sonia' , # needs to pay
-           'RSA' : u'Scott' , # needs to pay
+           'RSA' : u'Scott' ,
            'SRB' : u'Olivia' , # needs to pay
            'SUI' : u'Paul' ,
            'SVK' : u'Viktor' ,
