@@ -12,37 +12,37 @@ S'A'
 p5
 sS'played'
 p6
-I1
+I2
 sS'goalsDiff'
 p7
-I0
+I3
 sS'wins'
 p8
-I0
+I1
 sS'teamWiki'
 p9
-V:RSA: **Wendy** (South Africa)
+V:URU: **Renata Z.** (Uruguay)
 p10
 sS'teamName'
 p11
-S'South Africa'
+S'Uruguay'
 p12
 sS'points'
 p13
-I1
+I4
 sS'goalsAgainst'
 p14
-I1
+I0
 sS'teamCode'
 p15
-S'RSA'
+S'URU'
 p16
 sS'draws'
 p17
 I1
 sS'goalsFor'
 p18
-I1
+I3
 sba(iglobals
 TeamStat
 p19
@@ -89,17 +89,17 @@ I0
 sg8
 I0
 sg9
-V:URU: **Renata Z.** (Uruguay)
+V:FRA: **Jana L.** (France)
 p26
 sg11
-S'Uruguay'
+S'France'
 p27
 sg13
 I1
 sg14
 I0
 sg15
-S'URU'
+S'FRA'
 p28
 sg17
 I1
@@ -110,32 +110,32 @@ TeamStat
 p29
 (dp30
 g3
-I0
+I1
 sg4
 g5
 sg6
-I1
+I2
 sg7
-I0
+I-3
 sg8
 I0
 sg9
-V:FRA: **Jana L.** (France)
+V:RSA: **Wendy** (South Africa)
 p31
 sg11
-S'France'
+S'South Africa'
 p32
 sg13
 I1
 sg14
-I0
+I4
 sg15
-S'FRA'
+S'RSA'
 p33
 sg17
 I1
 sg18
-I0
+I1
 sba(iglobals
 TeamStat
 p34

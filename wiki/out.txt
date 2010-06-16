@@ -6,10 +6,10 @@
 
 
 ^ //Group A://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group B://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :RSA: **Wendy** (South Africa)                     |    1 |  0/1/0     |  1/1    |    0 |     1 | ::: | :KOR: **Vlasta** (Korea Republic)                  |    1 |  1/0/0     |  2/0    |    2 |     3 |
+| :URU: **Renata Z.** (Uruguay)                      |    2 |  1/1/0     |  3/0    |    3 |     4 | ::: | :KOR: **Vlasta** (Korea Republic)                  |    1 |  1/0/0     |  2/0    |    2 |     3 |
 | :MEX: **Olina H.** (Mexico)                        |    1 |  0/1/0     |  1/1    |    0 |     1 | ::: | :ARG: **Míša** (Argentina)                         |    1 |  1/0/0     |  1/0    |    1 |     3 |
-| :URU: **Renata Z.** (Uruguay)                      |    1 |  0/1/0     |  0/0    |    0 |     1 | ::: | :NGA: **Standa** (Nigeria)                         |    1 |  0/0/1     |  0/1    |   -1 |     0 |
-| :FRA: **Jana L.** (France)                         |    1 |  0/1/0     |  0/0    |    0 |     1 | ::: | :GRE: **Denisa** (Greece)                          |    1 |  0/0/1     |  0/2    |   -2 |     0 |
+| :FRA: **Jana L.** (France)                         |    1 |  0/1/0     |  0/0    |    0 |     1 | ::: | :NGA: **Standa** (Nigeria)                         |    1 |  0/0/1     |  0/1    |   -1 |     0 |
+| :RSA: **Wendy** (South Africa)                     |    2 |  0/1/1     |  1/4    |   -3 |     1 | ::: | :GRE: **Denisa** (Greece)                          |    1 |  0/0/1     |  0/2    |   -2 |     0 |
 ^ //Group C://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group D://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
 | :SVN: **Eva** (Slovenia)                           |    1 |  1/0/0     |  1/0    |    1 |     3 | ::: | :GER: **Lenny** (Germany)                          |    1 |  1/0/0     |  4/0    |    4 |     3 |
 | :USA: **Tomáš** (USA)                              |    1 |  0/1/0     |  1/1    |    0 |     1 | ::: | :GHA: **Franta** (Ghana)                           |    1 |  1/0/0     |  1/0    |    1 |     3 |
@@ -31,6 +31,7 @@
 
 ^ Team                                               ^  Goals scored  ^
 | :GER: **Lenny** (Germany)                          |              4 |
+| :URU: **Renata Z.** (Uruguay)                      |              3 |
 | :BRA: **Dana** (Brazil)                            |              2 |
 | :KOR: **Vlasta** (Korea Republic)                  |              2 |
 | :NED: **Olina K.** (Netherlands)                   |              2 |
@@ -39,7 +40,6 @@
 | :ENG: **Hanka** (England)                          |              1 |
 | :ARG: **Míša** (Argentina)                         |              1 |
 | :GHA: **Franta** (Ghana)                           |              1 |
-| :USA: **Tomáš** (USA)                              |              1 |
 
 
 ==== Fastest goal ====
@@ -49,18 +49,19 @@
 | :ARG: **Míša** (Argentina)                         |       6' |
 | :KOR: **Vlasta** (Korea Republic)                  |       7' |
 | :GER: **Lenny** (Germany)                          |       8' |
+| :URU: **Renata Z.** (Uruguay)                      |      24' |
 | :GER: **Lenny** (Germany)                          |      26' |
 | :CHI: **Hanka** (Chile)                            |      34' |
 | :JPN: **Standa** (Japan)                           |      39' |
 | :PAR: **Jana L.** (Paraguay)                       |      39' |
 | :USA: **Tomáš** (USA)                              |      40' |
-| :NED: **Olina K.** (Netherlands)                   |      46' |
 
 
 ==== Most goals per game ====
 
 ^  No.  ^       When       ^  Match                                                                                     ^  Goals scored  ^
 |     7 |    13 June 20:30 | Group D: :GER: **Lenny** (Germany) //vs.// :AUS: **Petra** (Australia)                     | **4** (4:0)    |
+|    17 |    16 June 20:30 | Group A: :RSA: **Wendy** (South Africa) //vs.// :URU: **Renata Z.** (Uruguay)              | **3** (0:3)    |
 |    14 |    15 June 20:30 | Group G: :BRA: **Dana** (Brazil) //vs.// :PRK: **Martina** (Korea DPR)                     | **3** (2:1)    |
 |    12 |    15 June 13:30 | Group F: :NZL: **Martin** (New Zealand) //vs.// :SVK: **Franta** (Slovakia)                | **2** (1:1)    |
 |    11 |    14 June 20:30 | Group F: :ITA: **Jana V.** (Italy) //vs.// :PAR: **Jana L.** (Paraguay)                    | **2** (1:1)    |
@@ -69,7 +70,6 @@
 |     4 |    12 June 13:30 | Group B: :KOR: **Vlasta** (Korea Republic) //vs.// :GRE: **Denisa** (Greece)               | **2** (2:0)    |
 |     1 |    11 June 16:00 | Group A: :RSA: **Wendy** (South Africa) //vs.// :MEX: **Olina H.** (Mexico)                | **2** (1:1)    |
 |    16 |    16 June 16:00 | Group H: :ESP: **Jana V.** (Spain) //vs.// :SUI: **Renata Z.** (Switzerland)               | **1** (0:1)    |
-|    15 |    16 June 13:30 | Group H: :HON: **Žužu** (Honduras) //vs.// :CHI: **Hanka** (Chile)                         | **1** (0:1)    |
 
 
 ==== Most yellow cards per game ====
@@ -77,6 +77,7 @@
 ^  No.  ^       When       ^  Match                                                                                     ^    Yellow    ^     2Y=R     ^  Direct red  ^  Weighted Total  ^
 |     7 |    13 June 20:30 | Group D: :GER: **Lenny** (Germany) //vs.// :AUS: **Petra** (Australia)                     | 5 (2:3)      | 0 (0:0)      | 1 (0:1)      | **9** (2:7)      |
 |     2 |    11 June 20:30 | Group A: :URU: **Renata Z.** (Uruguay) //vs.// :FRA: **Jana L.** (France)                  | 5 (2:3)      | 1 (1:0)      | 0 (0:0)      | **7** (4:3)      |
+|    17 |    16 June 20:30 | Group A: :RSA: **Wendy** (South Africa) //vs.// :URU: **Renata Z.** (Uruguay)              | 2 (2:0)      | 0 (0:0)      | 1 (1:0)      | **6** (6:0)      |
 |     8 |    13 June 16:00 | Group D: :SRB: **Denisa** (Serbia) //vs.// :GHA: **Franta** (Ghana)                        | 4 (2:2)      | 1 (1:0)      | 0 (0:0)      | **6** (4:2)      |
 |     5 |    12 June 20:30 | Group C: :ENG: **Hanka** (England) //vs.// :USA: **Tomáš** (USA)                           | 6 (3:3)      | 0 (0:0)      | 0 (0:0)      | **6** (3:3)      |
 |     6 |    13 June 13:30 | Group C: :ALG: **Žužu** (Algeria) //vs.// :SVN: **Eva** (Slovenia)                         | 3 (1:2)      | 1 (1:0)      | 0 (0:0)      | **5** (3:2)      |
@@ -84,12 +85,12 @@
 |     1 |    11 June 16:00 | Group A: :RSA: **Wendy** (South Africa) //vs.// :MEX: **Olina H.** (Mexico)                | 4 (2:2)      | 0 (0:0)      | 0 (0:0)      | **4** (2:2)      |
 |    15 |    16 June 13:30 | Group H: :HON: **Žužu** (Honduras) //vs.// :CHI: **Hanka** (Chile)                         | 3 (1:2)      | 0 (0:0)      | 0 (0:0)      | **3** (1:2)      |
 |    13 |    15 June 16:00 | Group G: :CIV: **Martin** (Côte d'Ivoire) //vs.// :POR: **Eva** (Portugal)                 | 3 (2:1)      | 0 (0:0)      | 0 (0:0)      | **3** (2:1)      |
-|    12 |    15 June 13:30 | Group F: :NZL: **Martin** (New Zealand) //vs.// :SVK: **Franta** (Slovakia)                | 3 (2:1)      | 0 (0:0)      | 0 (0:0)      | **3** (2:1)      |
 
 
 ==== Most yellow cards in group stage ====
 
 ^ Team                                               ^  Yellow  ^  2Y=R  ^  Direct Red  ^  Weighted Total  ^
+| :RSA: **Wendy** (South Africa)                     |        4 |      0 |            1 |            **8** |
 | :AUS: **Petra** (Australia)                        |        3 |      0 |            1 |            **7** |
 | :SRB: **Denisa** (Serbia)                          |        2 |      1 |            0 |            **4** |
 | :SUI: **Renata Z.** (Switzerland)                  |        4 |      0 |            0 |            **4** |
@@ -99,7 +100,6 @@
 | :USA: **Tomáš** (USA)                              |        3 |      0 |            0 |            **3** |
 | :ALG: **Žužu** (Algeria)                           |        1 |      1 |            0 |            **3** |
 | :MEX: **Olina H.** (Mexico)                        |        2 |      0 |            0 |            **2** |
-| :GHA: **Franta** (Ghana)                           |        2 |      0 |            0 |            **2** |
 
 
 ==== Lowest score in group stage ====
@@ -136,7 +136,7 @@
 |    14 |    15 June 20:30 | Group G: :BRA: **Dana** (Brazil) //vs.// :PRK: **Martina** (Korea DPR)                     |      2:1  |  **1** (1:0)     | **55'** -- :BRA: **Dana** (Brazil) |
 |    15 |    16 June 13:30 | Group H: :HON: **Žužu** (Honduras) //vs.// :CHI: **Hanka** (Chile)                         |      0:1  |  **3** (1:2)     | **34'** -- :CHI: **Hanka** (Chile) |
 |    16 |    16 June 16:00 | Group H: :ESP: **Jana V.** (Spain) //vs.// :SUI: **Renata Z.** (Switzerland)               |      0:1  |  **4** (0:4)     | **52'** -- :SUI: **Renata Z.** (Switzerland) |
-|    17 |    16 June 20:30 | Group A: :RSA: **Wendy** (South Africa) //vs.// :URU: **Renata Z.** (Uruguay)              |           |                  |                          |
+|    17 |    16 June 20:30 | Group A: :RSA: **Wendy** (South Africa) //vs.// :URU: **Renata Z.** (Uruguay)              |      0:3  |  **6** (6:0)     | **24'** -- :URU: **Renata Z.** (Uruguay) |
 |    18 |    17 June 20:30 | Group A: :FRA: **Jana L.** (France) //vs.// :MEX: **Olina H.** (Mexico)                    |           |                  |                          |
 |    19 |    17 June 16:00 | Group B: :GRE: **Denisa** (Greece) //vs.// :NGA: **Standa** (Nigeria)                      |           |                  |                          |
 |    20 |    17 June 13:30 | Group B: :ARG: **Míša** (Argentina) //vs.// :KOR: **Vlasta** (Korea Republic)              |           |                  |                          |
