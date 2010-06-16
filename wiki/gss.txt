@@ -4,10 +4,10 @@
 
 
 ^ //Group A://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group B://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :RSA: **Scott** (South Africa)                     |    1 |  0/1/0     |  1/1    |    0 |     1 | ::: | :KOR: **Rudy** (Korea Republic)                    |    1 |  1/0/0     |  2/0    |    2 |     3 |
+| :URU: **AJ** (Uruguay)                             |    2 |  1/1/0     |  3/0    |    3 |     4 | ::: | :KOR: **Rudy** (Korea Republic)                    |    1 |  1/0/0     |  2/0    |    2 |     3 |
 | :MEX: **Sue** (Mexico)                             |    1 |  0/1/0     |  1/1    |    0 |     1 | ::: | :ARG: **George** (Argentina)                       |    1 |  1/0/0     |  1/0    |    1 |     3 |
-| :URU: **AJ** (Uruguay)                             |    1 |  0/1/0     |  0/0    |    0 |     1 | ::: | :NGA: **Pippa** (Nigeria)                          |    1 |  0/0/1     |  0/1    |   -1 |     0 |
-| :FRA: **Bas** (France)                             |    1 |  0/1/0     |  0/0    |    0 |     1 | ::: | :GRE: **Paul** (Greece)                            |    1 |  0/0/1     |  0/2    |   -2 |     0 |
+| :FRA: **Bas** (France)                             |    1 |  0/1/0     |  0/0    |    0 |     1 | ::: | :NGA: **Pippa** (Nigeria)                          |    1 |  0/0/1     |  0/1    |   -1 |     0 |
+| :RSA: **Scott** (South Africa)                     |    2 |  0/1/1     |  1/4    |   -3 |     1 | ::: | :GRE: **Paul** (Greece)                            |    1 |  0/0/1     |  0/2    |   -2 |     0 |
 ^ //Group C://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group D://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
 | :SVN: **Jens** (Slovenia)                          |    1 |  1/0/0     |  1/0    |    1 |     3 | ::: | :GER: **Harmen** (Germany)                         |    1 |  1/0/0     |  4/0    |    4 |     3 |
 | :USA: **Harmen** (USA)                             |    1 |  0/1/0     |  1/1    |    0 |     1 | ::: | :GHA: **AJ** (Ghana)                               |    1 |  1/0/0     |  1/0    |    1 |     3 |
