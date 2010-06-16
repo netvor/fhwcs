@@ -8,8 +8,8 @@
 | :KOR: **Rudy** (Korea Republic)                    |       7' |
 | :GER: **Harmen** (Germany)                         |       8' |
 | :GER: **Harmen** (Germany)                         |      26' |
+| :CHI: **Ailee** (Chile)                            |      34' |
 | :JPN: **Marty** (Japan)                            |      39' |
 | :PAR: **Martine** (Paraguay)                       |      39' |
 | :USA: **Harmen** (USA)                             |      40' |
 | :NED: **Floris** (Netherlands)                     |      46' |
-| :SVK: **Viktor** (Slovakia)                        |      50' |

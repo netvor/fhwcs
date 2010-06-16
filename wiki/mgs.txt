@@ -11,5 +11,5 @@
 | :PRK: **Sonia** (Korea DPR)                        |              1 |
 | :USA: **Harmen** (USA)                             |              1 |
 | :MEX: **Sue** (Mexico)                             |              1 |
+| :SUI: **Paul** (Switzerland)                       |              1 |
 | :RSA: **Scott** (South Africa)                     |              1 |
-| :ITA: **Rudy** (Italy)                             |              1 |

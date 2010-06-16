@@ -8,8 +8,8 @@
 |     8 |  13 June - 16:00 | Group D: :SRB: **Olivia** (Serbia) //vs.// :GHA: **AJ** (Ghana)                            | 4 (2:2)      | 1 (1:0)      | 0 (0:0)      | **6** (4:2)      |
 |     5 |  12 June - 20:30 | Group C: :ENG: **George** (England) //vs.// :USA: **Harmen** (USA)                         | 6 (3:3)      | 0 (0:0)      | 0 (0:0)      | **6** (3:3)      |
 |     6 |  13 June - 13:30 | Group C: :ALG: **Martine** (Algeria) //vs.// :SVN: **Jens** (Slovenia)                     | 3 (1:2)      | 1 (1:0)      | 0 (0:0)      | **5** (3:2)      |
+|    16 |  16 June - 16:00 | Group H: :ESP: **Katka** (Spain) //vs.// :SUI: **Paul** (Switzerland)                      | 4 (0:4)      | 0 (0:0)      | 0 (0:0)      | **4** (0:4)      |
 |     1 |  11 June - 16:00 | Group A: :RSA: **Scott** (South Africa) //vs.// :MEX: **Sue** (Mexico)                     | 4 (2:2)      | 0 (0:0)      | 0 (0:0)      | **4** (2:2)      |
+|    15 |  16 June - 13:30 | Group H: :HON: **Sue** (Honduras) //vs.// :CHI: **Ailee** (Chile)                          | 3 (1:2)      | 0 (0:0)      | 0 (0:0)      | **3** (1:2)      |
 |    13 |  15 June - 16:00 | Group G: :CIV: **Quido** (Côte d'Ivoire) //vs.// :POR: **Jens** (Portugal)                 | 3 (2:1)      | 0 (0:0)      | 0 (0:0)      | **3** (2:1)      |
 |    12 |  15 June - 13:30 | Group F: :NZL: **George** (New Zealand) //vs.// :SVK: **Viktor** (Slovakia)                | 3 (2:1)      | 0 (0:0)      | 0 (0:0)      | **3** (2:1)      |
-|     9 |  14 June - 13:30 | Group E: :NED: **Floris** (Netherlands) //vs.// :DEN: **Bas** (Denmark)                    | 3 (2:1)      | 0 (0:0)      | 0 (0:0)      | **3** (2:1)      |
-|    11 |  14 June - 20:30 | Group F: :ITA: **Rudy** (Italy) //vs.// :PAR: **Martine** (Paraguay)                       | 2 (1:1)      | 0 (0:0)      | 0 (0:0)      | **2** (1:1)      |
