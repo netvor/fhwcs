@@ -12,32 +12,57 @@ S'SVK'
 p5
 sS'hasResults'
 p6
-I00
-sS'when'
+I01
+sS'awayCards'
 p7
-S'15 June - 13:30'
-p8
-sS'number'
+(I1
+I0
+I0
+I1
+tp8
+sS'when'
 p9
-I12
-sS'homeWiki'
+V15 June 13:30
 p10
-V:NZL: **Michal** (New Zealand)
+sS'number'
 p11
-sS'awayWiki'
+I12
+sS'awayGoals'
 p12
-V:SVK: **Ludmila** (Slovakia)
-p13
-sS'awayName'
+(lp13
+I50
+asS'homeGoals'
 p14
-S'Slovakia'
-p15
-sS'homeName'
+(lp15
+I90
+asS'awayName'
 p16
-S'New Zealand'
+S'Slovakia'
 p17
-sS'homeCode'
+sS'homeName'
 p18
-S'NZL'
+S'New Zealand'
 p19
-sb.
+sS'homeCode'
+p20
+S'NZL'
+p21
+sS'homeCards'
+p22
+(I2
+I0
+I0
+I2
+tp23
+sS'goalsCode'
+p24
+(lp25
+(I50
+VSVK
+p26
+tp27
+a(I90
+VNZL
+p28
+tp29
+asb.

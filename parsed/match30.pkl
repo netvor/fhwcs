@@ -15,29 +15,21 @@ p6
 I00
 sS'when'
 p7
-S'21 June - 13:30'
+V21 June 13:30
 p8
 sS'number'
 p9
 I30
-sS'homeWiki'
-p10
-V:POR: **Kate\u0159ina** (Portugal)
-p11
-sS'awayWiki'
-p12
-V:PRK: **Petra** (Korea DPR)
-p13
 sS'awayName'
-p14
+p10
 S'Korea DPR'
-p15
+p11
 sS'homeName'
-p16
+p12
 S'Portugal'
-p17
+p13
 sS'homeCode'
-p18
+p14
 S'POR'
-p19
+p15
 sb.

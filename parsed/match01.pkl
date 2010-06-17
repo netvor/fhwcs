@@ -12,32 +12,57 @@ S'MEX'
 p5
 sS'hasResults'
 p6
-I00
-sS'when'
+I01
+sS'awayCards'
 p7
-S'11 June - 16:00'
-p8
-sS'number'
+(I2
+I0
+I0
+I2
+tp8
+sS'when'
 p9
-I1
-sS'homeWiki'
+V11 June 16:00
 p10
-V:RSA: **Lucie** (South Africa)
+sS'number'
 p11
-sS'awayWiki'
+I1
+sS'awayGoals'
 p12
-V:MEX: **Karel** (Mexico)
-p13
-sS'awayName'
+(lp13
+I79
+asS'homeGoals'
 p14
-S'Mexico'
-p15
-sS'homeName'
+(lp15
+I55
+asS'awayName'
 p16
-S'South Africa'
+S'Mexico'
 p17
-sS'homeCode'
+sS'homeName'
 p18
-S'RSA'
+S'South Africa'
 p19
-sb.
+sS'homeCode'
+p20
+S'RSA'
+p21
+sS'homeCards'
+p22
+(I2
+I0
+I0
+I2
+tp23
+sS'goalsCode'
+p24
+(lp25
+(I55
+VRSA
+p26
+tp27
+a(I79
+VMEX
+p28
+tp29
+asb.

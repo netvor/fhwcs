@@ -15,29 +15,21 @@ p6
 I00
 sS'when'
 p7
-S'18 June - 16:00'
+V18 June 16:00
 p8
 sS'number'
 p9
 I22
-sS'homeWiki'
-p10
-V:SVN: **Luká\u0161** (Slovenia)
-p11
-sS'awayWiki'
-p12
-V:USA: **David** (USA)
-p13
 sS'awayName'
-p14
+p10
 S'USA'
-p15
+p11
 sS'homeName'
-p16
+p12
 S'Slovenia'
-p17
+p13
 sS'homeCode'
-p18
+p14
 S'SVN'
-p19
+p15
 sb.
