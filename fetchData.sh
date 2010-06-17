@@ -6,4 +6,6 @@ CALENDARURL='http://www.fifa.com/worldcup/matches/calendar.html'
 CALENDARFILE='raw/calendar.html'
 
 wget -O $STANDINGSFILE $STANDINGSURL && python parseGSS.py
-# wget -O $CALENDARFILE $CALENDARURL && ./parseCalendar.sh
+wget -O $CALENDARFILE $CALENDARURL && ./parseCalendar.sh
+
+./downloadMatchReports.sh && ./processMatchReports.sh

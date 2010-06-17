@@ -15,29 +15,21 @@ p6
 I00
 sS'when'
 p7
-S'19 June - 20:30'
+V19 June 20:30
 p8
 sS'number'
 p9
 I26
-sS'homeWiki'
-p10
-V:CMR: **Lisa** (Cameroon)
-p11
-sS'awayWiki'
-p12
-V:DEN: **Bas** (Denmark)
-p13
 sS'awayName'
-p14
+p10
 S'Denmark'
-p15
+p11
 sS'homeName'
-p16
+p12
 S'Cameroon'
-p17
+p13
 sS'homeCode'
-p18
+p14
 S'CMR'
-p19
+p15
 sb.

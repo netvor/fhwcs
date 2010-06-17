@@ -6,7 +6,7 @@ from operator import itemgetter
 goals=list()
 for ms in unmarshalMatches('parsed/match%02d.pkl'):
   if ms.hasResults:
-    goals += ms.goals
+    goals += ms.goals()
 
 def wikiFGheader():
   return '^ %-50s ^  Minute  ^' % ('Team')

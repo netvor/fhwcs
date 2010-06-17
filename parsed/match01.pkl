@@ -22,7 +22,7 @@ I2
 tp8
 sS'when'
 p9
-S'11 June - 16:00'
+V11 June 16:00
 p10
 sS'number'
 p11
@@ -31,44 +31,38 @@ sS'awayGoals'
 p12
 (lp13
 I79
-asS'homeWiki'
-p14
-V:RSA: **Scott** (South Africa)
-p15
-sS'awayWiki'
-p16
-V:MEX: **Sue** (Mexico)
-p17
-sS'awayName'
-p18
-S'Mexico'
-p19
-sS'homeName'
-p20
-S'South Africa'
-p21
-sS'goals'
-p22
-(lp23
-(I55
-g15
-tp24
-a(I79
-g17
-tp25
 asS'homeGoals'
-p26
-(lp27
+p14
+(lp15
 I55
-asS'homeCode'
-p28
+asS'awayName'
+p16
+S'Mexico'
+p17
+sS'homeName'
+p18
+S'South Africa'
+p19
+sS'homeCode'
+p20
 S'RSA'
-p29
+p21
 sS'homeCards'
-p30
+p22
 (I2
 I0
 I0
 I2
-tp31
-sb.
+tp23
+sS'goalsCode'
+p24
+(lp25
+(I55
+VRSA
+p26
+tp27
+a(I79
+VMEX
+p28
+tp29
+asb.

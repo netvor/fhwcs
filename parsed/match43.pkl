@@ -15,29 +15,21 @@ p6
 I00
 sS'when'
 p7
-S'24 June - 20:30'
+V24 June 20:30
 p8
 sS'number'
 p9
 I43
-sS'homeWiki'
-p10
-V:DEN: **Bas** (Denmark)
-p11
-sS'awayWiki'
-p12
-V:JPN: **Marty** (Japan)
-p13
 sS'awayName'
-p14
+p10
 S'Japan'
-p15
+p11
 sS'homeName'
-p16
+p12
 S'Denmark'
-p17
+p13
 sS'homeCode'
-p18
+p14
 S'DEN'
-p19
+p15
 sb.

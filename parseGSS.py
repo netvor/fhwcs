@@ -16,7 +16,6 @@ for letter in string.ascii_uppercase[:8]:
     ts.group = letter
     ts.teamCode = tdTeam.find('.//img').get('src')[-7:-4].upper()
     ts.teamName = tdTeam.find('.//img').get('title')
-    ts.teamWiki = ':%s: **%s** (%s)' % (ts.teamCode, whohas[ts.teamCode], ts.teamName)
     ts.played = int(tdPlayed.text)
     ts.wins = int(tdWins.text)
     ts.draws = int(tdDraws.text)

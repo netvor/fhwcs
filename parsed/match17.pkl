@@ -22,7 +22,7 @@ I0
 tp8
 sS'when'
 p9
-S'16 June - 20:30'
+V16 June 20:30
 p10
 sS'number'
 p11
@@ -33,46 +33,41 @@ p12
 I24
 aI80
 aI90
-asS'homeWiki'
-p14
-V:RSA: **Scott** (South Africa)
-p15
-sS'awayWiki'
-p16
-V:URU: **AJ** (Uruguay)
-p17
-sS'awayName'
-p18
-S'Uruguay'
-p19
-sS'homeName'
-p20
-S'South Africa'
-p21
-sS'goals'
-p22
-(lp23
-(I24
-g17
-tp24
-a(I80
-g17
-tp25
-a(I90
-g17
-tp26
 asS'homeGoals'
-p27
-(lp28
+p14
+(lp15
+sS'awayName'
+p16
+S'Uruguay'
+p17
+sS'homeName'
+p18
+S'South Africa'
+p19
 sS'homeCode'
-p29
+p20
 S'RSA'
-p30
+p21
 sS'homeCards'
-p31
+p22
 (I2
 I0
 I1
 I6
-tp32
-sb.
+tp23
+sS'goalsCode'
+p24
+(lp25
+(I24
+VURU
+p26
+tp27
+a(I80
+VURU
+p28
+tp29
+a(I90
+VURU
+p30
+tp31
+asb.

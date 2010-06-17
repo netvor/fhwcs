@@ -15,29 +15,21 @@ p6
 I00
 sS'when'
 p7
-S'22 June - 20:30'
+V22 June 20:30
 p8
 sS'number'
 p9
 I35
-sS'homeWiki'
-p10
-V:NGA: **Pippa** (Nigeria)
-p11
-sS'awayWiki'
-p12
-V:KOR: **Rudy** (Korea Republic)
-p13
 sS'awayName'
-p14
+p10
 S'Korea Republic'
-p15
+p11
 sS'homeName'
-p16
+p12
 S'Nigeria'
-p17
+p13
 sS'homeCode'
-p18
+p14
 S'NGA'
-p19
+p15
 sb.

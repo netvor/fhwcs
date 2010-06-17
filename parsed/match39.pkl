@@ -15,29 +15,21 @@ p6
 I00
 sS'when'
 p7
-S'23 June - 20:30'
+V23 June 20:30
 p8
 sS'number'
 p9
 I39
-sS'homeWiki'
-p10
-V:GHA: **AJ** (Ghana)
-p11
-sS'awayWiki'
-p12
-V:GER: **Harmen** (Germany)
-p13
 sS'awayName'
-p14
+p10
 S'Germany'
-p15
+p11
 sS'homeName'
-p16
+p12
 S'Ghana'
-p17
+p13
 sS'homeCode'
-p18
+p14
 S'GHA'
-p19
+p15
 sb.
