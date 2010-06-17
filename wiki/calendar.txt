@@ -20,7 +20,7 @@
 |    15 |    16 June 13:30 | Group H: :HON: **Sue** (Honduras) //vs.// :CHI: **Ailee** (Chile)                          |      0:1  |  **3** (1:2)     | **34'** -- :CHI: **Ailee** (Chile) |
 |    16 |    16 June 16:00 | Group H: :ESP: **Katka** (Spain) //vs.// :SUI: **Paul** (Switzerland)                      |      0:1  |  **4** (0:4)     | **52'** -- :SUI: **Paul** (Switzerland) |
 |    17 |    16 June 20:30 | Group A: :RSA: **Scott** (South Africa) //vs.// :URU: **AJ** (Uruguay)                     |      0:3  |  **6** (6:0)     | **24'** -- :URU: **AJ** (Uruguay) |
-|    18 |    17 June 20:30 | Group A: :FRA: **Bas** (France) //vs.// :MEX: **Sue** (Mexico)                             |           |                  |                          |
+|    18 |    17 June 20:30 | Group A: :FRA: **Bas** (France) //vs.// :MEX: **Sue** (Mexico)                             |      0:2  |  **6** (2:4)     | **64'** -- :MEX: **Sue** (Mexico) |
 |    19 |    17 June 16:00 | Group B: :GRE: **Paul** (Greece) //vs.// :NGA: **Pippa** (Nigeria)                         |      2:1  |  **8** (3:5)     | **16'** -- :NGA: **Pippa** (Nigeria) |
 |    20 |    17 June 13:30 | Group B: :ARG: **George** (Argentina) //vs.// :KOR: **Rudy** (Korea Republic)              |      4:1  |  **5** (3:2)     | **17'** -- :ARG: **George** (Argentina) |
 |    21 |    18 June 13:30 | Group D: :GER: **Harmen** (Germany) //vs.// :SRB: **Olivia** (Serbia)                      |           |                  |                          |

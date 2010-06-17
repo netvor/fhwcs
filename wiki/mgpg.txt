@@ -8,8 +8,8 @@
 |    19 |    17 June 16:00 | Group B: :GRE: **Paul** (Greece) //vs.// :NGA: **Pippa** (Nigeria)                         | **3** (2:1)    |
 |    17 |    16 June 20:30 | Group A: :RSA: **Scott** (South Africa) //vs.// :URU: **AJ** (Uruguay)                     | **3** (0:3)    |
 |    14 |    15 June 20:30 | Group G: :BRA: **Vendulka** (Brazil) //vs.// :PRK: **Sonia** (Korea DPR)                   | **3** (2:1)    |
+|    18 |    17 June 20:30 | Group A: :FRA: **Bas** (France) //vs.// :MEX: **Sue** (Mexico)                             | **2** (0:2)    |
 |    12 |    15 June 13:30 | Group F: :NZL: **George** (New Zealand) //vs.// :SVK: **Viktor** (Slovakia)                | **2** (1:1)    |
 |    11 |    14 June 20:30 | Group F: :ITA: **Rudy** (Italy) //vs.// :PAR: **Martine** (Paraguay)                       | **2** (1:1)    |
 |     9 |    14 June 13:30 | Group E: :NED: **Floris** (Netherlands) //vs.// :DEN: **Bas** (Denmark)                    | **2** (2:0)    |
 |     5 |    12 June 20:30 | Group C: :ENG: **George** (England) //vs.// :USA: **Harmen** (USA)                         | **2** (1:1)    |
-|     4 |    12 June 13:30 | Group B: :KOR: **Rudy** (Korea Republic) //vs.// :GRE: **Paul** (Greece)                   | **2** (2:0)    |
