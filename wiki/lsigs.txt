@@ -5,11 +5,11 @@
 ^ Team                                               ^  Group  ^  GF/GA  ^  GD  ^  Pts  ^
 | :AUS: **Sonia** (Australia)                        |      D  |  0/4    |   -4 |     0 |
 | :DEN: **Bas** (Denmark)                            |      E  |  0/2    |   -2 |     0 |
-| :GRE: **Paul** (Greece)                            |      B  |  0/2    |   -2 |     0 |
+| :NGA: **Pippa** (Nigeria)                          |      B  |  1/3    |   -2 |     0 |
 | :ESP: **Katka** (Spain)                            |      H  |  0/1    |   -1 |     0 |
 | :HON: **Sue** (Honduras)                           |      H  |  0/1    |   -1 |     0 |
 | :CMR: **Lisa** (Cameroon)                          |      E  |  0/1    |   -1 |     0 |
 | :SRB: **Olivia** (Serbia)                          |      D  |  0/1    |   -1 |     0 |
 | :ALG: **Martine** (Algeria)                        |      C  |  0/1    |   -1 |     0 |
-| :NGA: **Pippa** (Nigeria)                          |      B  |  0/1    |   -1 |     0 |
 | :PRK: **Sonia** (Korea DPR)                        |      G  |  1/2    |   -1 |     0 |
+| :RSA: **Scott** (South Africa)                     |      A  |  1/4    |   -3 |     1 |

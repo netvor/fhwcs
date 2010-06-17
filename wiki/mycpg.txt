@@ -3,13 +3,13 @@
 ==== Most yellow cards per game ====
 
 ^  No.  ^       When       ^  Match                                                                                     ^    Yellow    ^     2Y=R     ^  Direct red  ^  Weighted Total  ^
-|     7 |  13 June - 20:30 | Group D: :GER: **Harmen** (Germany) //vs.// :AUS: **Sonia** (Australia)                    | 5 (2:3)      | 0 (0:0)      | 1 (0:1)      | **9** (2:7)      |
-|     2 |  11 June - 20:30 | Group A: :URU: **AJ** (Uruguay) //vs.// :FRA: **Bas** (France)                             | 5 (2:3)      | 1 (1:0)      | 0 (0:0)      | **7** (4:3)      |
-|    17 |  16 June - 20:30 | Group A: :RSA: **Scott** (South Africa) //vs.// :URU: **AJ** (Uruguay)                     | 2 (2:0)      | 0 (0:0)      | 1 (1:0)      | **6** (6:0)      |
-|     8 |  13 June - 16:00 | Group D: :SRB: **Olivia** (Serbia) //vs.// :GHA: **AJ** (Ghana)                            | 4 (2:2)      | 1 (1:0)      | 0 (0:0)      | **6** (4:2)      |
-|     5 |  12 June - 20:30 | Group C: :ENG: **George** (England) //vs.// :USA: **Harmen** (USA)                         | 6 (3:3)      | 0 (0:0)      | 0 (0:0)      | **6** (3:3)      |
-|     6 |  13 June - 13:30 | Group C: :ALG: **Martine** (Algeria) //vs.// :SVN: **Jens** (Slovenia)                     | 3 (1:2)      | 1 (1:0)      | 0 (0:0)      | **5** (3:2)      |
-|    16 |  16 June - 16:00 | Group H: :ESP: **Katka** (Spain) //vs.// :SUI: **Paul** (Switzerland)                      | 4 (0:4)      | 0 (0:0)      | 0 (0:0)      | **4** (0:4)      |
-|     1 |  11 June - 16:00 | Group A: :RSA: **Scott** (South Africa) //vs.// :MEX: **Sue** (Mexico)                     | 4 (2:2)      | 0 (0:0)      | 0 (0:0)      | **4** (2:2)      |
-|    15 |  16 June - 13:30 | Group H: :HON: **Sue** (Honduras) //vs.// :CHI: **Ailee** (Chile)                          | 3 (1:2)      | 0 (0:0)      | 0 (0:0)      | **3** (1:2)      |
-|    13 |  15 June - 16:00 | Group G: :CIV: **Quido** (Côte d'Ivoire) //vs.// :POR: **Jens** (Portugal)                 | 3 (2:1)      | 0 (0:0)      | 0 (0:0)      | **3** (2:1)      |
+|     7 |    13 June 20:30 | Group D: :GER: **Harmen** (Germany) //vs.// :AUS: **Sonia** (Australia)                    | 5 (2:3)      | 0 (0:0)      | 1 (0:1)      | **9** (2:7)      |
+|    19 |    17 June 16:00 | Group B: :GRE: **Paul** (Greece) //vs.// :NGA: **Pippa** (Nigeria)                         | 4 (3:1)      | 0 (0:0)      | 1 (0:1)      | **8** (3:5)      |
+|     2 |    11 June 20:30 | Group A: :URU: **AJ** (Uruguay) //vs.// :FRA: **Bas** (France)                             | 5 (2:3)      | 1 (1:0)      | 0 (0:0)      | **7** (4:3)      |
+|    17 |    16 June 20:30 | Group A: :RSA: **Scott** (South Africa) //vs.// :URU: **AJ** (Uruguay)                     | 2 (2:0)      | 0 (0:0)      | 1 (1:0)      | **6** (6:0)      |
+|     8 |    13 June 16:00 | Group D: :SRB: **Olivia** (Serbia) //vs.// :GHA: **AJ** (Ghana)                            | 4 (2:2)      | 1 (1:0)      | 0 (0:0)      | **6** (4:2)      |
+|     5 |    12 June 20:30 | Group C: :ENG: **George** (England) //vs.// :USA: **Harmen** (USA)                         | 6 (3:3)      | 0 (0:0)      | 0 (0:0)      | **6** (3:3)      |
+|    20 |    17 June 13:30 | Group B: :ARG: **George** (Argentina) //vs.// :KOR: **Rudy** (Korea Republic)              | 5 (3:2)      | 0 (0:0)      | 0 (0:0)      | **5** (3:2)      |
+|     6 |    13 June 13:30 | Group C: :ALG: **Martine** (Algeria) //vs.// :SVN: **Jens** (Slovenia)                     | 3 (1:2)      | 1 (1:0)      | 0 (0:0)      | **5** (3:2)      |
+|    16 |    16 June 16:00 | Group H: :ESP: **Katka** (Spain) //vs.// :SUI: **Paul** (Switzerland)                      | 4 (0:4)      | 0 (0:0)      | 0 (0:0)      | **4** (0:4)      |
+|     1 |    11 June 16:00 | Group A: :RSA: **Scott** (South Africa) //vs.// :MEX: **Sue** (Mexico)                     | 4 (2:2)      | 0 (0:0)      | 0 (0:0)      | **4** (2:2)      |

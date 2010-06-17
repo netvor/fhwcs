@@ -3,13 +3,13 @@
 ==== Most goals scored ====
 
 ^ Team                                               ^  Goals scored  ^
+| :ARG: **George** (Argentina)                       |              5 |
 | :GER: **Harmen** (Germany)                         |              4 |
+| :KOR: **Rudy** (Korea Republic)                    |              3 |
 | :URU: **AJ** (Uruguay)                             |              3 |
 | :BRA: **Vendulka** (Brazil)                        |              2 |
 | :NED: **Floris** (Netherlands)                     |              2 |
-| :KOR: **Rudy** (Korea Republic)                    |              2 |
+| :GRE: **Paul** (Greece)                            |              2 |
 | :SVK: **Viktor** (Slovakia)                        |              1 |
 | :PRK: **Sonia** (Korea DPR)                        |              1 |
 | :USA: **Harmen** (USA)                             |              1 |
-| :MEX: **Sue** (Mexico)                             |              1 |
-| :SUI: **Paul** (Switzerland)                       |              1 |

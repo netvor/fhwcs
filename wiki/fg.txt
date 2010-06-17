@@ -7,9 +7,9 @@
 | :ARG: **George** (Argentina)                       |       6' |
 | :KOR: **Rudy** (Korea Republic)                    |       7' |
 | :GER: **Harmen** (Germany)                         |       8' |
+| :NGA: **Pippa** (Nigeria)                          |      16' |
+| :ARG: **George** (Argentina)                       |      17' |
 | :URU: **AJ** (Uruguay)                             |      24' |
 | :GER: **Harmen** (Germany)                         |      26' |
+| :ARG: **George** (Argentina)                       |      33' |
 | :CHI: **Ailee** (Chile)                            |      34' |
-| :JPN: **Marty** (Japan)                            |      39' |
-| :PAR: **Martine** (Paraguay)                       |      39' |
-| :USA: **Harmen** (USA)                             |      40' |
