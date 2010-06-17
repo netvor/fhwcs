@@ -20,7 +20,7 @@ p7
 I0
 sS'teamName'
 p8
-S'Uruguay'
+VUruguay
 p9
 sS'points'
 p10
@@ -54,7 +54,7 @@ I0
 sg7
 I0
 sg8
-S'Mexico'
+VMexico
 p19
 sg10
 I1
@@ -82,7 +82,7 @@ I0
 sg7
 I0
 sg8
-S'France'
+VFrance
 p23
 sg10
 I1
@@ -110,7 +110,7 @@ I0
 sg7
 I1
 sg8
-S'South Africa'
+VSouth Africa
 p27
 sg10
 I1
@@ -138,7 +138,7 @@ I2
 sg7
 I0
 sg8
-S'Argentina'
+VArgentina
 p31
 sg10
 I6
@@ -167,7 +167,7 @@ I1
 sg7
 I1
 sg8
-S'Korea Republic'
+VKorea Republic
 p36
 sg10
 I3
@@ -195,7 +195,7 @@ I1
 sg7
 I1
 sg8
-S'Greece'
+VGreece
 p40
 sg10
 I3
@@ -223,7 +223,7 @@ I0
 sg7
 I2
 sg8
-S'Nigeria'
+VNigeria
 p44
 sg10
 I0
@@ -251,7 +251,7 @@ I1
 sg7
 I0
 sg8
-S'Slovenia'
+VSlovenia
 p48
 sg10
 I3
@@ -280,7 +280,7 @@ I0
 sg7
 I0
 sg8
-S'USA'
+VUSA
 p53
 sg10
 I1
@@ -308,7 +308,7 @@ I0
 sg7
 I0
 sg8
-S'England'
+VEngland
 p57
 sg10
 I1
@@ -336,7 +336,7 @@ I0
 sg7
 I1
 sg8
-S'Algeria'
+VAlgeria
 p61
 sg10
 I0
@@ -364,7 +364,7 @@ I1
 sg7
 I0
 sg8
-S'Germany'
+VGermany
 p65
 sg10
 I3
@@ -393,7 +393,7 @@ I1
 sg7
 I0
 sg8
-S'Ghana'
+VGhana
 p70
 sg10
 I3
@@ -421,7 +421,7 @@ I0
 sg7
 I1
 sg8
-S'Serbia'
+VSerbia
 p74
 sg10
 I0
@@ -449,7 +449,7 @@ I0
 sg7
 I1
 sg8
-S'Australia'
+VAustralia
 p78
 sg10
 I0
@@ -477,7 +477,7 @@ I1
 sg7
 I0
 sg8
-S'Netherlands'
+VNetherlands
 p82
 sg10
 I3
@@ -506,7 +506,7 @@ I1
 sg7
 I0
 sg8
-S'Japan'
+VJapan
 p87
 sg10
 I3
@@ -534,7 +534,7 @@ I0
 sg7
 I1
 sg8
-S'Cameroon'
+VCameroon
 p91
 sg10
 I0
@@ -562,7 +562,7 @@ I0
 sg7
 I1
 sg8
-S'Denmark'
+VDenmark
 p95
 sg10
 I0
@@ -590,7 +590,7 @@ I0
 sg7
 I0
 sg8
-S'Paraguay'
+VParaguay
 p99
 sg10
 I1
@@ -619,7 +619,7 @@ I0
 sg7
 I0
 sg8
-S'Italy'
+VItaly
 p104
 sg10
 I1
@@ -647,7 +647,7 @@ I0
 sg7
 I0
 sg8
-S'New Zealand'
+VNew Zealand
 p108
 sg10
 I1
@@ -675,7 +675,7 @@ I0
 sg7
 I0
 sg8
-S'Slovakia'
+VSlovakia
 p112
 sg10
 I1
@@ -703,7 +703,7 @@ I1
 sg7
 I0
 sg8
-S'Brazil'
+VBrazil
 p116
 sg10
 I3
@@ -732,7 +732,7 @@ I0
 sg7
 I0
 sg8
-VCÃ´te d'Ivoire
+VCôte d'Ivoire
 p121
 sg10
 I1
@@ -760,7 +760,7 @@ I0
 sg7
 I0
 sg8
-S'Portugal'
+VPortugal
 p125
 sg10
 I1
@@ -788,7 +788,7 @@ I0
 sg7
 I1
 sg8
-S'Korea DPR'
+VKorea DPR
 p129
 sg10
 I0
@@ -816,7 +816,7 @@ I1
 sg7
 I0
 sg8
-S'Chile'
+VChile
 p133
 sg10
 I3
@@ -845,7 +845,7 @@ I1
 sg7
 I0
 sg8
-S'Switzerland'
+VSwitzerland
 p138
 sg10
 I3
@@ -873,7 +873,7 @@ I0
 sg7
 I1
 sg8
-S'Honduras'
+VHonduras
 p142
 sg10
 I0
@@ -901,7 +901,7 @@ I0
 sg7
 I1
 sg8
-S'Spain'
+VSpain
 p146
 sg10
 I0
