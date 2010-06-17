@@ -21,8 +21,8 @@
 |    16 |    16 June 16:00 | Group H: :ESP: **Jana V.** (Spain) //vs.// :SUI: **Renata Z.** (Switzerland)               |      0:1  |  **4** (0:4)     | **52'** -- :SUI: **Renata Z.** (Switzerland) |
 |    17 |    16 June 20:30 | Group A: :RSA: **Wendy** (South Africa) //vs.// :URU: **Renata Z.** (Uruguay)              |      0:3  |  **6** (6:0)     | **24'** -- :URU: **Renata Z.** (Uruguay) |
 |    18 |    17 June 20:30 | Group A: :FRA: **Jana L.** (France) //vs.// :MEX: **Olina H.** (Mexico)                    |           |                  |                          |
-|    19 |    17 June 16:00 | Group B: :GRE: **Denisa** (Greece) //vs.// :NGA: **Standa** (Nigeria)                      |           |                  |                          |
-|    20 |    17 June 13:30 | Group B: :ARG: **Míša** (Argentina) //vs.// :KOR: **Vlasta** (Korea Republic)              |           |                  |                          |
+|    19 |    17 June 16:00 | Group B: :GRE: **Denisa** (Greece) //vs.// :NGA: **Standa** (Nigeria)                      |      2:1  |  **8** (3:5)     | **16'** -- :NGA: **Standa** (Nigeria) |
+|    20 |    17 June 13:30 | Group B: :ARG: **Míša** (Argentina) //vs.// :KOR: **Vlasta** (Korea Republic)              |      4:1  |  **5** (3:2)     | **17'** -- :ARG: **Míša** (Argentina) |
 |    21 |    18 June 13:30 | Group D: :GER: **Lenny** (Germany) //vs.// :SRB: **Denisa** (Serbia)                       |           |                  |                          |
 |    22 |    18 June 16:00 | Group C: :SVN: **Eva** (Slovenia) //vs.// :USA: **Tomáš** (USA)                            |           |                  |                          |
 |    23 |    18 June 20:30 | Group C: :ENG: **Hanka** (England) //vs.// :ALG: **Žužu** (Algeria)                        |           |                  |                          |

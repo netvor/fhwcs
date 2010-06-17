@@ -7,6 +7,6 @@
   * Most goals scored -- if score is equal, Goals Against will break the tie.
   * Fastest goal -- if equal, the teams' second fastest goals will break the tie.
   * Most goals per game: shared prize for each of the two teams -- if score is equal, the game number will break the tie (earlier game wins).
-  * Most yellow cards per game: shared prize for each of the two teams -- if score is equal, the game number will break the tie (earlier game wins). A direct red card counts as 4 yellow cards.
-  * Most yellow cards in group stage -- if equal, prize is shared. A direct red card counts as 4 yellow cards.
+  * Most (yellow) cards per game: shared prize for each of the two teams -- if score is equal, the game number will break the tie (earlier game wins). A direct red card counts as 4 cards, an indirect red counts as 3 (yellow + yellow + red).
+  * Most (yellow) cards in group stage -- if equal, prize is shared. A direct red card counts as 4 cards, an indirect red counts as 3 (yellow + yellow + red).
   * Lowest score in group stage -- score counted according to points, goal diff. and goals scored. If equal, prize is shared.
