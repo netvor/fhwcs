@@ -19,5 +19,6 @@ def wikiMGPGrow(ms):
 print '\n\n==== Most goals per game ====\n'.encode('utf-8')
 print wikiMGPGheader().encode('utf-8')
 
-for ms in list(reversed(sorted(matches,key=attrgetter('totalGoals'))))[:10]:
+for ms in list(sorted( sorted(matches,key=attrgetter('when')) ,key=attrgetter('totalGoals'), reverse=True))[:10]:
+#for ms in list(reversed(sorted(matches,key=attrgetter('totalGoals'))))[:10]:
   print wikiMGPGrow(ms).encode('utf-8')
