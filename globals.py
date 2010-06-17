@@ -4,10 +4,29 @@ from operator import attrgetter
 import sys
 import pickle
 
-class TeamStat:
-  pass
-class MatchStat:
-  pass
+class BaseStat:
+  @staticmethod
+  def wiki(code, name):
+    from whohas import whohas
+    return ':%s: **%s** (%s)' % (code, whohas[code], name)
+
+class TeamStat(BaseStat):
+  def teamWiki(self):
+    return self.wiki(self.teamCode, self.teamName)
+
+class MatchStat(BaseStat):
+  def homeWiki(self):
+    return self.wiki(self.homeCode, self.homeName)
+  def awayWiki(self):
+    return self.wiki(self.awayCode, self.awayName)
+  def matchTitle(self):
+    _group = self.group
+    if len(_group)==1:
+      _group = "Group " + _group
+    return '%s: %s //vs.// %s' % (_group, self.homeWiki(), self.awayWiki())
+  def goals(self):
+    wiki = { self.homeCode : self.homeWiki(), self.awayCode : self.awayWiki() }
+    return [ (minute,wiki[code]) for minute,code in self.goalsCode ]
 
 def teamSorted(teams):
   temp = sorted(teams, key=attrgetter('goalsFor'), reverse=True)
@@ -24,8 +43,7 @@ def getInFile(default,argi=1):
     inFile = open(inFileName,'r')
     return inFile
   except:
-    print 'Cannot open input file <%s>!' % (inFileName)
-    sys.exit(1)
+    raise IOError('Cannot open input file <%s>!' % (inFileName))
 
 def getOutFile(default,argi=2):
   try:
@@ -36,8 +54,7 @@ def getOutFile(default,argi=2):
     outFile = open(outFileName,'w')
     return outFile
   except:
-    print 'Cannot open output file <%s>!' % (outFileName)
-    sys.exit(1)
+    raise IOError('Cannot open output file <%s>!' % (outFileName))
 
 def unmarshal(default,argi=1):
   return pickle.load(getInFile(default,argi))
@@ -47,7 +64,7 @@ def marshal(obj,default,argi=2):
 
 def unmarshalMatches(format,max=64):
   matches=list()
-  for i in range(max):
+  for i in range(max+1):
     filename = format % (i)
     try:
       matches.append(pickle.load(open(filename,'r')))
