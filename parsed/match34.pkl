@@ -20,24 +20,16 @@ p8
 sS'number'
 p9
 I34
-sS'homeWiki'
-p10
-V:FRA: **Jana L.** (France)
-p11
-sS'awayWiki'
-p12
-V:RSA: **Wendy** (South Africa)
-p13
 sS'awayName'
-p14
+p10
 S'South Africa'
-p15
+p11
 sS'homeName'
-p16
+p12
 S'France'
-p17
+p13
 sS'homeCode'
-p18
+p14
 S'FRA'
-p19
+p15
 sb.

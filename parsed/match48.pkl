@@ -20,24 +20,16 @@ p8
 sS'number'
 p9
 I48
-sS'homeWiki'
-p10
-V:SUI: **Renata Z.** (Switzerland)
-p11
-sS'awayWiki'
-p12
-V:HON: **\u017du\u017eu** (Honduras)
-p13
 sS'awayName'
-p14
+p10
 S'Honduras'
-p15
+p11
 sS'homeName'
-p16
+p12
 S'Switzerland'
-p17
+p13
 sS'homeCode'
-p18
+p14
 S'SUI'
-p19
+p15
 sb.

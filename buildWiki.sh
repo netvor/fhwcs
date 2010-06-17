@@ -1,7 +1,5 @@
 #!/bin/bash
 
-./fetchData.sh
-
 python wikiGSS.py       > 'wiki/gss.txt'
 python wikiMGS.py       > 'wiki/mgs.txt'
 python wikiFG.py        > 'wiki/fg.txt'

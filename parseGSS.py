@@ -15,8 +15,8 @@ for letter in string.ascii_uppercase[:8]:
     ts = TeamStat()
     ts.group = letter
     ts.teamCode = tdTeam.find('.//img').get('src')[-7:-4].upper()
-    ts.teamName = tdTeam.find('.//img').get('title')
-    ts.teamWiki = ':%s: **%s** (%s)' % (ts.teamCode, whohas[ts.teamCode], ts.teamName)
+    ts.teamName = unicode(tdTeam.find('.//img').get('title').encode('latin1'),'utf-8') # decode and re-encode utf-8 string
+    # previously: ts.teamName = tdTeam.find('.//img').get('title')
     ts.played = int(tdPlayed.text)
     ts.wins = int(tdWins.text)
     ts.draws = int(tdDraws.text)

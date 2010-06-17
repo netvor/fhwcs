@@ -12,7 +12,7 @@ def wikiGSSheader(letter):
 def wikiGSSrow(ts):
   wdl = '%d/%d/%d' % (ts.wins,ts.draws,ts.losses)
   gfga = '%d/%d' % (ts.goalsFor, ts.goalsAgainst)
-  return '| %-50s | %4d |  %-8s  |  %-5s  | %4d | %5d |' % (ts.teamWiki, ts.played, wdl, gfga, ts.goalsDiff, ts.points)
+  return '| %-50s | %4d |  %-8s  |  %-5s  | %4d | %5d |' % (ts.teamWiki(), ts.played, wdl, gfga, ts.goalsDiff, ts.points)
 
 wikiGSSdata=deque()
 
@@ -23,7 +23,6 @@ for letter in string.ascii_uppercase[:8]:
   wikiGSSdata.append(group)
 
 print '\n\n===== Current Standings =====\n\n'.encode('utf-8')
-#print '\n\n===== Group Stage Standings =====\n'.encode('utf-8')
 
 while len(wikiGSSdata) >= 2:
   a=wikiGSSdata.popleft()

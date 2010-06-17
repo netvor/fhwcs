@@ -20,24 +20,16 @@ p8
 sS'number'
 p9
 I46
-sS'homeWiki'
-p10
-V:PRK: **Martina** (Korea DPR)
-p11
-sS'awayWiki'
-p12
-V:CIV: **Martin** (Côte d'Ivoire)
-p13
 sS'awayName'
-p14
+p10
 VCôte d'Ivoire
-p15
+p11
 sS'homeName'
-p16
+p12
 S'Korea DPR'
-p17
+p13
 sS'homeCode'
-p18
+p14
 S'PRK'
-p19
+p15
 sb.

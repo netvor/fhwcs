@@ -6,10 +6,10 @@ from operator import itemgetter
 mgs=dict()
 for ms in unmarshalMatches('parsed/match%02d.pkl'):
   if ms.hasResults:
-    for team in [ms.homeWiki, ms.awayWiki]: 
+    for team in [ms.homeWiki(), ms.awayWiki()]: 
       if team not in mgs: mgs[team] = 0
-    mgs[ms.homeWiki] += len(ms.homeGoals)
-    mgs[ms.awayWiki] += len(ms.awayGoals)
+    mgs[ms.homeWiki()] += len(ms.homeGoals)
+    mgs[ms.awayWiki()] += len(ms.awayGoals)
 
 def wikiMGSheader():
   return '^ %-50s ^  Goals scored  ^' % ('Team')

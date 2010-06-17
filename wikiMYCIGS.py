@@ -6,10 +6,10 @@ from operator import itemgetter
 cards=dict()
 for ms in unmarshalMatches('parsed/match%02d.pkl',48):
   if ms.hasResults:
-    for team in [ms.homeWiki, ms.awayWiki]: 
+    for team in [ms.homeWiki(), ms.awayWiki()]: 
       if team not in cards: cards[team] = (0,0,0,0)
-    cards[ms.homeWiki] = tuple( old+new for old,new in zip(cards[ms.homeWiki],ms.homeCards) )
-    cards[ms.awayWiki] = tuple( old+new for old,new in zip(cards[ms.awayWiki],ms.awayCards) )
+    cards[ms.homeWiki()] = tuple( old+new for old,new in zip(cards[ms.homeWiki()],ms.homeCards) )
+    cards[ms.awayWiki()] = tuple( old+new for old,new in zip(cards[ms.awayWiki()],ms.awayCards) )
 
 def wikiMYCIGSheader():
   return '^ %-50s ^  Yellow  ^  2Y=R  ^  Direct Red  ^  Weighted Total  ^' % ('Team')
