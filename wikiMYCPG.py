@@ -22,5 +22,6 @@ def wikiMYCPGrow(ms):
 print '\n\n==== Most yellow cards per game ====\n'.encode('utf-8')
 print wikiMYCPGheader().encode('utf-8')
 
-for ms in list(reversed(sorted(matches,key=attrgetter('totalCards'))))[:10]:
+for ms in list(sorted( sorted(matches,key=attrgetter('when')) ,key=attrgetter('totalCards'), reverse=True))[:10]:
+#for ms in list(reversed(sorted(matches,key=attrgetter('totalCards'))))[:10]:
   print wikiMYCPGrow(ms).encode('utf-8')
