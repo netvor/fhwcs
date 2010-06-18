@@ -11,5 +11,5 @@
 | :BRA: **Dana** (Brazil)                            |              2 |
 | :GRE: **Denisa** (Greece)                          |              2 |
 | :NED: **Olina K.** (Netherlands)                   |              2 |
+| :SRB: **Denisa** (Serbia)                          |              1 |
 | :SUI: **Renata Z.** (Switzerland)                  |              1 |
-| :ENG: **Hanka** (England)                          |              1 |

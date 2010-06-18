@@ -9,9 +9,9 @@
 | :FRA: **Jana L.** (France)                         |    2 |  0/1/1     |  0/2    |   -2 |     1 | ::: | :GRE: **Denisa** (Greece)                          |    2 |  1/0/1     |  2/3    |   -1 |     3 |
 | :RSA: **Wendy** (South Africa)                     |    2 |  0/1/1     |  1/4    |   -3 |     1 | ::: | :NGA: **Standa** (Nigeria)                         |    2 |  0/0/2     |  1/3    |   -2 |     0 |
 ^ //Group C://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group D://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :SVN: **Eva** (Slovenia)                           |    1 |  1/0/0     |  1/0    |    1 |     3 | ::: | :GER: **Lenny** (Germany)                          |    1 |  1/0/0     |  4/0    |    4 |     3 |
+| :SVN: **Eva** (Slovenia)                           |    1 |  1/0/0     |  1/0    |    1 |     3 | ::: | :GER: **Lenny** (Germany)                          |    2 |  1/0/1     |  4/1    |    3 |     3 |
 | :USA: **Tomáš** (USA)                              |    1 |  0/1/0     |  1/1    |    0 |     1 | ::: | :GHA: **Franta** (Ghana)                           |    1 |  1/0/0     |  1/0    |    1 |     3 |
-| :ENG: **Hanka** (England)                          |    1 |  0/1/0     |  1/1    |    0 |     1 | ::: | :SRB: **Denisa** (Serbia)                          |    1 |  0/0/1     |  0/1    |   -1 |     0 |
+| :ENG: **Hanka** (England)                          |    1 |  0/1/0     |  1/1    |    0 |     1 | ::: | :SRB: **Denisa** (Serbia)                          |    2 |  1/0/1     |  1/1    |    0 |     3 |
 | :ALG: **Žužu** (Algeria)                           |    1 |  0/0/1     |  0/1    |   -1 |     0 | ::: | :AUS: **Petra** (Australia)                        |    1 |  0/0/1     |  0/4    |   -4 |     0 |
 ^ //Group E://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group F://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
 | :NED: **Olina K.** (Netherlands)                   |    1 |  1/0/0     |  2/0    |    2 |     3 | ::: | :PAR: **Jana L.** (Paraguay)                       |    1 |  0/1/0     |  1/1    |    0 |     1 |
