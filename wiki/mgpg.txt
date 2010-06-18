@@ -5,6 +5,7 @@
 ^  No.  ^       When       ^  Match                                                                                     ^  Goals scored  ^
 |    20 |    17 June 13:30 | Group B: :ARG: **George** (Argentina) //vs.// :KOR: **Rudy** (Korea Republic)              | **5** (4:1)    |
 |     7 |    13 June 20:30 | Group D: :GER: **Harmen** (Germany) //vs.// :AUS: **Sonia** (Australia)                    | **4** (4:0)    |
+|    22 |    18 June 16:00 | Group C: :SVN: **Jens** (Slovenia) //vs.// :USA: **Harmen** (USA)                          | **4** (2:2)    |
 |    14 |    15 June 20:30 | Group G: :BRA: **Vendulka** (Brazil) //vs.// :PRK: **Sonia** (Korea DPR)                   | **3** (2:1)    |
 |    17 |    16 June 20:30 | Group A: :RSA: **Scott** (South Africa) //vs.// :URU: **AJ** (Uruguay)                     | **3** (0:3)    |
 |    19 |    17 June 16:00 | Group B: :GRE: **Paul** (Greece) //vs.// :NGA: **Pippa** (Nigeria)                         | **3** (2:1)    |
@@ -12,4 +13,3 @@
 |     4 |    12 June 13:30 | Group B: :KOR: **Rudy** (Korea Republic) //vs.// :GRE: **Paul** (Greece)                   | **2** (2:0)    |
 |     5 |    12 June 20:30 | Group C: :ENG: **George** (England) //vs.// :USA: **Harmen** (USA)                         | **2** (1:1)    |
 |     9 |    14 June 13:30 | Group E: :NED: **Floris** (Netherlands) //vs.// :DEN: **Bas** (Denmark)                    | **2** (2:0)    |
-|    11 |    14 June 20:30 | Group F: :ITA: **Rudy** (Italy) //vs.// :PAR: **Martine** (Paraguay)                       | **2** (1:1)    |

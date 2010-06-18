@@ -5,11 +5,11 @@
 ^ Team                                               ^  Goals scored  ^
 | :ARG: **George** (Argentina)                       |              5 |
 | :GER: **Harmen** (Germany)                         |              4 |
+| :USA: **Harmen** (USA)                             |              3 |
 | :MEX: **Sue** (Mexico)                             |              3 |
+| :SVN: **Jens** (Slovenia)                          |              3 |
 | :KOR: **Rudy** (Korea Republic)                    |              3 |
 | :URU: **AJ** (Uruguay)                             |              3 |
 | :BRA: **Vendulka** (Brazil)                        |              2 |
 | :NED: **Floris** (Netherlands)                     |              2 |
 | :GRE: **Paul** (Greece)                            |              2 |
-| :SVK: **Viktor** (Slovakia)                        |              1 |
-| :PRK: **Sonia** (Korea DPR)                        |              1 |
