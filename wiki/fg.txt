@@ -7,9 +7,9 @@
 | :ARG: **Míša** (Argentina)                         |       6' |
 | :KOR: **Vlasta** (Korea Republic)                  |       7' |
 | :GER: **Lenny** (Germany)                          |       8' |
+| :SVN: **Eva** (Slovenia)                           |      13' |
 | :NGA: **Standa** (Nigeria)                         |      16' |
 | :ARG: **Míša** (Argentina)                         |      17' |
 | :URU: **Renata Z.** (Uruguay)                      |      24' |
 | :GER: **Lenny** (Germany)                          |      26' |
 | :ARG: **Míša** (Argentina)                         |      33' |
-| :CHI: **Hanka** (Chile)                            |      34' |

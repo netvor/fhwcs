@@ -5,6 +5,7 @@
 ^  No.  ^       When       ^  Match                                                                                     ^  Goals scored  ^
 |    20 |    17 June 13:30 | Group B: :ARG: **Míša** (Argentina) //vs.// :KOR: **Vlasta** (Korea Republic)              | **5** (4:1)    |
 |     7 |    13 June 20:30 | Group D: :GER: **Lenny** (Germany) //vs.// :AUS: **Petra** (Australia)                     | **4** (4:0)    |
+|    22 |    18 June 16:00 | Group C: :SVN: **Eva** (Slovenia) //vs.// :USA: **Tomáš** (USA)                            | **4** (2:2)    |
 |    14 |    15 June 20:30 | Group G: :BRA: **Dana** (Brazil) //vs.// :PRK: **Martina** (Korea DPR)                     | **3** (2:1)    |
 |    17 |    16 June 20:30 | Group A: :RSA: **Wendy** (South Africa) //vs.// :URU: **Renata Z.** (Uruguay)              | **3** (0:3)    |
 |    19 |    17 June 16:00 | Group B: :GRE: **Denisa** (Greece) //vs.// :NGA: **Standa** (Nigeria)                      | **3** (2:1)    |
@@ -12,4 +13,3 @@
 |     4 |    12 June 13:30 | Group B: :KOR: **Vlasta** (Korea Republic) //vs.// :GRE: **Denisa** (Greece)               | **2** (2:0)    |
 |     5 |    12 June 20:30 | Group C: :ENG: **Hanka** (England) //vs.// :USA: **Tomáš** (USA)                           | **2** (1:1)    |
 |     9 |    14 June 13:30 | Group E: :NED: **Olina K.** (Netherlands) //vs.// :DEN: **Martina** (Denmark)              | **2** (2:0)    |
-|    11 |    14 June 20:30 | Group F: :ITA: **Jana V.** (Italy) //vs.// :PAR: **Jana L.** (Paraguay)                    | **2** (1:1)    |

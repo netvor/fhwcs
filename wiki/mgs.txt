@@ -7,9 +7,9 @@
 | :GER: **Lenny** (Germany)                          |              4 |
 | :MEX: **Olina H.** (Mexico)                        |              3 |
 | :KOR: **Vlasta** (Korea Republic)                  |              3 |
+| :USA: **Tomáš** (USA)                              |              3 |
+| :SVN: **Eva** (Slovenia)                           |              3 |
 | :URU: **Renata Z.** (Uruguay)                      |              3 |
 | :BRA: **Dana** (Brazil)                            |              2 |
 | :GRE: **Denisa** (Greece)                          |              2 |
 | :NED: **Olina K.** (Netherlands)                   |              2 |
-| :SRB: **Denisa** (Serbia)                          |              1 |
-| :SUI: **Renata Z.** (Switzerland)                  |              1 |
