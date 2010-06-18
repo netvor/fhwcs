@@ -298,9 +298,9 @@ TeamStat
 p55
 (dp56
 g3
-I1
+I2
 sg4
-I1
+I2
 sg5
 I0
 sg6
@@ -311,7 +311,7 @@ sg8
 VEngland
 p57
 sg10
-I1
+I2
 sg11
 I1
 sg12
@@ -326,9 +326,9 @@ TeamStat
 p59
 (dp60
 g3
-I0
-sg4
 I1
+sg4
+I2
 sg5
 I-1
 sg6
@@ -339,7 +339,7 @@ sg8
 VAlgeria
 p61
 sg10
-I0
+I1
 sg11
 I1
 sg12
