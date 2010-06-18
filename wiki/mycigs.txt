@@ -12,4 +12,4 @@
 | :SVN: **Jens** (Slovenia)                          |        6 |      0 |            0 |            **6** |
 | :FRA: **Bas** (France)                             |        5 |      0 |            0 |            **5** |
 | :USA: **Harmen** (USA)                             |        4 |      0 |            0 |            **4** |
-| :SUI: **Paul** (Switzerland)                       |        4 |      0 |            0 |            **4** |
+| :ALG: **Martine** (Algeria)                        |        2 |      1 |            0 |            **4** |
