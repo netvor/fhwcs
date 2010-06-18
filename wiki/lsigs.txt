@@ -9,7 +9,7 @@
 | :ESP: **Jana V.** (Spain)                          |      H  |  0/1    |   -1 |     0 |
 | :HON: **Žužu** (Honduras)                          |      H  |  0/1    |   -1 |     0 |
 | :CMR: **Markéta** (Cameroon)                       |      E  |  0/1    |   -1 |     0 |
-| :ALG: **Žužu** (Algeria)                           |      C  |  0/1    |   -1 |     0 |
 | :PRK: **Martina** (Korea DPR)                      |      G  |  1/2    |   -1 |     0 |
 | :RSA: **Wendy** (South Africa)                     |      A  |  1/4    |   -3 |     1 |
 | :FRA: **Jana L.** (France)                         |      A  |  0/2    |   -2 |     1 |
+| :ALG: **Žužu** (Algeria)                           |      C  |  0/1    |   -1 |     1 |
