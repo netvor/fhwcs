@@ -12,4 +12,4 @@
 | :NGA: **Standa** (Nigeria)                         |        2 |      0 |            1 |            **6** |
 | :FRA: **Jana L.** (France)                         |        5 |      0 |            0 |            **5** |
 | :SUI: **Renata Z.** (Switzerland)                  |        4 |      0 |            0 |            **4** |
-| :ARG: **Míša** (Argentina)                         |        4 |      0 |            0 |            **4** |
+| :ENG: **Hanka** (England)                          |        4 |      0 |            0 |            **4** |
