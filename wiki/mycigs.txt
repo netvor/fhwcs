@@ -4,12 +4,12 @@
 
 ^ Team                                               ^  Yellow  ^  2Y=R  ^  Direct Red  ^  Weighted Total  ^
 | :RSA: **Scott** (South Africa)                     |        4 |      0 |            1 |            **8** |
+| :SRB: **Olivia** (Serbia)                          |        6 |      1 |            0 |            **8** |
+| :GER: **Harmen** (Germany)                         |        5 |      1 |            0 |            **7** |
 | :AUS: **Sonia** (Australia)                        |        3 |      0 |            1 |            **7** |
 | :MEX: **Sue** (Mexico)                             |        6 |      0 |            0 |            **6** |
 | :NGA: **Pippa** (Nigeria)                          |        2 |      0 |            1 |            **6** |
 | :FRA: **Bas** (France)                             |        5 |      0 |            0 |            **5** |
 | :SUI: **Paul** (Switzerland)                       |        4 |      0 |            0 |            **4** |
-| :SRB: **Olivia** (Serbia)                          |        2 |      1 |            0 |            **4** |
 | :GRE: **Paul** (Greece)                            |        4 |      0 |            0 |            **4** |
 | :ARG: **George** (Argentina)                       |        4 |      0 |            0 |            **4** |
-| :URU: **AJ** (Uruguay)                             |        2 |      1 |            0 |            **4** |
