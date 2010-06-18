@@ -9,7 +9,7 @@
 | :ESP: **Katka** (Spain)                            |      H  |  0/1    |   -1 |     0 |
 | :HON: **Sue** (Honduras)                           |      H  |  0/1    |   -1 |     0 |
 | :CMR: **Lisa** (Cameroon)                          |      E  |  0/1    |   -1 |     0 |
-| :ALG: **Martine** (Algeria)                        |      C  |  0/1    |   -1 |     0 |
 | :PRK: **Sonia** (Korea DPR)                        |      G  |  1/2    |   -1 |     0 |
 | :RSA: **Scott** (South Africa)                     |      A  |  1/4    |   -3 |     1 |
 | :FRA: **Bas** (France)                             |      A  |  0/2    |   -2 |     1 |
+| :ALG: **Martine** (Algeria)                        |      C  |  0/1    |   -1 |     1 |

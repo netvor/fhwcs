@@ -13,8 +13,8 @@
 ^ //Group C://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group D://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
 | :SVN: **Jens** (Slovenia)                          |    2 |  1/1/0     |  3/2    |    1 |     4 | ::: | :GER: **Harmen** (Germany)                         |    2 |  1/0/1     |  4/1    |    3 |     3 |
 | :USA: **Harmen** (USA)                             |    2 |  0/2/0     |  3/3    |    0 |     2 | ::: | :GHA: **AJ** (Ghana)                               |    1 |  1/0/0     |  1/0    |    1 |     3 |
-| :ENG: **George** (England)                         |    1 |  0/1/0     |  1/1    |    0 |     1 | ::: | :SRB: **Olivia** (Serbia)                          |    2 |  1/0/1     |  1/1    |    0 |     3 |
-| :ALG: **Martine** (Algeria)                        |    1 |  0/0/1     |  0/1    |   -1 |     0 | ::: | :AUS: **Sonia** (Australia)                        |    1 |  0/0/1     |  0/4    |   -4 |     0 |
+| :ENG: **George** (England)                         |    2 |  0/2/0     |  1/1    |    0 |     2 | ::: | :SRB: **Olivia** (Serbia)                          |    2 |  1/0/1     |  1/1    |    0 |     3 |
+| :ALG: **Martine** (Algeria)                        |    2 |  0/1/1     |  0/1    |   -1 |     1 | ::: | :AUS: **Sonia** (Australia)                        |    1 |  0/0/1     |  0/4    |   -4 |     0 |
 ^ //Group E://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group F://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
 | :NED: **Floris** (Netherlands)                     |    1 |  1/0/0     |  2/0    |    2 |     3 | ::: | :PAR: **Martine** (Paraguay)                       |    1 |  0/1/0     |  1/1    |    0 |     1 |
 | :JPN: **Marty** (Japan)                            |    1 |  1/0/0     |  1/0    |    1 |     3 | ::: | :ITA: **Rudy** (Italy)                             |    1 |  0/1/0     |  1/1    |    0 |     1 |
@@ -111,10 +111,10 @@
 | :ESP: **Katka** (Spain)                            |      H  |  0/1    |   -1 |     0 |
 | :HON: **Sue** (Honduras)                           |      H  |  0/1    |   -1 |     0 |
 | :CMR: **Lisa** (Cameroon)                          |      E  |  0/1    |   -1 |     0 |
-| :ALG: **Martine** (Algeria)                        |      C  |  0/1    |   -1 |     0 |
 | :PRK: **Sonia** (Korea DPR)                        |      G  |  1/2    |   -1 |     0 |
 | :RSA: **Scott** (South Africa)                     |      A  |  1/4    |   -3 |     1 |
 | :FRA: **Bas** (France)                             |      A  |  0/2    |   -2 |     1 |
+| :ALG: **Martine** (Algeria)                        |      C  |  0/1    |   -1 |     1 |
 
 
 ===== Calendar =====
