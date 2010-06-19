@@ -35,10 +35,10 @@
 | :USA: **Harmen** (USA)                             |              3 |
 | :MEX: **Sue** (Mexico)                             |              3 |
 | :SVN: **Jens** (Slovenia)                          |              3 |
+| :NED: **Floris** (Netherlands)                     |              3 |
 | :KOR: **Rudy** (Korea Republic)                    |              3 |
 | :URU: **AJ** (Uruguay)                             |              3 |
 | :BRA: **Vendulka** (Brazil)                        |              2 |
-| :NED: **Floris** (Netherlands)                     |              2 |
 | :GRE: **Paul** (Greece)                            |              2 |
 
 
@@ -144,7 +144,7 @@
 |    22 |    18 June 16:00 | Group C: :SVN: **Jens** (Slovenia) //vs.// :USA: **Harmen** (USA)                          |      2:2  |  **5** (4:1)     | **13'** -- :SVN: **Jens** (Slovenia) |
 |    23 |    18 June 20:30 | Group C: :ENG: **George** (England) //vs.// :ALG: **Martine** (Algeria)                    |      0:0  |  **2** (1:1)     | //(no goals)//           |
 |    24 |    19 June 16:00 | Group D: :GHA: **AJ** (Ghana) //vs.// :AUS: **Sonia** (Australia)                          |           |                  |                          |
-|    25 |    19 June 13:30 | Group E: :NED: **Floris** (Netherlands) //vs.// :JPN: **Marty** (Japan)                    |           |                  |                          |
+|    25 |    19 June 13:30 | Group E: :NED: **Floris** (Netherlands) //vs.// :JPN: **Marty** (Japan)                    |      1:0  |  **1** (1:0)     | **53'** -- :NED: **Floris** (Netherlands) |
 |    26 |    19 June 20:30 | Group E: :CMR: **Lisa** (Cameroon) //vs.// :DEN: **Bas** (Denmark)                         |           |                  |                          |
 |    27 |    20 June 13:30 | Group F: :SVK: **Viktor** (Slovakia) //vs.// :PAR: **Martine** (Paraguay)                  |           |                  |                          |
 |    28 |    20 June 16:00 | Group F: :ITA: **Rudy** (Italy) //vs.// :NZL: **George** (New Zealand)                     |           |                  |                          |
