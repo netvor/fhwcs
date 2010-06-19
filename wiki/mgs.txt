@@ -9,7 +9,7 @@
 | :KOR: **Vlasta** (Korea Republic)                  |              3 |
 | :USA: **Tomáš** (USA)                              |              3 |
 | :SVN: **Eva** (Slovenia)                           |              3 |
+| :NED: **Olina K.** (Netherlands)                   |              3 |
 | :URU: **Renata Z.** (Uruguay)                      |              3 |
 | :BRA: **Dana** (Brazil)                            |              2 |
 | :GRE: **Denisa** (Greece)                          |              2 |
-| :NED: **Olina K.** (Netherlands)                   |              2 |
