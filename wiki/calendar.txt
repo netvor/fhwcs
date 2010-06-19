@@ -26,7 +26,7 @@
 |    21 |    18 June 13:30 | Group D: :GER: **Harmen** (Germany) //vs.// :SRB: **Olivia** (Serbia)                      |      0:1  |  **9** (5:4)     | **38'** -- :SRB: **Olivia** (Serbia) |
 |    22 |    18 June 16:00 | Group C: :SVN: **Jens** (Slovenia) //vs.// :USA: **Harmen** (USA)                          |      2:2  |  **5** (4:1)     | **13'** -- :SVN: **Jens** (Slovenia) |
 |    23 |    18 June 20:30 | Group C: :ENG: **George** (England) //vs.// :ALG: **Martine** (Algeria)                    |      0:0  |  **2** (1:1)     | //(no goals)//           |
-|    24 |    19 June 16:00 | Group D: :GHA: **AJ** (Ghana) //vs.// :AUS: **Sonia** (Australia)                          |           |                  |                          |
+|    24 |    19 June 16:00 | Group D: :GHA: **AJ** (Ghana) //vs.// :AUS: **Sonia** (Australia)                          |      1:1  |  **8** (3:5)     | **11'** -- :AUS: **Sonia** (Australia) |
 |    25 |    19 June 13:30 | Group E: :NED: **Floris** (Netherlands) //vs.// :JPN: **Marty** (Japan)                    |      1:0  |  **1** (1:0)     | **53'** -- :NED: **Floris** (Netherlands) |
 |    26 |    19 June 20:30 | Group E: :CMR: **Lisa** (Cameroon) //vs.// :DEN: **Bas** (Denmark)                         |           |                  |                          |
 |    27 |    20 June 13:30 | Group F: :SVK: **Viktor** (Slovakia) //vs.// :PAR: **Martine** (Paraguay)                  |           |                  |                          |
