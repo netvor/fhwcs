@@ -21,9 +21,9 @@
 | :DEN: **Martina** (Denmark)                        |    2 |  1/0/1     |  2/3    |   -1 |     3 | ::: | :NZL: **Martin** (New Zealand)                     |    2 |  0/2/0     |  2/2    |    0 |     2 |
 | :CMR: **Markéta** (Cameroon)                       |    2 |  0/0/2     |  1/3    |   -2 |     0 | ::: | :SVK: **Franta** (Slovakia)                        |    2 |  0/1/1     |  1/3    |   -2 |     1 |
 ^ //Group G://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group H://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :BRA: **Dana** (Brazil)                            |    1 |  1/0/0     |  2/1    |    1 |     3 | ::: | :CHI: **Hanka** (Chile)                            |    1 |  1/0/0     |  1/0    |    1 |     3 |
-| :CIV: **Martin** (Côte d'Ivoire)                   |    1 |  0/1/0     |  0/0    |    0 |     1 | ::: | :SUI: **Renata Z.** (Switzerland)                  |    1 |  1/0/0     |  1/0    |    1 |     3 |
-| :POR: **Eva** (Portugal)                           |    1 |  0/1/0     |  0/0    |    0 |     1 | ::: | :HON: **Žužu** (Honduras)                          |    1 |  0/0/1     |  0/1    |   -1 |     0 |
+| :BRA: **Dana** (Brazil)                            |    2 |  2/0/0     |  5/2    |    3 |     6 | ::: | :CHI: **Hanka** (Chile)                            |    1 |  1/0/0     |  1/0    |    1 |     3 |
+| :POR: **Eva** (Portugal)                           |    1 |  0/1/0     |  0/0    |    0 |     1 | ::: | :SUI: **Renata Z.** (Switzerland)                  |    1 |  1/0/0     |  1/0    |    1 |     3 |
+| :CIV: **Martin** (Côte d'Ivoire)                   |    2 |  0/1/1     |  1/3    |   -2 |     1 | ::: | :HON: **Žužu** (Honduras)                          |    1 |  0/0/1     |  0/1    |   -1 |     0 |
 | :PRK: **Martina** (Korea DPR)                      |    1 |  0/0/1     |  1/2    |   -1 |     0 | ::: | :ESP: **Jana V.** (Spain)                          |    1 |  0/0/1     |  0/1    |   -1 |     0 |
 
 
@@ -31,6 +31,7 @@
 
 ^ Team                                               ^  Goals scored  ^
 | :ARG: **Míša** (Argentina)                         |              5 |
+| :BRA: **Dana** (Brazil)                            |              5 |
 | :GER: **Lenny** (Germany)                          |              4 |
 | :MEX: **Olina H.** (Mexico)                        |              3 |
 | :KOR: **Vlasta** (Korea Republic)                  |              3 |
@@ -39,7 +40,6 @@
 | :PAR: **Jana L.** (Paraguay)                       |              3 |
 | :NED: **Olina K.** (Netherlands)                   |              3 |
 | :URU: **Renata Z.** (Uruguay)                      |              3 |
-| :BRA: **Dana** (Brazil)                            |              2 |
 
 
 ==== Fastest goal ====
@@ -63,13 +63,13 @@
 |    20 |    17 June 13:30 | Group B: :ARG: **Míša** (Argentina) //vs.// :KOR: **Vlasta** (Korea Republic)              | **5** (4:1)    |
 |     7 |    13 June 20:30 | Group D: :GER: **Lenny** (Germany) //vs.// :AUS: **Petra** (Australia)                     | **4** (4:0)    |
 |    22 |    18 June 16:00 | Group C: :SVN: **Eva** (Slovenia) //vs.// :USA: **Tomáš** (USA)                            | **4** (2:2)    |
+|    29 |    20 June 20:30 | Group G: :BRA: **Dana** (Brazil) //vs.// :CIV: **Martin** (Côte d'Ivoire)                  | **4** (3:1)    |
 |    14 |    15 June 20:30 | Group G: :BRA: **Dana** (Brazil) //vs.// :PRK: **Martina** (Korea DPR)                     | **3** (2:1)    |
 |    17 |    16 June 20:30 | Group A: :RSA: **Wendy** (South Africa) //vs.// :URU: **Renata Z.** (Uruguay)              | **3** (0:3)    |
 |    19 |    17 June 16:00 | Group B: :GRE: **Denisa** (Greece) //vs.// :NGA: **Standa** (Nigeria)                      | **3** (2:1)    |
 |    26 |    19 June 20:30 | Group E: :CMR: **Markéta** (Cameroon) //vs.// :DEN: **Martina** (Denmark)                  | **3** (1:2)    |
 |     1 |    11 June 16:00 | Group A: :RSA: **Wendy** (South Africa) //vs.// :MEX: **Olina H.** (Mexico)                | **2** (1:1)    |
 |     4 |    12 June 13:30 | Group B: :KOR: **Vlasta** (Korea Republic) //vs.// :GRE: **Denisa** (Greece)               | **2** (2:0)    |
-|     5 |    12 June 20:30 | Group C: :ENG: **Hanka** (England) //vs.// :USA: **Tomáš** (USA)                           | **2** (1:1)    |
 
 
 ==== Most yellow cards per game ====
@@ -113,8 +113,8 @@
 | :AUS: **Petra** (Australia)                        |      D  |  1/5    |   -4 |     1 |
 | :RSA: **Wendy** (South Africa)                     |      A  |  1/4    |   -3 |     1 |
 | :FRA: **Jana L.** (France)                         |      A  |  0/2    |   -2 |     1 |
+| :CIV: **Martin** (Côte d'Ivoire)                   |      G  |  1/3    |   -2 |     1 |
 | :SVK: **Franta** (Slovakia)                        |      F  |  1/3    |   -2 |     1 |
-| :ALG: **Žužu** (Algeria)                           |      C  |  0/1    |   -1 |     1 |
 
 
 ===== Calendar =====
@@ -148,7 +148,7 @@
 |    26 |    19 June 20:30 | Group E: :CMR: **Markéta** (Cameroon) //vs.// :DEN: **Martina** (Denmark)                  |      1:2  |  **4** (2:2)     | **10'** -- :CMR: **Markéta** (Cameroon) |
 |    27 |    20 June 13:30 | Group F: :SVK: **Franta** (Slovakia) //vs.// :PAR: **Jana L.** (Paraguay)                  |      0:2  |  **4** (3:1)     | **27'** -- :PAR: **Jana L.** (Paraguay) |
 |    28 |    20 June 16:00 | Group F: :ITA: **Jana V.** (Italy) //vs.// :NZL: **Martin** (New Zealand)                  |      1:1  |  **3** (0:3)     | **7'** -- :NZL: **Martin** (New Zealand) |
-|    29 |    20 June 20:30 | Group G: :BRA: **Dana** (Brazil) //vs.// :CIV: **Martin** (Côte d'Ivoire)                  |           |                  |                          |
+|    29 |    20 June 20:30 | Group G: :BRA: **Dana** (Brazil) //vs.// :CIV: **Martin** (Côte d'Ivoire)                  |      3:1  |  **5** (2:3)     | **25'** -- :BRA: **Dana** (Brazil) |
 |    30 |    21 June 13:30 | Group G: :POR: **Eva** (Portugal) //vs.// :PRK: **Martina** (Korea DPR)                    |           |                  |                          |
 |    31 |    21 June 16:00 | Group H: :CHI: **Hanka** (Chile) //vs.// :SUI: **Renata Z.** (Switzerland)                 |           |                  |                          |
 |    32 |    21 June 20:30 | Group H: :ESP: **Jana V.** (Spain) //vs.// :HON: **Žužu** (Honduras)                       |           |                  |                          |
