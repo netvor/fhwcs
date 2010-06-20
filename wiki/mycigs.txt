@@ -12,4 +12,4 @@
 | :SVN: **Jens** (Slovenia)                          |        6 |      0 |            0 |            **6** |
 | :GHA: **AJ** (Ghana)                               |        5 |      0 |            0 |            **5** |
 | :FRA: **Bas** (France)                             |        5 |      0 |            0 |            **5** |
-| :USA: **Harmen** (USA)                             |        4 |      0 |            0 |            **4** |
+| :SVK: **Viktor** (Slovakia)                        |        4 |      0 |            0 |            **4** |
