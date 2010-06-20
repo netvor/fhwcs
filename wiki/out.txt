@@ -48,13 +48,13 @@
 | :ENG: **George** (England)                         |       4' |
 | :ARG: **George** (Argentina)                       |       6' |
 | :KOR: **Rudy** (Korea Republic)                    |       7' |
+| :NZL: **George** (New Zealand)                     |       7' |
 | :GER: **Harmen** (Germany)                         |       8' |
 | :CMR: **Lisa** (Cameroon)                          |      10' |
 | :AUS: **Sonia** (Australia)                        |      11' |
 | :SVN: **Jens** (Slovenia)                          |      13' |
 | :NGA: **Pippa** (Nigeria)                          |      16' |
 | :ARG: **George** (Argentina)                       |      17' |
-| :URU: **AJ** (Uruguay)                             |      24' |
 
 
 ==== Most goals per game ====
@@ -97,9 +97,9 @@
 | :MEX: **Sue** (Mexico)                             |        6 |      0 |            0 |            **6** |
 | :NGA: **Pippa** (Nigeria)                          |        2 |      0 |            1 |            **6** |
 | :SVN: **Jens** (Slovenia)                          |        6 |      0 |            0 |            **6** |
+| :NZL: **George** (New Zealand)                     |        5 |      0 |            0 |            **5** |
 | :GHA: **AJ** (Ghana)                               |        5 |      0 |            0 |            **5** |
 | :FRA: **Bas** (France)                             |        5 |      0 |            0 |            **5** |
-| :SVK: **Viktor** (Slovakia)                        |        4 |      0 |            0 |            **4** |
 
 
 ==== Lowest score in group stage ====
@@ -147,7 +147,7 @@
 |    25 |    19 June 13:30 | Group E: :NED: **Floris** (Netherlands) //vs.// :JPN: **Marty** (Japan)                    |      1:0  |  **1** (1:0)     | **53'** -- :NED: **Floris** (Netherlands) |
 |    26 |    19 June 20:30 | Group E: :CMR: **Lisa** (Cameroon) //vs.// :DEN: **Bas** (Denmark)                         |      1:2  |  **4** (2:2)     | **10'** -- :CMR: **Lisa** (Cameroon) |
 |    27 |    20 June 13:30 | Group F: :SVK: **Viktor** (Slovakia) //vs.// :PAR: **Martine** (Paraguay)                  |      0:2  |  **4** (3:1)     | **27'** -- :PAR: **Martine** (Paraguay) |
-|    28 |    20 June 16:00 | Group F: :ITA: **Rudy** (Italy) //vs.// :NZL: **George** (New Zealand)                     |           |                  |                          |
+|    28 |    20 June 16:00 | Group F: :ITA: **Rudy** (Italy) //vs.// :NZL: **George** (New Zealand)                     |      1:1  |  **3** (0:3)     | **7'** -- :NZL: **George** (New Zealand) |
 |    29 |    20 June 20:30 | Group G: :BRA: **Vendulka** (Brazil) //vs.// :CIV: **Quido** (Côte d'Ivoire)               |           |                  |                          |
 |    30 |    21 June 13:30 | Group G: :POR: **Jens** (Portugal) //vs.// :PRK: **Sonia** (Korea DPR)                     |           |                  |                          |
 |    31 |    21 June 16:00 | Group H: :CHI: **Ailee** (Chile) //vs.// :SUI: **Paul** (Switzerland)                      |           |                  |                          |

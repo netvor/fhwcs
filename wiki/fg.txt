@@ -6,10 +6,10 @@
 | :ENG: **George** (England)                         |       4' |
 | :ARG: **George** (Argentina)                       |       6' |
 | :KOR: **Rudy** (Korea Republic)                    |       7' |
+| :NZL: **George** (New Zealand)                     |       7' |
 | :GER: **Harmen** (Germany)                         |       8' |
 | :CMR: **Lisa** (Cameroon)                          |      10' |
 | :AUS: **Sonia** (Australia)                        |      11' |
 | :SVN: **Jens** (Slovenia)                          |      13' |
 | :NGA: **Pippa** (Nigeria)                          |      16' |
 | :ARG: **George** (Argentina)                       |      17' |
-| :URU: **AJ** (Uruguay)                             |      24' |
