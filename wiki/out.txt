@@ -48,13 +48,13 @@
 | :ENG: **Hanka** (England)                          |       4' |
 | :ARG: **Míša** (Argentina)                         |       6' |
 | :KOR: **Vlasta** (Korea Republic)                  |       7' |
+| :NZL: **Martin** (New Zealand)                     |       7' |
 | :GER: **Lenny** (Germany)                          |       8' |
 | :CMR: **Markéta** (Cameroon)                       |      10' |
 | :AUS: **Petra** (Australia)                        |      11' |
 | :SVN: **Eva** (Slovenia)                           |      13' |
 | :NGA: **Standa** (Nigeria)                         |      16' |
 | :ARG: **Míša** (Argentina)                         |      17' |
-| :URU: **Renata Z.** (Uruguay)                      |      24' |
 
 
 ==== Most goals per game ====
@@ -99,7 +99,7 @@
 | :NGA: **Standa** (Nigeria)                         |        2 |      0 |            1 |            **6** |
 | :FRA: **Jana L.** (France)                         |        5 |      0 |            0 |            **5** |
 | :GHA: **Franta** (Ghana)                           |        5 |      0 |            0 |            **5** |
-| :SUI: **Renata Z.** (Switzerland)                  |        4 |      0 |            0 |            **4** |
+| :NZL: **Martin** (New Zealand)                     |        5 |      0 |            0 |            **5** |
 
 
 ==== Lowest score in group stage ====
@@ -147,7 +147,7 @@
 |    25 |    19 June 13:30 | Group E: :NED: **Olina K.** (Netherlands) //vs.// :JPN: **Standa** (Japan)                 |      1:0  |  **1** (1:0)     | **53'** -- :NED: **Olina K.** (Netherlands) |
 |    26 |    19 June 20:30 | Group E: :CMR: **Markéta** (Cameroon) //vs.// :DEN: **Martina** (Denmark)                  |      1:2  |  **4** (2:2)     | **10'** -- :CMR: **Markéta** (Cameroon) |
 |    27 |    20 June 13:30 | Group F: :SVK: **Franta** (Slovakia) //vs.// :PAR: **Jana L.** (Paraguay)                  |      0:2  |  **4** (3:1)     | **27'** -- :PAR: **Jana L.** (Paraguay) |
-|    28 |    20 June 16:00 | Group F: :ITA: **Jana V.** (Italy) //vs.// :NZL: **Martin** (New Zealand)                  |           |                  |                          |
+|    28 |    20 June 16:00 | Group F: :ITA: **Jana V.** (Italy) //vs.// :NZL: **Martin** (New Zealand)                  |      1:1  |  **3** (0:3)     | **7'** -- :NZL: **Martin** (New Zealand) |
 |    29 |    20 June 20:30 | Group G: :BRA: **Dana** (Brazil) //vs.// :CIV: **Martin** (Côte d'Ivoire)                  |           |                  |                          |
 |    30 |    21 June 13:30 | Group G: :POR: **Eva** (Portugal) //vs.// :PRK: **Martina** (Korea DPR)                    |           |                  |                          |
 |    31 |    21 June 16:00 | Group H: :CHI: **Hanka** (Chile) //vs.// :SUI: **Renata Z.** (Switzerland)                 |           |                  |                          |

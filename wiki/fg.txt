@@ -6,10 +6,10 @@
 | :ENG: **Hanka** (England)                          |       4' |
 | :ARG: **Míša** (Argentina)                         |       6' |
 | :KOR: **Vlasta** (Korea Republic)                  |       7' |
+| :NZL: **Martin** (New Zealand)                     |       7' |
 | :GER: **Lenny** (Germany)                          |       8' |
 | :CMR: **Markéta** (Cameroon)                       |      10' |
 | :AUS: **Petra** (Australia)                        |      11' |
 | :SVN: **Eva** (Slovenia)                           |      13' |
 | :NGA: **Standa** (Nigeria)                         |      16' |
 | :ARG: **Míša** (Argentina)                         |      17' |
-| :URU: **Renata Z.** (Uruguay)                      |      24' |
