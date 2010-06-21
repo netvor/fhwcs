@@ -33,7 +33,7 @@
 |    28 |    20 June 16:00 | Group F: :ITA: **Rudy** (Italy) //vs.// :NZL: **George** (New Zealand)                     |      1:1  |  **3** (0:3)     | **7'** -- :NZL: **George** (New Zealand) |
 |    29 |    20 June 20:30 | Group G: :BRA: **Vendulka** (Brazil) //vs.// :CIV: **Quido** (Côte d'Ivoire)               |      3:1  |  **5** (2:3)     | **25'** -- :BRA: **Vendulka** (Brazil) |
 |    30 |    21 June 13:30 | Group G: :POR: **Jens** (Portugal) //vs.// :PRK: **Sonia** (Korea DPR)                     |      7:0  |  **4** (2:2)     | **29'** -- :POR: **Jens** (Portugal) |
-|    31 |    21 June 16:00 | Group H: :CHI: **Ailee** (Chile) //vs.// :SUI: **Paul** (Switzerland)                      |           |                  |                          |
+|    31 |    21 June 16:00 | Group H: :CHI: **Ailee** (Chile) //vs.// :SUI: **Paul** (Switzerland)                      |      1:0  |  **13** (6:7)    | **75'** -- :CHI: **Ailee** (Chile) |
 |    32 |    21 June 20:30 | Group H: :ESP: **Katka** (Spain) //vs.// :HON: **Sue** (Honduras)                          |           |                  |                          |
 |    33 |    22 June 16:00 | Group A: :MEX: **Sue** (Mexico) //vs.// :URU: **AJ** (Uruguay)                             |           |                  |                          |
 |    34 |    22 June 16:00 | Group A: :FRA: **Bas** (France) //vs.// :RSA: **Scott** (South Africa)                     |           |                  |                          |
