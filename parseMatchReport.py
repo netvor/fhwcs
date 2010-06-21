@@ -27,7 +27,7 @@ score = ( int(scoreDict['hg']), int(scoreDict['ag']) )
 goals=list()
 goalsLine = re.match(r'Goals Scored:\n((?P<goals>.+)\n)?'+re.escape(matchTitle), contents, re.S).group('goals')
 if goalsLine: 
-  for m in re.finditer(r"\((?P<who>[A-Z]{3})\) (?P<when>\d+)'(\+(?P<whenplus>\d+))?(?P<og> own goal)?",goalsLine):
+  for m in re.finditer(r"\((?P<who>[A-Z]{3})\)\s(?P<when>\d+)'(\+(?P<whenplus>\d+))?(?P<og>\sown goal)?",goalsLine):
     d = m.groupdict()
     if d['og']: d['who'] = filter(lambda code : code!=d['who'], codes.values())[0]
     goals.append( ( int(d['when']), d['who'] ) )
