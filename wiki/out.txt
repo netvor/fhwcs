@@ -36,10 +36,10 @@
 | :GER: **Harmen** (Germany)                         |              4 |
 | :USA: **Harmen** (USA)                             |              3 |
 | :MEX: **Sue** (Mexico)                             |              3 |
+| :RSA: **Scott** (South Africa)                     |              3 |
 | :SVN: **Jens** (Slovenia)                          |              3 |
 | :NED: **Floris** (Netherlands)                     |              3 |
 | :PAR: **Martine** (Paraguay)                       |              3 |
-| :KOR: **Rudy** (Korea Republic)                    |              3 |
 
 
 ==== Fastest goal ====
@@ -69,7 +69,7 @@
 |    17 |    16 June 20:30 | Group A: :RSA: **Scott** (South Africa) //vs.// :URU: **AJ** (Uruguay)                     | **3** (0:3)    |
 |    19 |    17 June 16:00 | Group B: :GRE: **Paul** (Greece) //vs.// :NGA: **Pippa** (Nigeria)                         | **3** (2:1)    |
 |    26 |    19 June 20:30 | Group E: :CMR: **Lisa** (Cameroon) //vs.// :DEN: **Bas** (Denmark)                         | **3** (1:2)    |
-|     1 |    11 June 16:00 | Group A: :RSA: **Scott** (South Africa) //vs.// :MEX: **Sue** (Mexico)                     | **2** (1:1)    |
+|    34 |    22 June 16:00 | Group A: :FRA: **Bas** (France) //vs.// :RSA: **Scott** (South Africa)                     | **3** (1:2)    |
 
 
 ==== Most yellow cards per game ====
@@ -92,6 +92,7 @@
 ^ Team                                               ^  Yellow  ^  2Y=R  ^  Direct Red  ^  Weighted Total  ^
 | :AUS: **Sonia** (Australia)                        |        4 |      0 |            2 |           **12** |
 | :SUI: **Paul** (Switzerland)                       |        7 |      0 |            1 |           **11** |
+| :FRA: **Bas** (France)                             |        6 |      0 |            1 |           **10** |
 | :RSA: **Scott** (South Africa)                     |        4 |      0 |            1 |            **8** |
 | :SRB: **Olivia** (Serbia)                          |        6 |      1 |            0 |            **8** |
 | :CHI: **Ailee** (Chile)                            |        8 |      0 |            0 |            **8** |
@@ -99,7 +100,6 @@
 | :MEX: **Sue** (Mexico)                             |        6 |      0 |            0 |            **6** |
 | :NGA: **Pippa** (Nigeria)                          |        2 |      0 |            1 |            **6** |
 | :SVN: **Jens** (Slovenia)                          |        6 |      0 |            0 |            **6** |
-| :NZL: **George** (New Zealand)                     |        5 |      0 |            0 |            **5** |
 
 
 ==== Lowest score in group stage ====
@@ -153,7 +153,7 @@
 |    31 |    21 June 16:00 | Group H: :CHI: **Ailee** (Chile) //vs.// :SUI: **Paul** (Switzerland)                      |      1:0  |  **13** (6:7)    | **75'** -- :CHI: **Ailee** (Chile) |
 |    32 |    21 June 20:30 | Group H: :ESP: **Katka** (Spain) //vs.// :HON: **Sue** (Honduras)                          |      2:0  |  **2** (0:2)     | **17'** -- :ESP: **Katka** (Spain) |
 |    33 |    22 June 16:00 | Group A: :MEX: **Sue** (Mexico) //vs.// :URU: **AJ** (Uruguay)                             |           |                  |                          |
-|    34 |    22 June 16:00 | Group A: :FRA: **Bas** (France) //vs.// :RSA: **Scott** (South Africa)                     |           |                  |                          |
+|    34 |    22 June 16:00 | Group A: :FRA: **Bas** (France) //vs.// :RSA: **Scott** (South Africa)                     |      1:2  |  **5** (5:0)     | **20'** -- :RSA: **Scott** (South Africa) |
 |    35 |    22 June 20:30 | Group B: :NGA: **Pippa** (Nigeria) //vs.// :KOR: **Rudy** (Korea Republic)                 |           |                  |                          |
 |    36 |    22 June 20:30 | Group B: :GRE: **Paul** (Greece) //vs.// :ARG: **George** (Argentina)                      |           |                  |                          |
 |    37 |    23 June 16:00 | Group C: :SVN: **Jens** (Slovenia) //vs.// :ENG: **George** (England)                      |           |                  |                          |
