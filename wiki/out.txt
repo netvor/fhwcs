@@ -31,15 +31,15 @@
 
 ^ Team                                               ^  Goals scored  ^
 | :POR: **Jens** (Portugal)                          |              7 |
+| :ARG: **George** (Argentina)                       |              7 |
 | :BRA: **Vendulka** (Brazil)                        |              5 |
-| :ARG: **George** (Argentina)                       |              5 |
+| :KOR: **Rudy** (Korea Republic)                    |              5 |
 | :URU: **AJ** (Uruguay)                             |              4 |
 | :GER: **Harmen** (Germany)                         |              4 |
 | :USA: **Harmen** (USA)                             |              3 |
 | :MEX: **Sue** (Mexico)                             |              3 |
 | :RSA: **Scott** (South Africa)                     |              3 |
-| :SVN: **Jens** (Slovenia)                          |              3 |
-| :NED: **Floris** (Netherlands)                     |              3 |
+| :NGA: **Pippa** (Nigeria)                          |              3 |
 
 
 ==== Fastest goal ====
@@ -52,9 +52,9 @@
 | :GER: **Harmen** (Germany)                         |       8' |
 | :CMR: **Lisa** (Cameroon)                          |      10' |
 | :AUS: **Sonia** (Australia)                        |      11' |
+| :NGA: **Pippa** (Nigeria)                          |      12' |
 | :SVN: **Jens** (Slovenia)                          |      13' |
 | :NGA: **Pippa** (Nigeria)                          |      16' |
-| :ARG: **George** (Argentina)                       |      17' |
 
 
 ==== Most goals per game ====
@@ -65,11 +65,11 @@
 |     7 |    13 June 20:30 | Group D: :GER: **Harmen** (Germany) //vs.// :AUS: **Sonia** (Australia)                    | **4** (4:0)    |
 |    22 |    18 June 16:00 | Group C: :SVN: **Jens** (Slovenia) //vs.// :USA: **Harmen** (USA)                          | **4** (2:2)    |
 |    29 |    20 June 20:30 | Group G: :BRA: **Vendulka** (Brazil) //vs.// :CIV: **Quido** (Côte d'Ivoire)               | **4** (3:1)    |
+|    35 |    22 June 20:30 | Group B: :NGA: **Pippa** (Nigeria) //vs.// :KOR: **Rudy** (Korea Republic)                 | **4** (2:2)    |
 |    14 |    15 June 20:30 | Group G: :BRA: **Vendulka** (Brazil) //vs.// :PRK: **Sonia** (Korea DPR)                   | **3** (2:1)    |
 |    17 |    16 June 20:30 | Group A: :RSA: **Scott** (South Africa) //vs.// :URU: **AJ** (Uruguay)                     | **3** (0:3)    |
 |    19 |    17 June 16:00 | Group B: :GRE: **Paul** (Greece) //vs.// :NGA: **Pippa** (Nigeria)                         | **3** (2:1)    |
 |    26 |    19 June 20:30 | Group E: :CMR: **Lisa** (Cameroon) //vs.// :DEN: **Bas** (Denmark)                         | **3** (1:2)    |
-|    34 |    22 June 16:00 | Group A: :FRA: **Bas** (France) //vs.// :RSA: **Scott** (South Africa)                     | **3** (1:2)    |
 
 
 ==== Most yellow cards per game ====
@@ -93,12 +93,12 @@
 | :AUS: **Sonia** (Australia)                        |        4 |      0 |            2 |           **12** |
 | :SUI: **Paul** (Switzerland)                       |        7 |      0 |            1 |           **11** |
 | :FRA: **Bas** (France)                             |        6 |      0 |            1 |           **10** |
+| :NGA: **Pippa** (Nigeria)                          |        5 |      0 |            1 |            **9** |
 | :MEX: **Sue** (Mexico)                             |        8 |      0 |            0 |            **8** |
 | :RSA: **Scott** (South Africa)                     |        4 |      0 |            1 |            **8** |
 | :SRB: **Olivia** (Serbia)                          |        6 |      1 |            0 |            **8** |
 | :CHI: **Ailee** (Chile)                            |        8 |      0 |            0 |            **8** |
 | :GER: **Harmen** (Germany)                         |        5 |      1 |            0 |            **7** |
-| :NGA: **Pippa** (Nigeria)                          |        2 |      0 |            1 |            **6** |
 | :SVN: **Jens** (Slovenia)                          |        6 |      0 |            0 |            **6** |
 
 
@@ -154,8 +154,8 @@
 |    32 |    21 June 20:30 | Group H: :ESP: **Katka** (Spain) //vs.// :HON: **Sue** (Honduras)                          |      2:0  |  **2** (0:2)     | **17'** -- :ESP: **Katka** (Spain) |
 |    33 |    22 June 16:00 | Group A: :MEX: **Sue** (Mexico) //vs.// :URU: **AJ** (Uruguay)                             |      0:1  |  **3** (2:1)     | **43'** -- :URU: **AJ** (Uruguay) |
 |    34 |    22 June 16:00 | Group A: :FRA: **Bas** (France) //vs.// :RSA: **Scott** (South Africa)                     |      1:2  |  **5** (5:0)     | **20'** -- :RSA: **Scott** (South Africa) |
-|    35 |    22 June 20:30 | Group B: :NGA: **Pippa** (Nigeria) //vs.// :KOR: **Rudy** (Korea Republic)                 |           |                  |                          |
-|    36 |    22 June 20:30 | Group B: :GRE: **Paul** (Greece) //vs.// :ARG: **George** (Argentina)                      |           |                  |                          |
+|    35 |    22 June 20:30 | Group B: :NGA: **Pippa** (Nigeria) //vs.// :KOR: **Rudy** (Korea Republic)                 |      2:2  |  **4** (3:1)     | **12'** -- :NGA: **Pippa** (Nigeria) |
+|    36 |    22 June 20:30 | Group B: :GRE: **Paul** (Greece) //vs.// :ARG: **George** (Argentina)                      |      0:2  |  **2** (1:1)     | **77'** -- :ARG: **George** (Argentina) |
 |    37 |    23 June 16:00 | Group C: :SVN: **Jens** (Slovenia) //vs.// :ENG: **George** (England)                      |           |                  |                          |
 |    38 |    23 June 16:00 | Group C: :USA: **Harmen** (USA) //vs.// :ALG: **Martine** (Algeria)                        |           |                  |                          |
 |    39 |    23 June 20:30 | Group D: :GHA: **AJ** (Ghana) //vs.// :GER: **Harmen** (Germany)                           |           |                  |                          |

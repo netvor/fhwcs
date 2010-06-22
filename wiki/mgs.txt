@@ -4,12 +4,12 @@
 
 ^ Team                                               ^  Goals scored  ^
 | :POR: **Jens** (Portugal)                          |              7 |
+| :ARG: **George** (Argentina)                       |              7 |
 | :BRA: **Vendulka** (Brazil)                        |              5 |
-| :ARG: **George** (Argentina)                       |              5 |
+| :KOR: **Rudy** (Korea Republic)                    |              5 |
 | :URU: **AJ** (Uruguay)                             |              4 |
 | :GER: **Harmen** (Germany)                         |              4 |
 | :USA: **Harmen** (USA)                             |              3 |
 | :MEX: **Sue** (Mexico)                             |              3 |
 | :RSA: **Scott** (South Africa)                     |              3 |
-| :SVN: **Jens** (Slovenia)                          |              3 |
-| :NED: **Floris** (Netherlands)                     |              3 |
+| :NGA: **Pippa** (Nigeria)                          |              3 |

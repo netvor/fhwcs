@@ -8,8 +8,8 @@
 |     7 |    13 June 20:30 | Group D: :GER: **Harmen** (Germany) //vs.// :AUS: **Sonia** (Australia)                    | **4** (4:0)    |
 |    22 |    18 June 16:00 | Group C: :SVN: **Jens** (Slovenia) //vs.// :USA: **Harmen** (USA)                          | **4** (2:2)    |
 |    29 |    20 June 20:30 | Group G: :BRA: **Vendulka** (Brazil) //vs.// :CIV: **Quido** (Côte d'Ivoire)               | **4** (3:1)    |
+|    35 |    22 June 20:30 | Group B: :NGA: **Pippa** (Nigeria) //vs.// :KOR: **Rudy** (Korea Republic)                 | **4** (2:2)    |
 |    14 |    15 June 20:30 | Group G: :BRA: **Vendulka** (Brazil) //vs.// :PRK: **Sonia** (Korea DPR)                   | **3** (2:1)    |
 |    17 |    16 June 20:30 | Group A: :RSA: **Scott** (South Africa) //vs.// :URU: **AJ** (Uruguay)                     | **3** (0:3)    |
 |    19 |    17 June 16:00 | Group B: :GRE: **Paul** (Greece) //vs.// :NGA: **Pippa** (Nigeria)                         | **3** (2:1)    |
 |    26 |    19 June 20:30 | Group E: :CMR: **Lisa** (Cameroon) //vs.// :DEN: **Bas** (Denmark)                         | **3** (1:2)    |
-|    34 |    22 June 16:00 | Group A: :FRA: **Bas** (France) //vs.// :RSA: **Scott** (South Africa)                     | **3** (1:2)    |

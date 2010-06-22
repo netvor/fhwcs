@@ -10,6 +10,6 @@
 | :GER: **Harmen** (Germany)                         |       8' |
 | :CMR: **Lisa** (Cameroon)                          |      10' |
 | :AUS: **Sonia** (Australia)                        |      11' |
+| :NGA: **Pippa** (Nigeria)                          |      12' |
 | :SVN: **Jens** (Slovenia)                          |      13' |
 | :NGA: **Pippa** (Nigeria)                          |      16' |
-| :ARG: **George** (Argentina)                       |      17' |
