@@ -4,10 +4,10 @@
 
 
 ^ //Group A://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group B://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :URU: **AJ** (Uruguay)                             |    3 |  2/1/0     |  4/0    |    4 |     7 | ::: | :ARG: **George** (Argentina)                       |    2 |  2/0/0     |  5/1    |    4 |     6 |
-| :MEX: **Sue** (Mexico)                             |    3 |  1/1/1     |  3/2    |    1 |     4 | ::: | :KOR: **Rudy** (Korea Republic)                    |    2 |  1/0/1     |  3/4    |   -1 |     3 |
-| :RSA: **Scott** (South Africa)                     |    3 |  1/1/1     |  3/5    |   -2 |     4 | ::: | :GRE: **Paul** (Greece)                            |    2 |  1/0/1     |  2/3    |   -1 |     3 |
-| :FRA: **Bas** (France)                             |    3 |  0/1/2     |  1/4    |   -3 |     1 | ::: | :NGA: **Pippa** (Nigeria)                          |    2 |  0/0/2     |  1/3    |   -2 |     0 |
+| :URU: **AJ** (Uruguay)                             |    3 |  2/1/0     |  4/0    |    4 |     7 | ::: | :ARG: **George** (Argentina)                       |    3 |  3/0/0     |  7/1    |    6 |     9 |
+| :MEX: **Sue** (Mexico)                             |    3 |  1/1/1     |  3/2    |    1 |     4 | ::: | :KOR: **Rudy** (Korea Republic)                    |    3 |  1/1/1     |  5/6    |   -1 |     4 |
+| :RSA: **Scott** (South Africa)                     |    3 |  1/1/1     |  3/5    |   -2 |     4 | ::: | :GRE: **Paul** (Greece)                            |    3 |  1/0/2     |  2/5    |   -3 |     3 |
+| :FRA: **Bas** (France)                             |    3 |  0/1/2     |  1/4    |   -3 |     1 | ::: | :NGA: **Pippa** (Nigeria)                          |    3 |  0/1/2     |  3/5    |   -2 |     1 |
 ^ //Group C://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group D://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
 | :SVN: **Jens** (Slovenia)                          |    2 |  1/1/0     |  3/2    |    1 |     4 | ::: | :GHA: **AJ** (Ghana)                               |    2 |  1/1/0     |  2/1    |    1 |     4 |
 | :USA: **Harmen** (USA)                             |    2 |  0/2/0     |  3/3    |    0 |     2 | ::: | :GER: **Harmen** (Germany)                         |    2 |  1/0/1     |  4/1    |    3 |     3 |
