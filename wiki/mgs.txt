@@ -3,13 +3,13 @@
 ==== Most goals scored ====
 
 ^ Team                                               ^  Goals scored  ^
+| :ARG: **Míša** (Argentina)                         |              7 |
 | :POR: **Eva** (Portugal)                           |              7 |
-| :ARG: **Míša** (Argentina)                         |              5 |
 | :BRA: **Dana** (Brazil)                            |              5 |
+| :KOR: **Vlasta** (Korea Republic)                  |              5 |
 | :GER: **Lenny** (Germany)                          |              4 |
 | :URU: **Renata Z.** (Uruguay)                      |              4 |
 | :MEX: **Olina H.** (Mexico)                        |              3 |
-| :KOR: **Vlasta** (Korea Republic)                  |              3 |
 | :USA: **Tomáš** (USA)                              |              3 |
 | :SVN: **Eva** (Slovenia)                           |              3 |
 | :RSA: **Wendy** (South Africa)                     |              3 |

@@ -37,8 +37,8 @@
 |    32 |    21 June 20:30 | Group H: :ESP: **Jana V.** (Spain) //vs.// :HON: **Žužu** (Honduras)                       |      2:0  |  **2** (0:2)     | **17'** -- :ESP: **Jana V.** (Spain) |
 |    33 |    22 June 16:00 | Group A: :MEX: **Olina H.** (Mexico) //vs.// :URU: **Renata Z.** (Uruguay)                 |      0:1  |  **3** (2:1)     | **43'** -- :URU: **Renata Z.** (Uruguay) |
 |    34 |    22 June 16:00 | Group A: :FRA: **Jana L.** (France) //vs.// :RSA: **Wendy** (South Africa)                 |      1:2  |  **5** (5:0)     | **20'** -- :RSA: **Wendy** (South Africa) |
-|    35 |    22 June 20:30 | Group B: :NGA: **Standa** (Nigeria) //vs.// :KOR: **Vlasta** (Korea Republic)              |           |                  |                          |
-|    36 |    22 June 20:30 | Group B: :GRE: **Denisa** (Greece) //vs.// :ARG: **Míša** (Argentina)                      |           |                  |                          |
+|    35 |    22 June 20:30 | Group B: :NGA: **Standa** (Nigeria) //vs.// :KOR: **Vlasta** (Korea Republic)              |      2:2  |  **4** (3:1)     | **12'** -- :NGA: **Standa** (Nigeria) |
+|    36 |    22 June 20:30 | Group B: :GRE: **Denisa** (Greece) //vs.// :ARG: **Míša** (Argentina)                      |      0:2  |  **2** (1:1)     | **77'** -- :ARG: **Míša** (Argentina) |
 |    37 |    23 June 16:00 | Group C: :SVN: **Eva** (Slovenia) //vs.// :ENG: **Hanka** (England)                        |           |                  |                          |
 |    38 |    23 June 16:00 | Group C: :USA: **Tomáš** (USA) //vs.// :ALG: **Žužu** (Algeria)                            |           |                  |                          |
 |    39 |    23 June 20:30 | Group D: :GHA: **Franta** (Ghana) //vs.// :GER: **Lenny** (Germany)                        |           |                  |                          |

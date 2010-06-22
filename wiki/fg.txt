@@ -10,6 +10,6 @@
 | :GER: **Lenny** (Germany)                          |       8' |
 | :CMR: **Markéta** (Cameroon)                       |      10' |
 | :AUS: **Petra** (Australia)                        |      11' |
+| :NGA: **Standa** (Nigeria)                         |      12' |
 | :SVN: **Eva** (Slovenia)                           |      13' |
 | :NGA: **Standa** (Nigeria)                         |      16' |
-| :ARG: **Míša** (Argentina)                         |      17' |
