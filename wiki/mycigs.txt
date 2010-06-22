@@ -5,6 +5,7 @@
 ^ Team                                               ^  Yellow  ^  2Y=R  ^  Direct Red  ^  Weighted Total  ^
 | :AUS: **Petra** (Australia)                        |        4 |      0 |            2 |           **12** |
 | :SUI: **Renata Z.** (Switzerland)                  |        7 |      0 |            1 |           **11** |
+| :FRA: **Jana L.** (France)                         |        6 |      0 |            1 |           **10** |
 | :SRB: **Denisa** (Serbia)                          |        6 |      1 |            0 |            **8** |
 | :RSA: **Wendy** (South Africa)                     |        4 |      0 |            1 |            **8** |
 | :CHI: **Hanka** (Chile)                            |        8 |      0 |            0 |            **8** |
@@ -12,4 +13,3 @@
 | :MEX: **Olina H.** (Mexico)                        |        6 |      0 |            0 |            **6** |
 | :SVN: **Eva** (Slovenia)                           |        6 |      0 |            0 |            **6** |
 | :NGA: **Standa** (Nigeria)                         |        2 |      0 |            1 |            **6** |
-| :FRA: **Jana L.** (France)                         |        5 |      0 |            0 |            **5** |
