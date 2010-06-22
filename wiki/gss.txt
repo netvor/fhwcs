@@ -4,10 +4,10 @@
 
 
 ^ //Group A://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group B://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :URU: **Renata Z.** (Uruguay)                      |    3 |  2/1/0     |  4/0    |    4 |     7 | ::: | :ARG: **Míša** (Argentina)                         |    2 |  2/0/0     |  5/1    |    4 |     6 |
-| :MEX: **Olina H.** (Mexico)                        |    3 |  1/1/1     |  3/2    |    1 |     4 | ::: | :KOR: **Vlasta** (Korea Republic)                  |    2 |  1/0/1     |  3/4    |   -1 |     3 |
-| :RSA: **Wendy** (South Africa)                     |    3 |  1/1/1     |  3/5    |   -2 |     4 | ::: | :GRE: **Denisa** (Greece)                          |    2 |  1/0/1     |  2/3    |   -1 |     3 |
-| :FRA: **Jana L.** (France)                         |    3 |  0/1/2     |  1/4    |   -3 |     1 | ::: | :NGA: **Standa** (Nigeria)                         |    2 |  0/0/2     |  1/3    |   -2 |     0 |
+| :URU: **Renata Z.** (Uruguay)                      |    3 |  2/1/0     |  4/0    |    4 |     7 | ::: | :ARG: **Míša** (Argentina)                         |    3 |  3/0/0     |  7/1    |    6 |     9 |
+| :MEX: **Olina H.** (Mexico)                        |    3 |  1/1/1     |  3/2    |    1 |     4 | ::: | :KOR: **Vlasta** (Korea Republic)                  |    3 |  1/1/1     |  5/6    |   -1 |     4 |
+| :RSA: **Wendy** (South Africa)                     |    3 |  1/1/1     |  3/5    |   -2 |     4 | ::: | :GRE: **Denisa** (Greece)                          |    3 |  1/0/2     |  2/5    |   -3 |     3 |
+| :FRA: **Jana L.** (France)                         |    3 |  0/1/2     |  1/4    |   -3 |     1 | ::: | :NGA: **Standa** (Nigeria)                         |    3 |  0/1/2     |  3/5    |   -2 |     1 |
 ^ //Group C://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group D://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
 | :SVN: **Eva** (Slovenia)                           |    2 |  1/1/0     |  3/2    |    1 |     4 | ::: | :GHA: **Franta** (Ghana)                           |    2 |  1/1/0     |  2/1    |    1 |     4 |
 | :USA: **Tomáš** (USA)                              |    2 |  0/2/0     |  3/3    |    0 |     2 | ::: | :GER: **Lenny** (Germany)                          |    2 |  1/0/1     |  4/1    |    3 |     3 |
