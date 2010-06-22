@@ -8,8 +8,8 @@
 | :CMR: **Lisa** (Cameroon)                          |      E  |  1/3    |   -2 |     0 |
 | :NGA: **Pippa** (Nigeria)                          |      B  |  1/3    |   -2 |     0 |
 | :AUS: **Sonia** (Australia)                        |      D  |  1/5    |   -4 |     1 |
-| :RSA: **Scott** (South Africa)                     |      A  |  1/4    |   -3 |     1 |
-| :FRA: **Bas** (France)                             |      A  |  0/2    |   -2 |     1 |
+| :FRA: **Bas** (France)                             |      A  |  1/4    |   -3 |     1 |
 | :CIV: **Quido** (Côte d'Ivoire)                    |      G  |  1/3    |   -2 |     1 |
 | :SVK: **Viktor** (Slovakia)                        |      F  |  1/3    |   -2 |     1 |
 | :ALG: **Martine** (Algeria)                        |      C  |  0/1    |   -1 |     1 |
+| :ENG: **George** (England)                         |      C  |  1/1    |    0 |     2 |
