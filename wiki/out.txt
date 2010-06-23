@@ -11,10 +11,10 @@
 | :RSA: **Scott** (South Africa)                     |    3 |  1/1/1     |  3/5    |   -2 |     4 | ::: | :GRE: **Paul** (Greece)                            |    3 |  1/0/2     |  2/5    |   -3 |     3 |
 | :FRA: **Bas** (France)                             |    3 |  0/1/2     |  1/4    |   -3 |     1 | ::: | :NGA: **Pippa** (Nigeria)                          |    3 |  0/1/2     |  3/5    |   -2 |     1 |
 ^ //Group C://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group D://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :USA: **Harmen** (USA)                             |    3 |  1/2/0     |  4/3    |    1 |     5 | ::: | :GHA: **AJ** (Ghana)                               |    2 |  1/1/0     |  2/1    |    1 |     4 |
-| :ENG: **George** (England)                         |    3 |  1/2/0     |  2/1    |    1 |     5 | ::: | :GER: **Harmen** (Germany)                         |    2 |  1/0/1     |  4/1    |    3 |     3 |
-| :SVN: **Jens** (Slovenia)                          |    3 |  1/1/1     |  3/3    |    0 |     4 | ::: | :SRB: **Olivia** (Serbia)                          |    2 |  1/0/1     |  1/1    |    0 |     3 |
-| :ALG: **Martine** (Algeria)                        |    3 |  0/1/2     |  0/2    |   -2 |     1 | ::: | :AUS: **Sonia** (Australia)                        |    2 |  0/1/1     |  1/5    |   -4 |     1 |
+| :USA: **Harmen** (USA)                             |    3 |  1/2/0     |  4/3    |    1 |     5 | ::: | :GER: **Harmen** (Germany)                         |    3 |  2/0/1     |  5/1    |    4 |     6 |
+| :ENG: **George** (England)                         |    3 |  1/2/0     |  2/1    |    1 |     5 | ::: | :GHA: **AJ** (Ghana)                               |    3 |  1/1/1     |  2/2    |    0 |     4 |
+| :SVN: **Jens** (Slovenia)                          |    3 |  1/1/1     |  3/3    |    0 |     4 | ::: | :AUS: **Sonia** (Australia)                        |    3 |  1/1/1     |  3/6    |   -3 |     4 |
+| :ALG: **Martine** (Algeria)                        |    3 |  0/1/2     |  0/2    |   -2 |     1 | ::: | :SRB: **Olivia** (Serbia)                          |    3 |  1/0/2     |  2/3    |   -1 |     3 |
 ^ //Group E://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group F://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
 | :NED: **Floris** (Netherlands)                     |    2 |  2/0/0     |  3/0    |    3 |     6 | ::: | :PAR: **Martine** (Paraguay)                       |    2 |  1/1/0     |  3/1    |    2 |     4 |
 | :JPN: **Marty** (Japan)                            |    2 |  1/0/1     |  1/1    |    0 |     3 | ::: | :ITA: **Rudy** (Italy)                             |    2 |  0/2/0     |  2/2    |    0 |     2 |
@@ -90,15 +90,15 @@
 ==== Most yellow cards in group stage ====
 
 ^ Team                                               ^  Yellow  ^  2Y=R  ^  Direct Red  ^  Weighted Total  ^
-| :AUS: **Sonia** (Australia)                        |        4 |      0 |            2 |           **12** |
+| :AUS: **Sonia** (Australia)                        |        7 |      0 |            2 |           **15** |
 | :SUI: **Paul** (Switzerland)                       |        7 |      0 |            1 |           **11** |
+| :SRB: **Olivia** (Serbia)                          |        8 |      1 |            0 |           **10** |
 | :FRA: **Bas** (France)                             |        6 |      0 |            1 |           **10** |
 | :NGA: **Pippa** (Nigeria)                          |        5 |      0 |            1 |            **9** |
 | :SVN: **Jens** (Slovenia)                          |        9 |      0 |            0 |            **9** |
 | :MEX: **Sue** (Mexico)                             |        8 |      0 |            0 |            **8** |
 | :ALG: **Martine** (Algeria)                        |        4 |      2 |            0 |            **8** |
 | :RSA: **Scott** (South Africa)                     |        4 |      0 |            1 |            **8** |
-| :SRB: **Olivia** (Serbia)                          |        6 |      1 |            0 |            **8** |
 | :GER: **Harmen** (Germany)                         |        6 |      1 |            0 |            **8** |
 
 
@@ -108,13 +108,13 @@
 | :PRK: **Sonia** (Korea DPR)                        |      G  |  1/9    |   -8 |     0 |
 | :HON: **Sue** (Honduras)                           |      H  |  0/3    |   -3 |     0 |
 | :CMR: **Lisa** (Cameroon)                          |      E  |  1/3    |   -2 |     0 |
-| :AUS: **Sonia** (Australia)                        |      D  |  1/5    |   -4 |     1 |
 | :FRA: **Bas** (France)                             |      A  |  1/4    |   -3 |     1 |
 | :ALG: **Martine** (Algeria)                        |      C  |  0/2    |   -2 |     1 |
 | :CIV: **Quido** (Côte d'Ivoire)                    |      G  |  1/3    |   -2 |     1 |
 | :SVK: **Viktor** (Slovakia)                        |      F  |  1/3    |   -2 |     1 |
 | :NGA: **Pippa** (Nigeria)                          |      B  |  3/5    |   -2 |     1 |
 | :NZL: **George** (New Zealand)                     |      F  |  2/2    |    0 |     2 |
+| :ITA: **Rudy** (Italy)                             |      F  |  2/2    |    0 |     2 |
 
 
 ===== Calendar =====
@@ -159,7 +159,7 @@
 |    37 |    23 June 16:00 | Group C: :SVN: **Jens** (Slovenia) //vs.// :ENG: **George** (England)                      |      0:1  |  **4** (3:1)     | **23'** -- :ENG: **George** (England) |
 |    38 |    23 June 16:00 | Group C: :USA: **Harmen** (USA) //vs.// :ALG: **Martine** (Algeria)                        |      1:0  |  **6** (2:4)     | **90'** -- :USA: **Harmen** (USA) |
 |    39 |    23 June 20:30 | Group D: :GHA: **AJ** (Ghana) //vs.// :GER: **Harmen** (Germany)                           |      0:1  |  **2** (1:1)     | **60'** -- :GER: **Harmen** (Germany) |
-|    40 |    23 June 20:30 | Group D: :AUS: **Sonia** (Australia) //vs.// :SRB: **Olivia** (Serbia)                     |           |                  |                          |
+|    40 |    23 June 20:30 | Group D: :AUS: **Sonia** (Australia) //vs.// :SRB: **Olivia** (Serbia)                     |      2:1  |  **5** (3:2)     | **69'** -- :AUS: **Sonia** (Australia) |
 |    41 |    24 June 16:00 | Group F: :SVK: **Viktor** (Slovakia) //vs.// :ITA: **Rudy** (Italy)                        |           |                  |                          |
 |    42 |    24 June 16:00 | Group F: :PAR: **Martine** (Paraguay) //vs.// :NZL: **George** (New Zealand)               |           |                  |                          |
 |    43 |    24 June 20:30 | Group E: :DEN: **Bas** (Denmark) //vs.// :JPN: **Marty** (Japan)                           |           |                  |                          |
