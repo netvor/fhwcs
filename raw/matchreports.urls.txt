@@ -1,3 +1,5 @@
+/mm/document/tournament/competition/01/25/60/45/38_0623_usa-alg_fulltime.pdf
+/mm/document/tournament/competition/01/25/60/48/37_0623_svn-eng_fulltime.pdf
 /mm/document/tournament/competition/01/25/51/50/36_0622_gre-arg_fulltime.pdf
 /mm/document/tournament/competition/01/25/51/53/35_0622_nga-kor_fulltime.pdf
 /mm/document/tournament/competition/01/25/47/24/34_0622_fra-rsa_fulltime.pdf
