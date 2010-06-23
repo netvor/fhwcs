@@ -7,9 +7,9 @@
 | :ARG: **George** (Argentina)                       |              7 |
 | :BRA: **Vendulka** (Brazil)                        |              5 |
 | :KOR: **Rudy** (Korea Republic)                    |              5 |
+| :USA: **Harmen** (USA)                             |              4 |
 | :URU: **AJ** (Uruguay)                             |              4 |
 | :GER: **Harmen** (Germany)                         |              4 |
-| :USA: **Harmen** (USA)                             |              3 |
 | :MEX: **Sue** (Mexico)                             |              3 |
 | :RSA: **Scott** (South Africa)                     |              3 |
 | :NGA: **Pippa** (Nigeria)                          |              3 |

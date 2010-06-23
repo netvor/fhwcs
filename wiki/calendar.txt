@@ -39,8 +39,8 @@
 |    34 |    22 June 16:00 | Group A: :FRA: **Bas** (France) //vs.// :RSA: **Scott** (South Africa)                     |      1:2  |  **5** (5:0)     | **20'** -- :RSA: **Scott** (South Africa) |
 |    35 |    22 June 20:30 | Group B: :NGA: **Pippa** (Nigeria) //vs.// :KOR: **Rudy** (Korea Republic)                 |      2:2  |  **4** (3:1)     | **12'** -- :NGA: **Pippa** (Nigeria) |
 |    36 |    22 June 20:30 | Group B: :GRE: **Paul** (Greece) //vs.// :ARG: **George** (Argentina)                      |      0:2  |  **2** (1:1)     | **77'** -- :ARG: **George** (Argentina) |
-|    37 |    23 June 16:00 | Group C: :SVN: **Jens** (Slovenia) //vs.// :ENG: **George** (England)                      |           |                  |                          |
-|    38 |    23 June 16:00 | Group C: :USA: **Harmen** (USA) //vs.// :ALG: **Martine** (Algeria)                        |           |                  |                          |
+|    37 |    23 June 16:00 | Group C: :SVN: **Jens** (Slovenia) //vs.// :ENG: **George** (England)                      |      0:1  |  **4** (3:1)     | **23'** -- :ENG: **George** (England) |
+|    38 |    23 June 16:00 | Group C: :USA: **Harmen** (USA) //vs.// :ALG: **Martine** (Algeria)                        |      1:0  |  **6** (2:4)     | **90'** -- :USA: **Harmen** (USA) |
 |    39 |    23 June 20:30 | Group D: :GHA: **AJ** (Ghana) //vs.// :GER: **Harmen** (Germany)                           |           |                  |                          |
 |    40 |    23 June 20:30 | Group D: :AUS: **Sonia** (Australia) //vs.// :SRB: **Olivia** (Serbia)                     |           |                  |                          |
 |    41 |    24 June 16:00 | Group F: :SVK: **Viktor** (Slovakia) //vs.// :ITA: **Rudy** (Italy)                        |           |                  |                          |
