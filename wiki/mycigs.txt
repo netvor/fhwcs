@@ -3,12 +3,12 @@
 ==== Most yellow cards in group stage ====
 
 ^ Team                                               ^  Yellow  ^  2Y=R  ^  Direct Red  ^  Weighted Total  ^
-| :AUS: **Petra** (Australia)                        |        4 |      0 |            2 |           **12** |
+| :AUS: **Petra** (Australia)                        |        7 |      0 |            2 |           **15** |
 | :SUI: **Renata Z.** (Switzerland)                  |        7 |      0 |            1 |           **11** |
+| :SRB: **Denisa** (Serbia)                          |        8 |      1 |            0 |           **10** |
 | :FRA: **Jana L.** (France)                         |        6 |      0 |            1 |           **10** |
 | :SVN: **Eva** (Slovenia)                           |        9 |      0 |            0 |            **9** |
 | :NGA: **Standa** (Nigeria)                         |        5 |      0 |            1 |            **9** |
-| :SRB: **Denisa** (Serbia)                          |        6 |      1 |            0 |            **8** |
 | :MEX: **Olina H.** (Mexico)                        |        8 |      0 |            0 |            **8** |
 | :ALG: **Žužu** (Algeria)                           |        4 |      2 |            0 |            **8** |
 | :RSA: **Wendy** (South Africa)                     |        4 |      0 |            1 |            **8** |

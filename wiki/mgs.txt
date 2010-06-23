@@ -11,5 +11,5 @@
 | :USA: **Tomáš** (USA)                              |              4 |
 | :URU: **Renata Z.** (Uruguay)                      |              4 |
 | :MEX: **Olina H.** (Mexico)                        |              3 |
+| :AUS: **Petra** (Australia)                        |              3 |
 | :SVN: **Eva** (Slovenia)                           |              3 |
-| :RSA: **Wendy** (South Africa)                     |              3 |

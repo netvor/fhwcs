@@ -9,10 +9,10 @@
 | :RSA: **Wendy** (South Africa)                     |    3 |  1/1/1     |  3/5    |   -2 |     4 | ::: | :GRE: **Denisa** (Greece)                          |    3 |  1/0/2     |  2/5    |   -3 |     3 |
 | :FRA: **Jana L.** (France)                         |    3 |  0/1/2     |  1/4    |   -3 |     1 | ::: | :NGA: **Standa** (Nigeria)                         |    3 |  0/1/2     |  3/5    |   -2 |     1 |
 ^ //Group C://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group D://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :USA: **Tomáš** (USA)                              |    3 |  1/2/0     |  4/3    |    1 |     5 | ::: | :GHA: **Franta** (Ghana)                           |    2 |  1/1/0     |  2/1    |    1 |     4 |
-| :ENG: **Hanka** (England)                          |    3 |  1/2/0     |  2/1    |    1 |     5 | ::: | :GER: **Lenny** (Germany)                          |    2 |  1/0/1     |  4/1    |    3 |     3 |
-| :SVN: **Eva** (Slovenia)                           |    3 |  1/1/1     |  3/3    |    0 |     4 | ::: | :SRB: **Denisa** (Serbia)                          |    2 |  1/0/1     |  1/1    |    0 |     3 |
-| :ALG: **Žužu** (Algeria)                           |    3 |  0/1/2     |  0/2    |   -2 |     1 | ::: | :AUS: **Petra** (Australia)                        |    2 |  0/1/1     |  1/5    |   -4 |     1 |
+| :USA: **Tomáš** (USA)                              |    3 |  1/2/0     |  4/3    |    1 |     5 | ::: | :GER: **Lenny** (Germany)                          |    3 |  2/0/1     |  5/1    |    4 |     6 |
+| :ENG: **Hanka** (England)                          |    3 |  1/2/0     |  2/1    |    1 |     5 | ::: | :GHA: **Franta** (Ghana)                           |    3 |  1/1/1     |  2/2    |    0 |     4 |
+| :SVN: **Eva** (Slovenia)                           |    3 |  1/1/1     |  3/3    |    0 |     4 | ::: | :AUS: **Petra** (Australia)                        |    3 |  1/1/1     |  3/6    |   -3 |     4 |
+| :ALG: **Žužu** (Algeria)                           |    3 |  0/1/2     |  0/2    |   -2 |     1 | ::: | :SRB: **Denisa** (Serbia)                          |    3 |  1/0/2     |  2/3    |   -1 |     3 |
 ^ //Group E://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group F://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
 | :NED: **Olina K.** (Netherlands)                   |    2 |  2/0/0     |  3/0    |    3 |     6 | ::: | :PAR: **Jana L.** (Paraguay)                       |    2 |  1/1/0     |  3/1    |    2 |     4 |
 | :JPN: **Standa** (Japan)                           |    2 |  1/0/1     |  1/1    |    0 |     3 | ::: | :ITA: **Jana V.** (Italy)                          |    2 |  0/2/0     |  2/2    |    0 |     2 |

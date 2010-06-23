@@ -6,10 +6,10 @@
 | :PRK: **Martina** (Korea DPR)                      |      G  |  1/9    |   -8 |     0 |
 | :HON: **Žužu** (Honduras)                          |      H  |  0/3    |   -3 |     0 |
 | :CMR: **Markéta** (Cameroon)                       |      E  |  1/3    |   -2 |     0 |
-| :AUS: **Petra** (Australia)                        |      D  |  1/5    |   -4 |     1 |
 | :FRA: **Jana L.** (France)                         |      A  |  1/4    |   -3 |     1 |
 | :ALG: **Žužu** (Algeria)                           |      C  |  0/2    |   -2 |     1 |
 | :CIV: **Martin** (Côte d'Ivoire)                   |      G  |  1/3    |   -2 |     1 |
 | :SVK: **Franta** (Slovakia)                        |      F  |  1/3    |   -2 |     1 |
 | :NGA: **Standa** (Nigeria)                         |      B  |  3/5    |   -2 |     1 |
 | :NZL: **Martin** (New Zealand)                     |      F  |  2/2    |    0 |     2 |
+| :ITA: **Jana V.** (Italy)                          |      F  |  2/2    |    0 |     2 |
