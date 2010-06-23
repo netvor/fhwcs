@@ -4,11 +4,11 @@ p0
 (dp1
 S'group'
 p2
-S''
+VRound of 16
 p3
 sS'awayCode'
 p4
-S'AY/'
+S'KOR'
 p5
 sS'hasResults'
 p6
@@ -22,10 +22,14 @@ p9
 I49
 sS'awayName'
 p10
-NsS'homeName'
+S'Korea Republic'
 p11
-NsS'homeCode'
+sS'homeName'
 p12
-S'ME/'
+S'Uruguay'
 p13
+sS'homeCode'
+p14
+S'URU'
+p15
 sb.
