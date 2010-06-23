@@ -39,8 +39,8 @@
 |    34 |    22 June 16:00 | Group A: :FRA: **Jana L.** (France) //vs.// :RSA: **Wendy** (South Africa)                 |      1:2  |  **5** (5:0)     | **20'** -- :RSA: **Wendy** (South Africa) |
 |    35 |    22 June 20:30 | Group B: :NGA: **Standa** (Nigeria) //vs.// :KOR: **Vlasta** (Korea Republic)              |      2:2  |  **4** (3:1)     | **12'** -- :NGA: **Standa** (Nigeria) |
 |    36 |    22 June 20:30 | Group B: :GRE: **Denisa** (Greece) //vs.// :ARG: **Míša** (Argentina)                      |      0:2  |  **2** (1:1)     | **77'** -- :ARG: **Míša** (Argentina) |
-|    37 |    23 June 16:00 | Group C: :SVN: **Eva** (Slovenia) //vs.// :ENG: **Hanka** (England)                        |           |                  |                          |
-|    38 |    23 June 16:00 | Group C: :USA: **Tomáš** (USA) //vs.// :ALG: **Žužu** (Algeria)                            |           |                  |                          |
+|    37 |    23 June 16:00 | Group C: :SVN: **Eva** (Slovenia) //vs.// :ENG: **Hanka** (England)                        |      0:1  |  **4** (3:1)     | **23'** -- :ENG: **Hanka** (England) |
+|    38 |    23 June 16:00 | Group C: :USA: **Tomáš** (USA) //vs.// :ALG: **Žužu** (Algeria)                            |      1:0  |  **6** (2:4)     | **90'** -- :USA: **Tomáš** (USA) |
 |    39 |    23 June 20:30 | Group D: :GHA: **Franta** (Ghana) //vs.// :GER: **Lenny** (Germany)                        |           |                  |                          |
 |    40 |    23 June 20:30 | Group D: :AUS: **Petra** (Australia) //vs.// :SRB: **Denisa** (Serbia)                     |           |                  |                          |
 |    41 |    24 June 16:00 | Group F: :SVK: **Franta** (Slovakia) //vs.// :ITA: **Jana V.** (Italy)                     |           |                  |                          |

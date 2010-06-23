@@ -11,10 +11,10 @@
 | :RSA: **Wendy** (South Africa)                     |    3 |  1/1/1     |  3/5    |   -2 |     4 | ::: | :GRE: **Denisa** (Greece)                          |    3 |  1/0/2     |  2/5    |   -3 |     3 |
 | :FRA: **Jana L.** (France)                         |    3 |  0/1/2     |  1/4    |   -3 |     1 | ::: | :NGA: **Standa** (Nigeria)                         |    3 |  0/1/2     |  3/5    |   -2 |     1 |
 ^ //Group C://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group D://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :SVN: **Eva** (Slovenia)                           |    2 |  1/1/0     |  3/2    |    1 |     4 | ::: | :GHA: **Franta** (Ghana)                           |    2 |  1/1/0     |  2/1    |    1 |     4 |
-| :USA: **Tomáš** (USA)                              |    2 |  0/2/0     |  3/3    |    0 |     2 | ::: | :GER: **Lenny** (Germany)                          |    2 |  1/0/1     |  4/1    |    3 |     3 |
-| :ENG: **Hanka** (England)                          |    2 |  0/2/0     |  1/1    |    0 |     2 | ::: | :SRB: **Denisa** (Serbia)                          |    2 |  1/0/1     |  1/1    |    0 |     3 |
-| :ALG: **Žužu** (Algeria)                           |    2 |  0/1/1     |  0/1    |   -1 |     1 | ::: | :AUS: **Petra** (Australia)                        |    2 |  0/1/1     |  1/5    |   -4 |     1 |
+| :USA: **Tomáš** (USA)                              |    3 |  1/2/0     |  4/3    |    1 |     5 | ::: | :GHA: **Franta** (Ghana)                           |    2 |  1/1/0     |  2/1    |    1 |     4 |
+| :ENG: **Hanka** (England)                          |    3 |  1/2/0     |  2/1    |    1 |     5 | ::: | :GER: **Lenny** (Germany)                          |    2 |  1/0/1     |  4/1    |    3 |     3 |
+| :SVN: **Eva** (Slovenia)                           |    3 |  1/1/1     |  3/3    |    0 |     4 | ::: | :SRB: **Denisa** (Serbia)                          |    2 |  1/0/1     |  1/1    |    0 |     3 |
+| :ALG: **Žužu** (Algeria)                           |    3 |  0/1/2     |  0/2    |   -2 |     1 | ::: | :AUS: **Petra** (Australia)                        |    2 |  0/1/1     |  1/5    |   -4 |     1 |
 ^ //Group E://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group F://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
 | :NED: **Olina K.** (Netherlands)                   |    2 |  2/0/0     |  3/0    |    3 |     6 | ::: | :PAR: **Jana L.** (Paraguay)                       |    2 |  1/1/0     |  3/1    |    2 |     4 |
 | :JPN: **Standa** (Japan)                           |    2 |  1/0/1     |  1/1    |    0 |     3 | ::: | :ITA: **Jana V.** (Italy)                          |    2 |  0/2/0     |  2/2    |    0 |     2 |
@@ -34,10 +34,10 @@
 | :POR: **Eva** (Portugal)                           |              7 |
 | :BRA: **Dana** (Brazil)                            |              5 |
 | :KOR: **Vlasta** (Korea Republic)                  |              5 |
+| :USA: **Tomáš** (USA)                              |              4 |
 | :GER: **Lenny** (Germany)                          |              4 |
 | :URU: **Renata Z.** (Uruguay)                      |              4 |
 | :MEX: **Olina H.** (Mexico)                        |              3 |
-| :USA: **Tomáš** (USA)                              |              3 |
 | :SVN: **Eva** (Slovenia)                           |              3 |
 | :RSA: **Wendy** (South Africa)                     |              3 |
 
@@ -93,13 +93,13 @@
 | :AUS: **Petra** (Australia)                        |        4 |      0 |            2 |           **12** |
 | :SUI: **Renata Z.** (Switzerland)                  |        7 |      0 |            1 |           **11** |
 | :FRA: **Jana L.** (France)                         |        6 |      0 |            1 |           **10** |
+| :SVN: **Eva** (Slovenia)                           |        9 |      0 |            0 |            **9** |
 | :NGA: **Standa** (Nigeria)                         |        5 |      0 |            1 |            **9** |
 | :SRB: **Denisa** (Serbia)                          |        6 |      1 |            0 |            **8** |
 | :MEX: **Olina H.** (Mexico)                        |        8 |      0 |            0 |            **8** |
+| :ALG: **Žužu** (Algeria)                           |        4 |      2 |            0 |            **8** |
 | :RSA: **Wendy** (South Africa)                     |        4 |      0 |            1 |            **8** |
 | :CHI: **Hanka** (Chile)                            |        8 |      0 |            0 |            **8** |
-| :GER: **Lenny** (Germany)                          |        5 |      1 |            0 |            **7** |
-| :SVN: **Eva** (Slovenia)                           |        6 |      0 |            0 |            **6** |
 
 
 ==== Lowest score in group stage ====
@@ -110,11 +110,11 @@
 | :CMR: **Markéta** (Cameroon)                       |      E  |  1/3    |   -2 |     0 |
 | :AUS: **Petra** (Australia)                        |      D  |  1/5    |   -4 |     1 |
 | :FRA: **Jana L.** (France)                         |      A  |  1/4    |   -3 |     1 |
+| :ALG: **Žužu** (Algeria)                           |      C  |  0/2    |   -2 |     1 |
 | :CIV: **Martin** (Côte d'Ivoire)                   |      G  |  1/3    |   -2 |     1 |
 | :SVK: **Franta** (Slovakia)                        |      F  |  1/3    |   -2 |     1 |
 | :NGA: **Standa** (Nigeria)                         |      B  |  3/5    |   -2 |     1 |
-| :ALG: **Žužu** (Algeria)                           |      C  |  0/1    |   -1 |     1 |
-| :ENG: **Hanka** (England)                          |      C  |  1/1    |    0 |     2 |
+| :NZL: **Martin** (New Zealand)                     |      F  |  2/2    |    0 |     2 |
 
 
 ===== Calendar =====
@@ -156,8 +156,8 @@
 |    34 |    22 June 16:00 | Group A: :FRA: **Jana L.** (France) //vs.// :RSA: **Wendy** (South Africa)                 |      1:2  |  **5** (5:0)     | **20'** -- :RSA: **Wendy** (South Africa) |
 |    35 |    22 June 20:30 | Group B: :NGA: **Standa** (Nigeria) //vs.// :KOR: **Vlasta** (Korea Republic)              |      2:2  |  **4** (3:1)     | **12'** -- :NGA: **Standa** (Nigeria) |
 |    36 |    22 June 20:30 | Group B: :GRE: **Denisa** (Greece) //vs.// :ARG: **Míša** (Argentina)                      |      0:2  |  **2** (1:1)     | **77'** -- :ARG: **Míša** (Argentina) |
-|    37 |    23 June 16:00 | Group C: :SVN: **Eva** (Slovenia) //vs.// :ENG: **Hanka** (England)                        |           |                  |                          |
-|    38 |    23 June 16:00 | Group C: :USA: **Tomáš** (USA) //vs.// :ALG: **Žužu** (Algeria)                            |           |                  |                          |
+|    37 |    23 June 16:00 | Group C: :SVN: **Eva** (Slovenia) //vs.// :ENG: **Hanka** (England)                        |      0:1  |  **4** (3:1)     | **23'** -- :ENG: **Hanka** (England) |
+|    38 |    23 June 16:00 | Group C: :USA: **Tomáš** (USA) //vs.// :ALG: **Žužu** (Algeria)                            |      1:0  |  **6** (2:4)     | **90'** -- :USA: **Tomáš** (USA) |
 |    39 |    23 June 20:30 | Group D: :GHA: **Franta** (Ghana) //vs.// :GER: **Lenny** (Germany)                        |           |                  |                          |
 |    40 |    23 June 20:30 | Group D: :AUS: **Petra** (Australia) //vs.// :SRB: **Denisa** (Serbia)                     |           |                  |                          |
 |    41 |    24 June 16:00 | Group F: :SVK: **Franta** (Slovakia) //vs.// :ITA: **Jana V.** (Italy)                     |           |                  |                          |

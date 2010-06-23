@@ -6,10 +6,10 @@
 | :AUS: **Petra** (Australia)                        |        4 |      0 |            2 |           **12** |
 | :SUI: **Renata Z.** (Switzerland)                  |        7 |      0 |            1 |           **11** |
 | :FRA: **Jana L.** (France)                         |        6 |      0 |            1 |           **10** |
+| :SVN: **Eva** (Slovenia)                           |        9 |      0 |            0 |            **9** |
 | :NGA: **Standa** (Nigeria)                         |        5 |      0 |            1 |            **9** |
 | :SRB: **Denisa** (Serbia)                          |        6 |      1 |            0 |            **8** |
 | :MEX: **Olina H.** (Mexico)                        |        8 |      0 |            0 |            **8** |
+| :ALG: **Žužu** (Algeria)                           |        4 |      2 |            0 |            **8** |
 | :RSA: **Wendy** (South Africa)                     |        4 |      0 |            1 |            **8** |
 | :CHI: **Hanka** (Chile)                            |        8 |      0 |            0 |            **8** |
-| :GER: **Lenny** (Germany)                          |        5 |      1 |            0 |            **7** |
-| :SVN: **Eva** (Slovenia)                           |        6 |      0 |            0 |            **6** |
