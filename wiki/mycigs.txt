@@ -9,7 +9,7 @@
 | :FRA: **Bas** (France)                             |        6 |      0 |            1 |           **10** |
 | :NGA: **Pippa** (Nigeria)                          |        5 |      0 |            1 |            **9** |
 | :SVN: **Jens** (Slovenia)                          |        9 |      0 |            0 |            **9** |
+| :SVK: **Viktor** (Slovakia)                        |        8 |      0 |            0 |            **8** |
 | :MEX: **Sue** (Mexico)                             |        8 |      0 |            0 |            **8** |
 | :ALG: **Martine** (Algeria)                        |        4 |      2 |            0 |            **8** |
 | :RSA: **Scott** (South Africa)                     |        4 |      0 |            1 |            **8** |
-| :GER: **Harmen** (Germany)                         |        6 |      1 |            0 |            **8** |

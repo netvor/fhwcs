@@ -8,8 +8,8 @@
 |    21 |    18 June 13:30 | Group D: :GER: **Harmen** (Germany) //vs.// :SRB: **Olivia** (Serbia)                      | 7 (3:4)      | 1 (1:0)      | 0 (0:0)      | **9** (5:4)      |
 |    19 |    17 June 16:00 | Group B: :GRE: **Paul** (Greece) //vs.// :NGA: **Pippa** (Nigeria)                         | 4 (3:1)      | 0 (0:0)      | 1 (0:1)      | **8** (3:5)      |
 |    24 |    19 June 16:00 | Group D: :GHA: **AJ** (Ghana) //vs.// :AUS: **Sonia** (Australia)                          | 4 (3:1)      | 0 (0:0)      | 1 (0:1)      | **8** (3:5)      |
+|    41 |    24 June 16:00 | Group F: :SVK: **Viktor** (Slovakia) //vs.// :ITA: **Rudy** (Italy)                        | 8 (4:4)      | 0 (0:0)      | 0 (0:0)      | **8** (4:4)      |
 |     2 |    11 June 20:30 | Group A: :URU: **AJ** (Uruguay) //vs.// :FRA: **Bas** (France)                             | 5 (2:3)      | 1 (1:0)      | 0 (0:0)      | **7** (4:3)      |
 |     5 |    12 June 20:30 | Group C: :ENG: **George** (England) //vs.// :USA: **Harmen** (USA)                         | 6 (3:3)      | 0 (0:0)      | 0 (0:0)      | **6** (3:3)      |
 |     8 |    13 June 16:00 | Group D: :SRB: **Olivia** (Serbia) //vs.// :GHA: **AJ** (Ghana)                            | 4 (2:2)      | 1 (1:0)      | 0 (0:0)      | **6** (4:2)      |
 |    17 |    16 June 20:30 | Group A: :RSA: **Scott** (South Africa) //vs.// :URU: **AJ** (Uruguay)                     | 2 (2:0)      | 0 (0:0)      | 1 (1:0)      | **6** (6:0)      |
-|    18 |    17 June 20:30 | Group A: :FRA: **Bas** (France) //vs.// :MEX: **Sue** (Mexico)                             | 6 (2:4)      | 0 (0:0)      | 0 (0:0)      | **6** (2:4)      |
