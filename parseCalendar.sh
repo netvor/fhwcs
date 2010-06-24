@@ -9,7 +9,7 @@ grep -Eo '/worldcup/matches/[^/"]+/match=[0-9]+/[^/"]+.html' $CALENDARFILE |
    do
     OUTFILE=$(echo $URL | tr ':/' '__')
     ! [ -f "raw/matchpages/$OUTFILE" ] && \
-      wget -O "raw/matchpages/$OUTFILE" "http://www.fifa.com$URL" && \
+      wget --progress=dot:binary -O "raw/matchpages/$OUTFILE" "http://www.fifa.com$URL" && \
       ! python parseMatchPage.py "raw/matchpages/$OUTFILE" &&
         echo '>>> Error importing match page! Deleting the HTML file...' && \
         rm "raw/matchpages/$OUTFILE"
