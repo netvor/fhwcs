@@ -10,6 +10,6 @@
 | :SVN: **Eva** (Slovenia)                           |        9 |      0 |            0 |            **9** |
 | :NGA: **Standa** (Nigeria)                         |        5 |      0 |            1 |            **9** |
 | :MEX: **Olina H.** (Mexico)                        |        8 |      0 |            0 |            **8** |
+| :SVK: **Franta** (Slovakia)                        |        8 |      0 |            0 |            **8** |
 | :ALG: **Žužu** (Algeria)                           |        4 |      2 |            0 |            **8** |
 | :RSA: **Wendy** (South Africa)                     |        4 |      0 |            1 |            **8** |
-| :GER: **Lenny** (Germany)                          |        6 |      1 |            0 |            **8** |

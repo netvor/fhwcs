@@ -36,10 +36,10 @@
 | :KOR: **Vlasta** (Korea Republic)                  |              5 |
 | :GER: **Lenny** (Germany)                          |              5 |
 | :USA: **Tomáš** (USA)                              |              4 |
+| :SVK: **Franta** (Slovakia)                        |              4 |
+| :ITA: **Jana V.** (Italy)                          |              4 |
 | :URU: **Renata Z.** (Uruguay)                      |              4 |
 | :MEX: **Olina H.** (Mexico)                        |              3 |
-| :AUS: **Petra** (Australia)                        |              3 |
-| :SVN: **Eva** (Slovenia)                           |              3 |
 
 
 ==== Fastest goal ====
@@ -62,6 +62,7 @@
 ^  No.  ^       When       ^  Match                                                                                     ^  Goals scored  ^
 |    30 |    21 June 13:30 | Group G: :POR: **Eva** (Portugal) //vs.// :PRK: **Martina** (Korea DPR)                    | **7** (7:0)    |
 |    20 |    17 June 13:30 | Group B: :ARG: **Míša** (Argentina) //vs.// :KOR: **Vlasta** (Korea Republic)              | **5** (4:1)    |
+|    41 |    24 June 16:00 | Group F: :SVK: **Franta** (Slovakia) //vs.// :ITA: **Jana V.** (Italy)                     | **5** (3:2)    |
 |     7 |    13 June 20:30 | Group D: :GER: **Lenny** (Germany) //vs.// :AUS: **Petra** (Australia)                     | **4** (4:0)    |
 |    22 |    18 June 16:00 | Group C: :SVN: **Eva** (Slovenia) //vs.// :USA: **Tomáš** (USA)                            | **4** (2:2)    |
 |    29 |    20 June 20:30 | Group G: :BRA: **Dana** (Brazil) //vs.// :CIV: **Martin** (Côte d'Ivoire)                  | **4** (3:1)    |
@@ -69,7 +70,6 @@
 |    14 |    15 June 20:30 | Group G: :BRA: **Dana** (Brazil) //vs.// :PRK: **Martina** (Korea DPR)                     | **3** (2:1)    |
 |    17 |    16 June 20:30 | Group A: :RSA: **Wendy** (South Africa) //vs.// :URU: **Renata Z.** (Uruguay)              | **3** (0:3)    |
 |    19 |    17 June 16:00 | Group B: :GRE: **Denisa** (Greece) //vs.// :NGA: **Standa** (Nigeria)                      | **3** (2:1)    |
-|    26 |    19 June 20:30 | Group E: :CMR: **Markéta** (Cameroon) //vs.// :DEN: **Martina** (Denmark)                  | **3** (1:2)    |
 
 
 ==== Most yellow cards per game ====
@@ -80,11 +80,11 @@
 |    21 |    18 June 13:30 | Group D: :GER: **Lenny** (Germany) //vs.// :SRB: **Denisa** (Serbia)                       | 7 (3:4)      | 1 (1:0)      | 0 (0:0)      | **9** (5:4)      |
 |    19 |    17 June 16:00 | Group B: :GRE: **Denisa** (Greece) //vs.// :NGA: **Standa** (Nigeria)                      | 4 (3:1)      | 0 (0:0)      | 1 (0:1)      | **8** (3:5)      |
 |    24 |    19 June 16:00 | Group D: :GHA: **Franta** (Ghana) //vs.// :AUS: **Petra** (Australia)                      | 4 (3:1)      | 0 (0:0)      | 1 (0:1)      | **8** (3:5)      |
+|    41 |    24 June 16:00 | Group F: :SVK: **Franta** (Slovakia) //vs.// :ITA: **Jana V.** (Italy)                     | 8 (4:4)      | 0 (0:0)      | 0 (0:0)      | **8** (4:4)      |
 |     2 |    11 June 20:30 | Group A: :URU: **Renata Z.** (Uruguay) //vs.// :FRA: **Jana L.** (France)                  | 5 (2:3)      | 1 (1:0)      | 0 (0:0)      | **7** (4:3)      |
 |     5 |    12 June 20:30 | Group C: :ENG: **Hanka** (England) //vs.// :USA: **Tomáš** (USA)                           | 6 (3:3)      | 0 (0:0)      | 0 (0:0)      | **6** (3:3)      |
 |     8 |    13 June 16:00 | Group D: :SRB: **Denisa** (Serbia) //vs.// :GHA: **Franta** (Ghana)                        | 4 (2:2)      | 1 (1:0)      | 0 (0:0)      | **6** (4:2)      |
 |    17 |    16 June 20:30 | Group A: :RSA: **Wendy** (South Africa) //vs.// :URU: **Renata Z.** (Uruguay)              | 2 (2:0)      | 0 (0:0)      | 1 (1:0)      | **6** (6:0)      |
-|    18 |    17 June 20:30 | Group A: :FRA: **Jana L.** (France) //vs.// :MEX: **Olina H.** (Mexico)                    | 6 (2:4)      | 0 (0:0)      | 0 (0:0)      | **6** (2:4)      |
 
 
 ==== Most yellow cards in group stage ====
@@ -97,9 +97,9 @@
 | :SVN: **Eva** (Slovenia)                           |        9 |      0 |            0 |            **9** |
 | :NGA: **Standa** (Nigeria)                         |        5 |      0 |            1 |            **9** |
 | :MEX: **Olina H.** (Mexico)                        |        8 |      0 |            0 |            **8** |
+| :SVK: **Franta** (Slovakia)                        |        8 |      0 |            0 |            **8** |
 | :ALG: **Žužu** (Algeria)                           |        4 |      2 |            0 |            **8** |
 | :RSA: **Wendy** (South Africa)                     |        4 |      0 |            1 |            **8** |
-| :GER: **Lenny** (Germany)                          |        6 |      1 |            0 |            **8** |
 
 
 ==== Lowest score in group stage ====
@@ -160,7 +160,7 @@
 |    38 |    23 June 16:00 | Group C: :USA: **Tomáš** (USA) //vs.// :ALG: **Žužu** (Algeria)                            |      1:0  |  **6** (2:4)     | **90'** -- :USA: **Tomáš** (USA) |
 |    39 |    23 June 20:30 | Group D: :GHA: **Franta** (Ghana) //vs.// :GER: **Lenny** (Germany)                        |      0:1  |  **2** (1:1)     | **60'** -- :GER: **Lenny** (Germany) |
 |    40 |    23 June 20:30 | Group D: :AUS: **Petra** (Australia) //vs.// :SRB: **Denisa** (Serbia)                     |      2:1  |  **5** (3:2)     | **69'** -- :AUS: **Petra** (Australia) |
-|    41 |    24 June 16:00 | Group F: :SVK: **Franta** (Slovakia) //vs.// :ITA: **Jana V.** (Italy)                     |           |                  |                          |
+|    41 |    24 June 16:00 | Group F: :SVK: **Franta** (Slovakia) //vs.// :ITA: **Jana V.** (Italy)                     |      3:2  |  **8** (4:4)     | **25'** -- :SVK: **Franta** (Slovakia) |
 |    42 |    24 June 16:00 | Group F: :PAR: **Jana L.** (Paraguay) //vs.// :NZL: **Martin** (New Zealand)               |      0:0  |  **3** (2:1)     | //(no goals)//           |
 |    43 |    24 June 20:30 | Group E: :DEN: **Martina** (Denmark) //vs.// :JPN: **Standa** (Japan)                      |           |                  |                          |
 |    44 |    24 June 20:30 | Group E: :CMR: **Markéta** (Cameroon) //vs.// :NED: **Olina K.** (Netherlands)             |           |                  |                          |
