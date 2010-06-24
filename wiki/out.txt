@@ -16,10 +16,10 @@
 | :SVN: **Jens** (Slovenia)                          |    3 |  1/1/1     |  3/3    |    0 |     4 | ::: | :AUS: **Sonia** (Australia)                        |    3 |  1/1/1     |  3/6    |   -3 |     4 |
 | :ALG: **Martine** (Algeria)                        |    3 |  0/1/2     |  0/2    |   -2 |     1 | ::: | :SRB: **Olivia** (Serbia)                          |    3 |  1/0/2     |  2/3    |   -1 |     3 |
 ^ //Group E://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group F://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :NED: **Floris** (Netherlands)                     |    2 |  2/0/0     |  3/0    |    3 |     6 | ::: | :PAR: **Martine** (Paraguay)                       |    2 |  1/1/0     |  3/1    |    2 |     4 |
-| :JPN: **Marty** (Japan)                            |    2 |  1/0/1     |  1/1    |    0 |     3 | ::: | :ITA: **Rudy** (Italy)                             |    2 |  0/2/0     |  2/2    |    0 |     2 |
-| :DEN: **Bas** (Denmark)                            |    2 |  1/0/1     |  2/3    |   -1 |     3 | ::: | :NZL: **George** (New Zealand)                     |    2 |  0/2/0     |  2/2    |    0 |     2 |
-| :CMR: **Lisa** (Cameroon)                          |    2 |  0/0/2     |  1/3    |   -2 |     0 | ::: | :SVK: **Viktor** (Slovakia)                        |    2 |  0/1/1     |  1/3    |   -2 |     1 |
+| :NED: **Floris** (Netherlands)                     |    2 |  2/0/0     |  3/0    |    3 |     6 | ::: | :PAR: **Martine** (Paraguay)                       |    3 |  1/2/0     |  3/1    |    2 |     5 |
+| :JPN: **Marty** (Japan)                            |    2 |  1/0/1     |  1/1    |    0 |     3 | ::: | :SVK: **Viktor** (Slovakia)                        |    3 |  1/1/1     |  4/5    |   -1 |     4 |
+| :DEN: **Bas** (Denmark)                            |    2 |  1/0/1     |  2/3    |   -1 |     3 | ::: | :NZL: **George** (New Zealand)                     |    3 |  0/3/0     |  2/2    |    0 |     3 |
+| :CMR: **Lisa** (Cameroon)                          |    2 |  0/0/2     |  1/3    |   -2 |     0 | ::: | :ITA: **Rudy** (Italy)                             |    3 |  0/2/1     |  4/5    |   -1 |     2 |
 ^ //Group G://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group H://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
 | :BRA: **Vendulka** (Brazil)                        |    2 |  2/0/0     |  5/2    |    3 |     6 | ::: | :CHI: **Ailee** (Chile)                            |    2 |  2/0/0     |  2/0    |    2 |     6 |
 | :POR: **Jens** (Portugal)                          |    2 |  1/1/0     |  7/0    |    7 |     4 | ::: | :ESP: **Katka** (Spain)                            |    2 |  1/0/1     |  2/1    |    1 |     3 |
@@ -111,10 +111,10 @@
 | :FRA: **Bas** (France)                             |      A  |  1/4    |   -3 |     1 |
 | :ALG: **Martine** (Algeria)                        |      C  |  0/2    |   -2 |     1 |
 | :CIV: **Quido** (Côte d'Ivoire)                    |      G  |  1/3    |   -2 |     1 |
-| :SVK: **Viktor** (Slovakia)                        |      F  |  1/3    |   -2 |     1 |
 | :NGA: **Pippa** (Nigeria)                          |      B  |  3/5    |   -2 |     1 |
-| :NZL: **George** (New Zealand)                     |      F  |  2/2    |    0 |     2 |
-| :ITA: **Rudy** (Italy)                             |      F  |  2/2    |    0 |     2 |
+| :ITA: **Rudy** (Italy)                             |      F  |  4/5    |   -1 |     2 |
+| :GRE: **Paul** (Greece)                            |      B  |  2/5    |   -3 |     3 |
+| :DEN: **Bas** (Denmark)                            |      E  |  2/3    |   -1 |     3 |
 
 
 ===== Calendar =====
