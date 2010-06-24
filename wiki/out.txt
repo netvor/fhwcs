@@ -35,11 +35,11 @@
 | :BRA: **Dana** (Brazil)                            |              5 |
 | :KOR: **Vlasta** (Korea Republic)                  |              5 |
 | :GER: **Lenny** (Germany)                          |              5 |
+| :NED: **Olina K.** (Netherlands)                   |              5 |
 | :USA: **Tomáš** (USA)                              |              4 |
 | :SVK: **Franta** (Slovakia)                        |              4 |
 | :ITA: **Jana V.** (Italy)                          |              4 |
 | :URU: **Renata Z.** (Uruguay)                      |              4 |
-| :MEX: **Olina H.** (Mexico)                        |              3 |
 
 
 ==== Fastest goal ====
@@ -163,7 +163,7 @@
 |    41 |    24 June 16:00 | Group F: :SVK: **Franta** (Slovakia) //vs.// :ITA: **Jana V.** (Italy)                     |      3:2  |  **8** (4:4)     | **25'** -- :SVK: **Franta** (Slovakia) |
 |    42 |    24 June 16:00 | Group F: :PAR: **Jana L.** (Paraguay) //vs.// :NZL: **Martin** (New Zealand)               |      0:0  |  **3** (2:1)     | //(no goals)//           |
 |    43 |    24 June 20:30 | Group E: :DEN: **Martina** (Denmark) //vs.// :JPN: **Standa** (Japan)                      |           |                  |                          |
-|    44 |    24 June 20:30 | Group E: :CMR: **Markéta** (Cameroon) //vs.// :NED: **Olina K.** (Netherlands)             |           |                  |                          |
+|    44 |    24 June 20:30 | Group E: :CMR: **Markéta** (Cameroon) //vs.// :NED: **Olina K.** (Netherlands)             |      1:2  |  **5** (2:3)     | **36'** -- :NED: **Olina K.** (Netherlands) |
 |    45 |    25 June 16:00 | Group G: :POR: **Eva** (Portugal) //vs.// :BRA: **Dana** (Brazil)                          |           |                  |                          |
 |    46 |    25 June 16:00 | Group G: :PRK: **Martina** (Korea DPR) //vs.// :CIV: **Martin** (Côte d'Ivoire)            |           |                  |                          |
 |    47 |    25 June 20:30 | Group H: :CHI: **Hanka** (Chile) //vs.// :ESP: **Jana V.** (Spain)                         |           |                  |                          |

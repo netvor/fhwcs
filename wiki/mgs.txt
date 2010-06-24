@@ -8,8 +8,8 @@
 | :BRA: **Dana** (Brazil)                            |              5 |
 | :KOR: **Vlasta** (Korea Republic)                  |              5 |
 | :GER: **Lenny** (Germany)                          |              5 |
+| :NED: **Olina K.** (Netherlands)                   |              5 |
 | :USA: **Tomáš** (USA)                              |              4 |
 | :SVK: **Franta** (Slovakia)                        |              4 |
 | :ITA: **Jana V.** (Italy)                          |              4 |
 | :URU: **Renata Z.** (Uruguay)                      |              4 |
-| :MEX: **Olina H.** (Mexico)                        |              3 |
