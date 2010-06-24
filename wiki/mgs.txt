@@ -10,6 +10,6 @@
 | :GER: **Lenny** (Germany)                          |              5 |
 | :NED: **Olina K.** (Netherlands)                   |              5 |
 | :USA: **Tomáš** (USA)                              |              4 |
+| :JPN: **Standa** (Japan)                           |              4 |
 | :SVK: **Franta** (Slovakia)                        |              4 |
 | :ITA: **Jana V.** (Italy)                          |              4 |
-| :URU: **Renata Z.** (Uruguay)                      |              4 |
