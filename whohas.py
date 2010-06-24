@@ -11,13 +11,13 @@ whohas = { 'ALG' : u'Martine' ,
            'ENG' : u'George' ,
            'ESP' : u'Katka' ,
            'FRA' : u'Bas' ,
-           'GER' : u'Harmen' , # needs to pay
+           'GER' : u'Harmen' ,
            'GHA' : u'AJ' ,
            'GRE' : u'Paul' ,
            'HON' : u'Sue' ,
-           'ITA' : u'Rudy' , # needs to pay
+           'ITA' : u'Rudy' ,
            'JPN' : u'Marty' ,
-           'KOR' : u'Rudy' , # needs to pay
+           'KOR' : u'Rudy' ,
            'MEX' : u'Sue' ,
            'NED' : u'Floris' , # needs to pay
            'NGA' : u'Pippa' ,
@@ -31,4 +31,4 @@ whohas = { 'ALG' : u'Martine' ,
            'SVK' : u'Viktor' ,
            'SVN' : u'Jens' ,
            'URU' : u'AJ' ,
-           'USA' : u'Harmen' } # needs to pay
+           'USA' : u'Harmen' }
