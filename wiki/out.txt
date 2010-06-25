@@ -173,7 +173,9 @@
 |    51 |    27 June 16:00 | Round of 16: :GER: **Harmen** (Germany) //vs.// :ENG: **George** (England)                 |           |                  |                          |
 |    52 |    27 June 20:30 | Round of 16: :ARG: **George** (Argentina) //vs.// :MEX: **Sue** (Mexico)                   |           |                  |                          |
 |    53 |    28 June 16:00 | Round of 16: :NED: **Floris** (Netherlands) //vs.// :SVK: **Viktor** (Slovakia)            |           |                  |                          |
+|    54 |    28 June 20:30 | Round of 16: :BRA: **Vendulka** (Brazil) //vs.// :CHI: **Ailee** (Chile)                   |           |                  |                          |
 |    55 |    29 June 16:00 | Round of 16: :PAR: **Martine** (Paraguay) //vs.// :JPN: **Marty** (Japan)                  |           |                  |                          |
+|    56 |    29 June 20:30 | Round of 16: :ESP: **Katka** (Spain) //vs.// :POR: **Jens** (Portugal)                     |           |                  |                          |
 
 ===== Prizes =====
 
