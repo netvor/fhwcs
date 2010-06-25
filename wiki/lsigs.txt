@@ -4,8 +4,8 @@
 
 ^ Team                                               ^  Group  ^  GF/GA  ^  GD  ^  Pts  ^
 | :PRK: **Sonia** (Korea DPR)                        |      G  |  1/12   |  -11 |     0 |
-| :HON: **Sue** (Honduras)                           |      H  |  0/3    |   -3 |     0 |
 | :CMR: **Lisa** (Cameroon)                          |      E  |  2/5    |   -3 |     0 |
+| :HON: **Sue** (Honduras)                           |      H  |  0/3    |   -3 |     1 |
 | :FRA: **Bas** (France)                             |      A  |  1/4    |   -3 |     1 |
 | :ALG: **Martine** (Algeria)                        |      C  |  0/2    |   -2 |     1 |
 | :NGA: **Pippa** (Nigeria)                          |      B  |  3/5    |   -2 |     1 |
