@@ -21,10 +21,10 @@
 | :DEN: **Martina** (Denmark)                        |    3 |  1/0/2     |  3/6    |   -3 |     3 | ::: | :NZL: **Martin** (New Zealand)                     |    3 |  0/3/0     |  2/2    |    0 |     3 |
 | :CMR: **Markéta** (Cameroon)                       |    3 |  0/0/3     |  2/5    |   -3 |     0 | ::: | :ITA: **Jana V.** (Italy)                          |    3 |  0/2/1     |  4/5    |   -1 |     2 |
 ^ //Group G://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group H://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :BRA: **Dana** (Brazil)                            |    3 |  2/1/0     |  5/2    |    3 |     7 | ::: | :CHI: **Hanka** (Chile)                            |    2 |  2/0/0     |  2/0    |    2 |     6 |
-| :POR: **Eva** (Portugal)                           |    3 |  1/2/0     |  7/0    |    7 |     5 | ::: | :ESP: **Jana V.** (Spain)                          |    2 |  1/0/1     |  2/1    |    1 |     3 |
-| :CIV: **Martin** (Côte d'Ivoire)                   |    3 |  1/1/1     |  4/3    |    1 |     4 | ::: | :SUI: **Renata Z.** (Switzerland)                  |    2 |  1/0/1     |  1/1    |    0 |     3 |
-| :PRK: **Martina** (Korea DPR)                      |    3 |  0/0/3     |  1/12   |  -11 |     0 | ::: | :HON: **Žužu** (Honduras)                          |    2 |  0/0/2     |  0/3    |   -3 |     0 |
+| :BRA: **Dana** (Brazil)                            |    3 |  2/1/0     |  5/2    |    3 |     7 | ::: | :ESP: **Jana V.** (Spain)                          |    3 |  2/0/1     |  4/2    |    2 |     6 |
+| :POR: **Eva** (Portugal)                           |    3 |  1/2/0     |  7/0    |    7 |     5 | ::: | :CHI: **Hanka** (Chile)                            |    3 |  2/0/1     |  3/2    |    1 |     6 |
+| :CIV: **Martin** (Côte d'Ivoire)                   |    3 |  1/1/1     |  4/3    |    1 |     4 | ::: | :SUI: **Renata Z.** (Switzerland)                  |    3 |  1/1/1     |  1/1    |    0 |     4 |
+| :PRK: **Martina** (Korea DPR)                      |    3 |  0/0/3     |  1/12   |  -11 |     0 | ::: | :HON: **Žužu** (Honduras)                          |    3 |  0/1/2     |  0/3    |   -3 |     1 |
 
 
 ==== Most goals scored ====
@@ -106,8 +106,8 @@
 
 ^ Team                                               ^  Group  ^  GF/GA  ^  GD  ^  Pts  ^
 | :PRK: **Martina** (Korea DPR)                      |      G  |  1/12   |  -11 |     0 |
-| :HON: **Žužu** (Honduras)                          |      H  |  0/3    |   -3 |     0 |
 | :CMR: **Markéta** (Cameroon)                       |      E  |  2/5    |   -3 |     0 |
+| :HON: **Žužu** (Honduras)                          |      H  |  0/3    |   -3 |     1 |
 | :FRA: **Jana L.** (France)                         |      A  |  1/4    |   -3 |     1 |
 | :ALG: **Žužu** (Algeria)                           |      C  |  0/2    |   -2 |     1 |
 | :NGA: **Standa** (Nigeria)                         |      B  |  3/5    |   -2 |     1 |
