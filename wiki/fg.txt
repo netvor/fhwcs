@@ -12,4 +12,4 @@
 | :AUS: **Sonia** (Australia)                        |      11' |
 | :NGA: **Pippa** (Nigeria)                          |      12' |
 | :SVN: **Jens** (Slovenia)                          |      13' |
-| :NGA: **Pippa** (Nigeria)                          |      16' |
+| :CIV: **Quido** (Côte d'Ivoire)                    |      14' |

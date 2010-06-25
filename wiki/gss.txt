@@ -19,7 +19,7 @@
 | :DEN: **Bas** (Denmark)                            |    3 |  1/0/2     |  3/6    |   -3 |     3 | ::: | :NZL: **George** (New Zealand)                     |    3 |  0/3/0     |  2/2    |    0 |     3 |
 | :CMR: **Lisa** (Cameroon)                          |    3 |  0/0/3     |  2/5    |   -3 |     0 | ::: | :ITA: **Rudy** (Italy)                             |    3 |  0/2/1     |  4/5    |   -1 |     2 |
 ^ //Group G://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group H://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :BRA: **Vendulka** (Brazil)                        |    2 |  2/0/0     |  5/2    |    3 |     6 | ::: | :CHI: **Ailee** (Chile)                            |    2 |  2/0/0     |  2/0    |    2 |     6 |
-| :POR: **Jens** (Portugal)                          |    2 |  1/1/0     |  7/0    |    7 |     4 | ::: | :ESP: **Katka** (Spain)                            |    2 |  1/0/1     |  2/1    |    1 |     3 |
-| :CIV: **Quido** (Côte d'Ivoire)                    |    2 |  0/1/1     |  1/3    |   -2 |     1 | ::: | :SUI: **Paul** (Switzerland)                       |    2 |  1/0/1     |  1/1    |    0 |     3 |
-| :PRK: **Sonia** (Korea DPR)                        |    2 |  0/0/2     |  1/9    |   -8 |     0 | ::: | :HON: **Sue** (Honduras)                           |    2 |  0/0/2     |  0/3    |   -3 |     0 |
+| :BRA: **Vendulka** (Brazil)                        |    3 |  2/1/0     |  5/2    |    3 |     7 | ::: | :CHI: **Ailee** (Chile)                            |    2 |  2/0/0     |  2/0    |    2 |     6 |
+| :POR: **Jens** (Portugal)                          |    3 |  1/2/0     |  7/0    |    7 |     5 | ::: | :ESP: **Katka** (Spain)                            |    2 |  1/0/1     |  2/1    |    1 |     3 |
+| :CIV: **Quido** (Côte d'Ivoire)                    |    3 |  1/1/1     |  4/3    |    1 |     4 | ::: | :SUI: **Paul** (Switzerland)                       |    2 |  1/0/1     |  1/1    |    0 |     3 |
+| :PRK: **Sonia** (Korea DPR)                        |    3 |  0/0/3     |  1/12   |  -11 |     0 | ::: | :HON: **Sue** (Honduras)                           |    2 |  0/0/2     |  0/3    |   -3 |     0 |
