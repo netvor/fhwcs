@@ -10,6 +10,6 @@
 |    24 |    19 June 16:00 | Group D: :GHA: **Franta** (Ghana) //vs.// :AUS: **Petra** (Australia)                      | 4 (3:1)      | 0 (0:0)      | 1 (0:1)      | **8** (3:5)      |
 |    41 |    24 June 16:00 | Group F: :SVK: **Franta** (Slovakia) //vs.// :ITA: **Jana V.** (Italy)                     | 8 (4:4)      | 0 (0:0)      | 0 (0:0)      | **8** (4:4)      |
 |     2 |    11 June 20:30 | Group A: :URU: **Renata Z.** (Uruguay) //vs.// :FRA: **Jana L.** (France)                  | 5 (2:3)      | 1 (1:0)      | 0 (0:0)      | **7** (4:3)      |
+|    45 |    25 June 16:00 | Group G: :POR: **Eva** (Portugal) //vs.// :BRA: **Dana** (Brazil)                          | 7 (4:3)      | 0 (0:0)      | 0 (0:0)      | **7** (4:3)      |
 |     5 |    12 June 20:30 | Group C: :ENG: **Hanka** (England) //vs.// :USA: **Tomáš** (USA)                           | 6 (3:3)      | 0 (0:0)      | 0 (0:0)      | **6** (3:3)      |
 |     8 |    13 June 16:00 | Group D: :SRB: **Denisa** (Serbia) //vs.// :GHA: **Franta** (Ghana)                        | 4 (2:2)      | 1 (1:0)      | 0 (0:0)      | **6** (4:2)      |
-|    17 |    16 June 20:30 | Group A: :RSA: **Wendy** (South Africa) //vs.// :URU: **Renata Z.** (Uruguay)              | 2 (2:0)      | 0 (0:0)      | 1 (1:0)      | **6** (6:0)      |

@@ -21,10 +21,10 @@
 | :DEN: **Martina** (Denmark)                        |    3 |  1/0/2     |  3/6    |   -3 |     3 | ::: | :NZL: **Martin** (New Zealand)                     |    3 |  0/3/0     |  2/2    |    0 |     3 |
 | :CMR: **Markéta** (Cameroon)                       |    3 |  0/0/3     |  2/5    |   -3 |     0 | ::: | :ITA: **Jana V.** (Italy)                          |    3 |  0/2/1     |  4/5    |   -1 |     2 |
 ^ //Group G://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^     ^ //Group H://                                       ^  MP  ^  W/D/L     ^  GF/GA  ^  GD  ^  Pts  ^
-| :BRA: **Dana** (Brazil)                            |    2 |  2/0/0     |  5/2    |    3 |     6 | ::: | :CHI: **Hanka** (Chile)                            |    2 |  2/0/0     |  2/0    |    2 |     6 |
-| :POR: **Eva** (Portugal)                           |    2 |  1/1/0     |  7/0    |    7 |     4 | ::: | :ESP: **Jana V.** (Spain)                          |    2 |  1/0/1     |  2/1    |    1 |     3 |
-| :CIV: **Martin** (Côte d'Ivoire)                   |    2 |  0/1/1     |  1/3    |   -2 |     1 | ::: | :SUI: **Renata Z.** (Switzerland)                  |    2 |  1/0/1     |  1/1    |    0 |     3 |
-| :PRK: **Martina** (Korea DPR)                      |    2 |  0/0/2     |  1/9    |   -8 |     0 | ::: | :HON: **Žužu** (Honduras)                          |    2 |  0/0/2     |  0/3    |   -3 |     0 |
+| :BRA: **Dana** (Brazil)                            |    3 |  2/1/0     |  5/2    |    3 |     7 | ::: | :CHI: **Hanka** (Chile)                            |    2 |  2/0/0     |  2/0    |    2 |     6 |
+| :POR: **Eva** (Portugal)                           |    3 |  1/2/0     |  7/0    |    7 |     5 | ::: | :ESP: **Jana V.** (Spain)                          |    2 |  1/0/1     |  2/1    |    1 |     3 |
+| :CIV: **Martin** (Côte d'Ivoire)                   |    3 |  1/1/1     |  4/3    |    1 |     4 | ::: | :SUI: **Renata Z.** (Switzerland)                  |    2 |  1/0/1     |  1/1    |    0 |     3 |
+| :PRK: **Martina** (Korea DPR)                      |    3 |  0/0/3     |  1/12   |  -11 |     0 | ::: | :HON: **Žužu** (Honduras)                          |    2 |  0/0/2     |  0/3    |   -3 |     0 |
 
 
 ==== Most goals scored ====
@@ -54,7 +54,7 @@
 | :AUS: **Petra** (Australia)                        |      11' |
 | :NGA: **Standa** (Nigeria)                         |      12' |
 | :SVN: **Eva** (Slovenia)                           |      13' |
-| :NGA: **Standa** (Nigeria)                         |      16' |
+| :CIV: **Martin** (Côte d'Ivoire)                   |      14' |
 
 
 ==== Most goals per game ====
@@ -82,9 +82,9 @@
 |    24 |    19 June 16:00 | Group D: :GHA: **Franta** (Ghana) //vs.// :AUS: **Petra** (Australia)                      | 4 (3:1)      | 0 (0:0)      | 1 (0:1)      | **8** (3:5)      |
 |    41 |    24 June 16:00 | Group F: :SVK: **Franta** (Slovakia) //vs.// :ITA: **Jana V.** (Italy)                     | 8 (4:4)      | 0 (0:0)      | 0 (0:0)      | **8** (4:4)      |
 |     2 |    11 June 20:30 | Group A: :URU: **Renata Z.** (Uruguay) //vs.// :FRA: **Jana L.** (France)                  | 5 (2:3)      | 1 (1:0)      | 0 (0:0)      | **7** (4:3)      |
+|    45 |    25 June 16:00 | Group G: :POR: **Eva** (Portugal) //vs.// :BRA: **Dana** (Brazil)                          | 7 (4:3)      | 0 (0:0)      | 0 (0:0)      | **7** (4:3)      |
 |     5 |    12 June 20:30 | Group C: :ENG: **Hanka** (England) //vs.// :USA: **Tomáš** (USA)                           | 6 (3:3)      | 0 (0:0)      | 0 (0:0)      | **6** (3:3)      |
 |     8 |    13 June 16:00 | Group D: :SRB: **Denisa** (Serbia) //vs.// :GHA: **Franta** (Ghana)                        | 4 (2:2)      | 1 (1:0)      | 0 (0:0)      | **6** (4:2)      |
-|    17 |    16 June 20:30 | Group A: :RSA: **Wendy** (South Africa) //vs.// :URU: **Renata Z.** (Uruguay)              | 2 (2:0)      | 0 (0:0)      | 1 (1:0)      | **6** (6:0)      |
 
 
 ==== Most yellow cards in group stage ====
@@ -105,16 +105,16 @@
 ==== Lowest score in group stage ====
 
 ^ Team                                               ^  Group  ^  GF/GA  ^  GD  ^  Pts  ^
-| :PRK: **Martina** (Korea DPR)                      |      G  |  1/9    |   -8 |     0 |
+| :PRK: **Martina** (Korea DPR)                      |      G  |  1/12   |  -11 |     0 |
 | :HON: **Žužu** (Honduras)                          |      H  |  0/3    |   -3 |     0 |
 | :CMR: **Markéta** (Cameroon)                       |      E  |  2/5    |   -3 |     0 |
 | :FRA: **Jana L.** (France)                         |      A  |  1/4    |   -3 |     1 |
 | :ALG: **Žužu** (Algeria)                           |      C  |  0/2    |   -2 |     1 |
-| :CIV: **Martin** (Côte d'Ivoire)                   |      G  |  1/3    |   -2 |     1 |
 | :NGA: **Standa** (Nigeria)                         |      B  |  3/5    |   -2 |     1 |
 | :ITA: **Jana V.** (Italy)                          |      F  |  4/5    |   -1 |     2 |
 | :GRE: **Denisa** (Greece)                          |      B  |  2/5    |   -3 |     3 |
 | :DEN: **Martina** (Denmark)                        |      E  |  3/6    |   -3 |     3 |
+| :SRB: **Denisa** (Serbia)                          |      D  |  2/3    |   -1 |     3 |
 
 
 ===== Calendar =====
@@ -164,8 +164,8 @@
 |    42 |    24 June 16:00 | Group F: :PAR: **Jana L.** (Paraguay) //vs.// :NZL: **Martin** (New Zealand)               |      0:0  |  **3** (2:1)     | //(no goals)//           |
 |    43 |    24 June 20:30 | Group E: :DEN: **Martina** (Denmark) //vs.// :JPN: **Standa** (Japan)                      |      1:3  |  **5** (3:2)     | **17'** -- :JPN: **Standa** (Japan) |
 |    44 |    24 June 20:30 | Group E: :CMR: **Markéta** (Cameroon) //vs.// :NED: **Olina K.** (Netherlands)             |      1:2  |  **5** (2:3)     | **36'** -- :NED: **Olina K.** (Netherlands) |
-|    45 |    25 June 16:00 | Group G: :POR: **Eva** (Portugal) //vs.// :BRA: **Dana** (Brazil)                          |           |                  |                          |
-|    46 |    25 June 16:00 | Group G: :PRK: **Martina** (Korea DPR) //vs.// :CIV: **Martin** (Côte d'Ivoire)            |           |                  |                          |
+|    45 |    25 June 16:00 | Group G: :POR: **Eva** (Portugal) //vs.// :BRA: **Dana** (Brazil)                          |      0:0  |  **7** (4:3)     | //(no goals)//           |
+|    46 |    25 June 16:00 | Group G: :PRK: **Martina** (Korea DPR) //vs.// :CIV: **Martin** (Côte d'Ivoire)            |      0:3  |  **0** (0:0)     | **14'** -- :CIV: **Martin** (Côte d'Ivoire) |
 |    47 |    25 June 20:30 | Group H: :CHI: **Hanka** (Chile) //vs.// :ESP: **Jana V.** (Spain)                         |           |                  |                          |
 |    48 |    25 June 20:30 | Group H: :SUI: **Renata Z.** (Switzerland) //vs.// :HON: **Žužu** (Honduras)               |           |                  |                          |
 |    49 |    26 June 16:00 | Round of 16: :URU: **Renata Z.** (Uruguay) //vs.// :KOR: **Vlasta** (Korea Republic)       |           |                  |                          |
