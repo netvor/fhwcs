@@ -4,7 +4,8 @@
 
 ^ Team                                               ^  Yellow  ^  2Y=R  ^  Direct Red  ^  Weighted Total  ^
 | :AUS: **Sonia** (Australia)                        |        7 |      0 |            2 |           **15** |
-| :SUI: **Paul** (Switzerland)                       |        7 |      0 |            1 |           **11** |
+| :SUI: **Paul** (Switzerland)                       |        8 |      0 |            1 |           **12** |
+| :CHI: **Ailee** (Chile)                            |       10 |      1 |            0 |           **12** |
 | :SRB: **Olivia** (Serbia)                          |        8 |      1 |            0 |           **10** |
 | :FRA: **Bas** (France)                             |        6 |      0 |            1 |           **10** |
 | :NGA: **Pippa** (Nigeria)                          |        5 |      0 |            1 |            **9** |
@@ -12,4 +13,3 @@
 | :SVK: **Viktor** (Slovakia)                        |        8 |      0 |            0 |            **8** |
 | :MEX: **Sue** (Mexico)                             |        8 |      0 |            0 |            **8** |
 | :ALG: **Martine** (Algeria)                        |        4 |      2 |            0 |            **8** |
-| :RSA: **Scott** (South Africa)                     |        4 |      0 |            1 |            **8** |

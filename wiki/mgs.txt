@@ -11,5 +11,5 @@
 | :GER: **Harmen** (Germany)                         |              5 |
 | :SVK: **Viktor** (Slovakia)                        |              4 |
 | :USA: **Harmen** (USA)                             |              4 |
+| :ESP: **Katka** (Spain)                            |              4 |
 | :ITA: **Rudy** (Italy)                             |              4 |
-| :JPN: **Marty** (Japan)                            |              4 |

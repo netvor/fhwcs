@@ -49,8 +49,8 @@
 |    44 |    24 June 20:30 | Group E: :CMR: **Lisa** (Cameroon) //vs.// :NED: **Floris** (Netherlands)                  |      1:2  |  **5** (2:3)     | **36'** -- :NED: **Floris** (Netherlands) |
 |    45 |    25 June 16:00 | Group G: :POR: **Jens** (Portugal) //vs.// :BRA: **Vendulka** (Brazil)                     |      0:0  |  **7** (4:3)     | //(no goals)//           |
 |    46 |    25 June 16:00 | Group G: :PRK: **Sonia** (Korea DPR) //vs.// :CIV: **Quido** (Côte d'Ivoire)               |      0:3  |  **0** (0:0)     | **14'** -- :CIV: **Quido** (Côte d'Ivoire) |
-|    47 |    25 June 20:30 | Group H: :CHI: **Ailee** (Chile) //vs.// :ESP: **Katka** (Spain)                           |           |                  |                          |
-|    48 |    25 June 20:30 | Group H: :SUI: **Paul** (Switzerland) //vs.// :HON: **Sue** (Honduras)                     |           |                  |                          |
+|    47 |    25 June 20:30 | Group H: :CHI: **Ailee** (Chile) //vs.// :ESP: **Katka** (Spain)                           |      1:2  |  **4** (4:0)     | **24'** -- :ESP: **Katka** (Spain) |
+|    48 |    25 June 20:30 | Group H: :SUI: **Paul** (Switzerland) //vs.// :HON: **Sue** (Honduras)                     |      0:0  |  **5** (1:4)     | //(no goals)//           |
 |    49 |    26 June 16:00 | Round of 16: :URU: **AJ** (Uruguay) //vs.// :KOR: **Rudy** (Korea Republic)                |           |                  |                          |
 |    50 |    26 June 20:30 | Round of 16: :USA: **Harmen** (USA) //vs.// :GHA: **AJ** (Ghana)                           |           |                  |                          |
 |    51 |    27 June 16:00 | Round of 16: :GER: **Harmen** (Germany) //vs.// :ENG: **George** (England)                 |           |                  |                          |
