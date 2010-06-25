@@ -12,24 +12,62 @@ S'CIV'
 p5
 sS'hasResults'
 p6
-I00
-sS'when'
+I01
+sS'awayCards'
 p7
-V25 June 16:00
-p8
-sS'number'
+(I0
+I0
+I0
+I0
+tp8
+sS'when'
 p9
-I46
-sS'awayName'
+V25 June 16:00
 p10
-VCôte d'Ivoire
+sS'number'
 p11
-sS'homeName'
+I46
+sS'awayGoals'
 p12
-S'Korea DPR'
-p13
-sS'homeCode'
+(lp13
+I14
+aI20
+aI82
+asS'homeGoals'
 p14
+(lp15
+sS'awayName'
+p16
+VCôte d'Ivoire
+p17
+sS'homeName'
+p18
+S'Korea DPR'
+p19
+sS'homeCode'
+p20
 S'PRK'
-p15
-sb.
+p21
+sS'homeCards'
+p22
+(I0
+I0
+I0
+I0
+tp23
+sS'goalsCode'
+p24
+(lp25
+(I14
+VCIV
+p26
+tp27
+a(I20
+VCIV
+p28
+tp29
+a(I82
+VCIV
+p30
+tp31
+asb.
