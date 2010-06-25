@@ -1,3 +1,5 @@
+/mm/document/tournament/competition/01/25/84/57/46_0625_prk-civ_fulltime.pdf
+/mm/document/tournament/competition/01/25/84/58/45_0625_por-bra_fulltime.pdf
 /mm/document/tournament/competition/01/25/76/87/44_0624_cmr-ned_fulltime.pdf
 /mm/document/tournament/competition/01/25/77/05/43_0624_den-jpn_fulltime.pdf
 /mm/document/tournament/competition/01/25/71/95/42_0624_par-nzl_fulltime.pdf
