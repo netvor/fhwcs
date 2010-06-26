@@ -59,3 +59,4 @@
 |    54 |    28 June 20:30 | Round of 16: :BRA: **Dana** (Brazil) //vs.// :CHI: **Hanka** (Chile)                       |           |                  |                          |
 |    55 |    29 June 16:00 | Round of 16: :PAR: **Jana L.** (Paraguay) //vs.// :JPN: **Standa** (Japan)                 |           |                  |                          |
 |    56 |    29 June 20:30 | Round of 16: :ESP: **Jana V.** (Spain) //vs.// :POR: **Eva** (Portugal)                    |           |                  |                          |
+|    58 |    02 July 20:30 | Quarter: :URU: **Renata Z.** (Uruguay) //vs.// :GHA: **Franta** (Ghana)                    |           |                  |                          |
