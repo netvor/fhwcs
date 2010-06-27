@@ -4,12 +4,12 @@
 
 ^ Team                                               ^  Minute  ^
 | :ENG: **Hanka** (England)                          |       4' |
+| :GHA: **Franta** (Ghana)                           |       5' |
 | :ARG: **Míša** (Argentina)                         |       6' |
 | :KOR: **Vlasta** (Korea Republic)                  |       7' |
 | :NZL: **Martin** (New Zealand)                     |       7' |
 | :GER: **Lenny** (Germany)                          |       8' |
+| :URU: **Renata Z.** (Uruguay)                      |       8' |
 | :CMR: **Markéta** (Cameroon)                       |      10' |
 | :AUS: **Petra** (Australia)                        |      11' |
 | :NGA: **Standa** (Nigeria)                         |      12' |
-| :SVN: **Eva** (Slovenia)                           |      13' |
-| :CIV: **Martin** (Côte d'Ivoire)                   |      14' |
