@@ -22,7 +22,7 @@ except IOError:
 assert(ms.number == int(div.xpath('./div[@class="footer"]/div[@class="info"]/span')[0].text[6:]))
 
 ms.group = div.xpath('./div[@class="footer"]/div[@class="info"]/span')[1].text
-ms.group = re.search('\w[\w\d ]+\w', ms.group).group()
+ms.group = re.search('\w[\w -]+\w', ms.group).group()
 if 'GROUP ' in ms.group.upper():
   ms.group = ms.group[6:].upper()
 
