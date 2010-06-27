@@ -4,7 +4,7 @@ p0
 (dp1
 S'group'
 p2
-VQuarter
+VQuarter-finals
 p3
 sS'awayCode'
 p4
