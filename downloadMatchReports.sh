@@ -1,6 +1,7 @@
 #!/bin/bash
 
-STARTURL='http://www.fifa.com/worldcup/organisation/documents/matchdocumentgroup.html'
+#STARTURL='http://www.fifa.com/worldcup/organisation/documents/matchdocumentgroup.html'
+STARTURL='http://www.fifa.com/worldcup/organisation/documents/matchdocumentkophase.html'
 STARTFILE='raw/matchreports.html'
 URLS='raw/matchreports.urls.txt'
 PDFS='raw/matchreports.pdfs.txt'
