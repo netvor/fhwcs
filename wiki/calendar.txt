@@ -53,10 +53,10 @@
 |    48 |    25 June 20:30 | Group H: :SUI: **Paul** (Switzerland) //vs.// :HON: **Sue** (Honduras)                     |      0:0  |  **5** (1:4)     | //(no goals)//           |
 |    49 |    26 June 16:00 | Round of 16: :URU: **AJ** (Uruguay) //vs.// :KOR: **Rudy** (Korea Republic)                |      2:1  |  **3** (0:3)     | **8'** -- :URU: **AJ** (Uruguay) |
 |    50 |    26 June 20:30 | Round of 16: :USA: **Harmen** (USA) //vs.// :GHA: **AJ** (Ghana)                           |      1:2  |  **5** (3:2)     | **5'** -- :GHA: **AJ** (Ghana) |
-|    51 |    27 June 16:00 | Round of 16: :GER: **Harmen** (Germany) //vs.// :ENG: **George** (England)                 |           |                  |                          |
+|    51 |    27 June 16:00 | Round of 16: :GER: **Harmen** (Germany) //vs.// :ENG: **George** (England)                 |      4:1  |  **2** (1:1)     | **20'** -- :GER: **Harmen** (Germany) |
 |    52 |    27 June 20:30 | Round of 16: :ARG: **George** (Argentina) //vs.// :MEX: **Sue** (Mexico)                   |           |                  |                          |
 |    53 |    28 June 16:00 | Round of 16: :NED: **Floris** (Netherlands) //vs.// :SVK: **Viktor** (Slovakia)            |           |                  |                          |
 |    54 |    28 June 20:30 | Round of 16: :BRA: **Vendulka** (Brazil) //vs.// :CHI: **Ailee** (Chile)                   |           |                  |                          |
 |    55 |    29 June 16:00 | Round of 16: :PAR: **Martine** (Paraguay) //vs.// :JPN: **Marty** (Japan)                  |           |                  |                          |
 |    56 |    29 June 20:30 | Round of 16: :ESP: **Katka** (Spain) //vs.// :POR: **Jens** (Portugal)                     |           |                  |                          |
-|    58 |    02 July 20:30 | Quarter: :URU: **AJ** (Uruguay) //vs.// :GHA: **AJ** (Ghana)                               |           |                  |                          |
+|    58 |    02 July 20:30 | Quarter-finals: :URU: **AJ** (Uruguay) //vs.// :GHA: **AJ** (Ghana)                        |           |                  |                          |
