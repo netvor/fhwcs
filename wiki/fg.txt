@@ -4,12 +4,12 @@
 
 ^ Team                                               ^  Minute  ^
 | :ENG: **George** (England)                         |       4' |
+| :GHA: **AJ** (Ghana)                               |       5' |
 | :ARG: **George** (Argentina)                       |       6' |
 | :KOR: **Rudy** (Korea Republic)                    |       7' |
 | :NZL: **George** (New Zealand)                     |       7' |
 | :GER: **Harmen** (Germany)                         |       8' |
+| :URU: **AJ** (Uruguay)                             |       8' |
 | :CMR: **Lisa** (Cameroon)                          |      10' |
 | :AUS: **Sonia** (Australia)                        |      11' |
 | :NGA: **Pippa** (Nigeria)                          |      12' |
-| :SVN: **Jens** (Slovenia)                          |      13' |
-| :CIV: **Quido** (Côte d'Ivoire)                    |      14' |
