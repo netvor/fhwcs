@@ -12,13 +12,13 @@
 | :ARG: **Míša** (Argentina)                         |             10 |
 | :GER: **Lenny** (Germany)                          |              9 |
 | :POR: **Eva** (Portugal)                           |              7 |
+| :NED: **Olina K.** (Netherlands)                   |              7 |
 | :KOR: **Vlasta** (Korea Republic)                  |              6 |
 | :URU: **Renata Z.** (Uruguay)                      |              6 |
 | :BRA: **Dana** (Brazil)                            |              5 |
 | :USA: **Tomáš** (USA)                              |              5 |
-| :NED: **Olina K.** (Netherlands)                   |              5 |
+| :SVK: **Franta** (Slovakia)                        |              5 |
 | :MEX: **Olina H.** (Mexico)                        |              4 |
-| :GHA: **Franta** (Ghana)                           |              4 |
 
 
 ==== Fastest goal ====
@@ -103,7 +103,7 @@
 |    50 |    26 June 20:30 | Round of 16: :USA: **Tomáš** (USA) //vs.// :GHA: **Franta** (Ghana)                        |      1:2  |  **5** (3:2)     | **5'** -- :GHA: **Franta** (Ghana) |
 |    51 |    27 June 16:00 | Round of 16: :GER: **Lenny** (Germany) //vs.// :ENG: **Hanka** (England)                   |      4:1  |  **2** (1:1)     | **20'** -- :GER: **Lenny** (Germany) |
 |    52 |    27 June 20:30 | Round of 16: :ARG: **Míša** (Argentina) //vs.// :MEX: **Olina H.** (Mexico)                |      3:1  |  **1** (0:1)     | **26'** -- :ARG: **Míša** (Argentina) |
-|    53 |    28 June 16:00 | Round of 16: :NED: **Olina K.** (Netherlands) //vs.// :SVK: **Franta** (Slovakia)          |           |                  |                          |
+|    53 |    28 June 16:00 | Round of 16: :NED: **Olina K.** (Netherlands) //vs.// :SVK: **Franta** (Slovakia)          |      2:1  |  **5** (2:3)     | **18'** -- :NED: **Olina K.** (Netherlands) |
 |    54 |    28 June 20:30 | Round of 16: :BRA: **Dana** (Brazil) //vs.// :CHI: **Hanka** (Chile)                       |           |                  |                          |
 |    55 |    29 June 16:00 | Round of 16: :PAR: **Jana L.** (Paraguay) //vs.// :JPN: **Standa** (Japan)                 |           |                  |                          |
 |    56 |    29 June 20:30 | Round of 16: :ESP: **Jana V.** (Spain) //vs.// :POR: **Eva** (Portugal)                    |           |                  |                          |
