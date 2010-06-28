@@ -62,9 +62,9 @@ def unmarshal(default,argi=1):
 def marshal(obj,default,argi=2):
   pickle.dump(obj,getOutFile(default,argi))
 
-def unmarshalMatches(format,max=64):
+def unmarshalMatches(format,max=64,min=1):
   matches=list()
-  for i in range(max+1):
+  for i in range(min,max+1):
     filename = format % (i)
     try:
       matches.append(pickle.load(open(filename,'r')))
