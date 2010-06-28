@@ -8,7 +8,7 @@ python wikiMYCPG.py     > 'wiki/mycpg.txt'
 python wikiMYCIGS.py    > 'wiki/mycigs.txt'
 python wikiLSIGS.py     > 'wiki/lsigs.txt'
 python wikiCalendar.py -s49 > 'wiki/calendar.txt'
-python wikiCalendar.py -e48 > 'wiki/calendar.gs.txt'
+python wikiCalendar.py -e48 -t'Results' > 'wiki/calendar.gs.txt'
 
 cat 'wiki/header.txt'   > 'wiki/out.txt'
 cat 'wiki/mgs.txt'       >> 'wiki/out.txt'
