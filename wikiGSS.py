@@ -22,7 +22,7 @@ for letter in string.ascii_uppercase[:8]:
     group.append(wikiGSSrow(row))
   wikiGSSdata.append(group)
 
-print '\n\n===== Current Standings =====\n\n'.encode('utf-8')
+print '\n\n===== Final Standings =====\n\n'.encode('utf-8')
 
 while len(wikiGSSdata) >= 2:
   a=wikiGSSdata.popleft()
