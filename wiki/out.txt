@@ -12,12 +12,12 @@
 | :ARG: **George** (Argentina)                       |             10 |
 | :GER: **Harmen** (Germany)                         |              9 |
 | :POR: **Jens** (Portugal)                          |              7 |
+| :NED: **Floris** (Netherlands)                     |              7 |
 | :KOR: **Rudy** (Korea Republic)                    |              6 |
 | :URU: **AJ** (Uruguay)                             |              6 |
+| :SVK: **Viktor** (Slovakia)                        |              5 |
 | :USA: **Harmen** (USA)                             |              5 |
 | :BRA: **Vendulka** (Brazil)                        |              5 |
-| :NED: **Floris** (Netherlands)                     |              5 |
-| :SVK: **Viktor** (Slovakia)                        |              4 |
 | :MEX: **Sue** (Mexico)                             |              4 |
 
 
@@ -103,7 +103,7 @@
 |    50 |    26 June 20:30 | Round of 16: :USA: **Harmen** (USA) //vs.// :GHA: **AJ** (Ghana)                           |      1:2  |  **5** (3:2)     | **5'** -- :GHA: **AJ** (Ghana) |
 |    51 |    27 June 16:00 | Round of 16: :GER: **Harmen** (Germany) //vs.// :ENG: **George** (England)                 |      4:1  |  **2** (1:1)     | **20'** -- :GER: **Harmen** (Germany) |
 |    52 |    27 June 20:30 | Round of 16: :ARG: **George** (Argentina) //vs.// :MEX: **Sue** (Mexico)                   |      3:1  |  **1** (0:1)     | **26'** -- :ARG: **George** (Argentina) |
-|    53 |    28 June 16:00 | Round of 16: :NED: **Floris** (Netherlands) //vs.// :SVK: **Viktor** (Slovakia)            |           |                  |                          |
+|    53 |    28 June 16:00 | Round of 16: :NED: **Floris** (Netherlands) //vs.// :SVK: **Viktor** (Slovakia)            |      2:1  |  **5** (2:3)     | **18'** -- :NED: **Floris** (Netherlands) |
 |    54 |    28 June 20:30 | Round of 16: :BRA: **Vendulka** (Brazil) //vs.// :CHI: **Ailee** (Chile)                   |           |                  |                          |
 |    55 |    29 June 16:00 | Round of 16: :PAR: **Martine** (Paraguay) //vs.// :JPN: **Marty** (Japan)                  |           |                  |                          |
 |    56 |    29 June 20:30 | Round of 16: :ESP: **Katka** (Spain) //vs.// :POR: **Jens** (Portugal)                     |           |                  |                          |
