@@ -20,7 +20,7 @@ teams = matchTitleMatch.groupdict()
 assert(all(teams.values()))
 assert(all([ codes[key]==teams[key] for key in ['h','a'] ]))
 
-scoreDict = re.search(r'^(?P<hhhh>.+) - (?P<aaaa>.+) (?P<hg>\d+):(?P<ag>\d+)( a.e.t.)?( \(\d+:\d+(, \d+:\d+)?\))?$',contents,re.M).groupdict()
+scoreDict = re.search(r'^(?P<hhhh>.+) - (?P<aaaa>.+) (?P<hg>\d+):(?P<ag>\d+)( a.e.t.)?( \(\d+:\d+(, \d+:\d+)?\))?( \d+:\d+ PSO)?$',contents,re.M).groupdict()
 assert(all([ scoreDict[key]==teams[key] for key in ['hhhh','aaaa'] ]))
 score = ( int(scoreDict['hg']), int(scoreDict['ag']) )
 
