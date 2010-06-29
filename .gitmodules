@@ -1,0 +1,3 @@
+[submodule "optfunc"]
+	path = optfunc
+	url = git://github.com/netvor/optfunc.git
