@@ -18,7 +18,7 @@
 | :URU: **Renata Z.** (Uruguay)                      |              6 |
 | :USA: **Tomáš** (USA)                              |              5 |
 | :SVK: **Franta** (Slovakia)                        |              5 |
-| :MEX: **Olina H.** (Mexico)                        |              4 |
+| :ESP: **Jana V.** (Spain)                          |              5 |
 
 
 ==== Fastest goal ====
@@ -106,7 +106,7 @@
 |    53 |    28 June 16:00 | Round of 16: :NED: **Olina K.** (Netherlands) //vs.// :SVK: **Franta** (Slovakia)          |      2:1  |  **5** (2:3)     | **18'** -- :NED: **Olina K.** (Netherlands) |
 |    54 |    28 June 20:30 | Round of 16: :BRA: **Dana** (Brazil) //vs.// :CHI: **Hanka** (Chile)                       |      3:0  |  **5** (2:3)     | **35'** -- :BRA: **Dana** (Brazil) |
 |    55 |    29 June 16:00 | Round of 16: :PAR: **Jana L.** (Paraguay) //vs.// :JPN: **Standa** (Japan)                 |      0:0  |  **5** (1:4)     | //(no goals)//           |
-|    56 |    29 June 20:30 | Round of 16: :ESP: **Jana V.** (Spain) //vs.// :POR: **Eva** (Portugal)                    |           |                  |                          |
+|    56 |    29 June 20:30 | Round of 16: :ESP: **Jana V.** (Spain) //vs.// :POR: **Eva** (Portugal)                    |      1:0  |  **6** (1:5)     | **63'** -- :ESP: **Jana V.** (Spain) |
 |    57 |    02 July 16:00 | Quarter-finals: :NED: **Olina K.** (Netherlands) //vs.// :BRA: **Dana** (Brazil)           |           |                  |                          |
 |    58 |    02 July 20:30 | Quarter-finals: :URU: **Renata Z.** (Uruguay) //vs.// :GHA: **Franta** (Ghana)             |           |                  |                          |
 |    59 |    03 July 16:00 | Quarter-finals: :ARG: **Míša** (Argentina) //vs.// :GER: **Lenny** (Germany)               |           |                  |                          |
