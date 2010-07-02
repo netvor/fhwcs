@@ -11,7 +11,7 @@
 |    54 |    28 June 20:30 | Round of 16: :BRA: **Vendulka** (Brazil) //vs.// :CHI: **Ailee** (Chile)                   |      3:0  |  **5** (2:3)     | **35'** -- :BRA: **Vendulka** (Brazil) |
 |    55 |    29 June 16:00 | Round of 16: :PAR: **Martine** (Paraguay) //vs.// :JPN: **Marty** (Japan)                  |      0:0  |  **5** (1:4)     | //(no goals)//           |
 |    56 |    29 June 20:30 | Round of 16: :ESP: **Katka** (Spain) //vs.// :POR: **Jens** (Portugal)                     |      1:0  |  **6** (1:5)     | **63'** -- :ESP: **Katka** (Spain) |
-|    57 |    02 July 16:00 | Quarter-finals: :NED: **Floris** (Netherlands) //vs.// :BRA: **Vendulka** (Brazil)         |           |                  |                          |
+|    57 |    02 July 16:00 | Quarter-finals: :NED: **Floris** (Netherlands) //vs.// :BRA: **Vendulka** (Brazil)         |      2:1  |  **9** (4:5)     | **10'** -- :BRA: **Vendulka** (Brazil) |
 |    58 |    02 July 20:30 | Quarter-finals: :URU: **AJ** (Uruguay) //vs.// :GHA: **AJ** (Ghana)                        |           |                  |                          |
 |    59 |    03 July 16:00 | Quarter-finals: :ARG: **George** (Argentina) //vs.// :GER: **Harmen** (Germany)            |           |                  |                          |
 |    60 |    03 July 20:30 | Quarter-finals: :PAR: **Martine** (Paraguay) //vs.// :ESP: **Katka** (Spain)               |           |                  |                          |

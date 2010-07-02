@@ -4,10 +4,10 @@
 
 ^ Team                                               ^  Goals scored  ^
 | :ARG: **George** (Argentina)                       |             10 |
+| :BRA: **Vendulka** (Brazil)                        |              9 |
+| :NED: **Floris** (Netherlands)                     |              9 |
 | :GER: **Harmen** (Germany)                         |              9 |
-| :BRA: **Vendulka** (Brazil)                        |              8 |
 | :POR: **Jens** (Portugal)                          |              7 |
-| :NED: **Floris** (Netherlands)                     |              7 |
 | :KOR: **Rudy** (Korea Republic)                    |              6 |
 | :URU: **AJ** (Uruguay)                             |              6 |
 | :SVK: **Viktor** (Slovakia)                        |              5 |

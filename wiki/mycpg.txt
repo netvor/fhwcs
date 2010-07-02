@@ -4,6 +4,7 @@
 
 ^  No.  ^       When       ^  Match                                                                                     ^    Yellow    ^     2Y=R     ^  Direct red  ^  Weighted Total  ^
 |    31 |    21 June 16:00 | Group H: :CHI: **Ailee** (Chile) //vs.// :SUI: **Paul** (Switzerland)                      | 9 (6:3)      | 0 (0:0)      | 1 (0:1)      | **13** (6:7)     |
+|    57 |    02 July 16:00 | Quarter-finals: :NED: **Floris** (Netherlands) //vs.// :BRA: **Vendulka** (Brazil)         | 5 (4:1)      | 0 (0:0)      | 1 (0:1)      | **9** (4:5)      |
 |     7 |    13 June 20:30 | Group D: :GER: **Harmen** (Germany) //vs.// :AUS: **Sonia** (Australia)                    | 5 (2:3)      | 0 (0:0)      | 1 (0:1)      | **9** (2:7)      |
 |    21 |    18 June 13:30 | Group D: :GER: **Harmen** (Germany) //vs.// :SRB: **Olivia** (Serbia)                      | 7 (3:4)      | 1 (1:0)      | 0 (0:0)      | **9** (5:4)      |
 |    19 |    17 June 16:00 | Group B: :GRE: **Paul** (Greece) //vs.// :NGA: **Pippa** (Nigeria)                         | 4 (3:1)      | 0 (0:0)      | 1 (0:1)      | **8** (3:5)      |
@@ -12,4 +13,3 @@
 |     2 |    11 June 20:30 | Group A: :URU: **AJ** (Uruguay) //vs.// :FRA: **Bas** (France)                             | 5 (2:3)      | 1 (1:0)      | 0 (0:0)      | **7** (4:3)      |
 |    45 |    25 June 16:00 | Group G: :POR: **Jens** (Portugal) //vs.// :BRA: **Vendulka** (Brazil)                     | 7 (4:3)      | 0 (0:0)      | 0 (0:0)      | **7** (4:3)      |
 |     5 |    12 June 20:30 | Group C: :ENG: **George** (England) //vs.// :USA: **Harmen** (USA)                         | 6 (3:3)      | 0 (0:0)      | 0 (0:0)      | **6** (3:3)      |
-|     8 |    13 June 16:00 | Group D: :SRB: **Olivia** (Serbia) //vs.// :GHA: **AJ** (Ghana)                            | 4 (2:2)      | 1 (1:0)      | 0 (0:0)      | **6** (4:2)      |

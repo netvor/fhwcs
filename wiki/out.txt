@@ -10,10 +10,10 @@
 
 ^ Team                                               ^  Goals scored  ^
 | :ARG: **George** (Argentina)                       |             10 |
+| :BRA: **Vendulka** (Brazil)                        |              9 |
+| :NED: **Floris** (Netherlands)                     |              9 |
 | :GER: **Harmen** (Germany)                         |              9 |
-| :BRA: **Vendulka** (Brazil)                        |              8 |
 | :POR: **Jens** (Portugal)                          |              7 |
-| :NED: **Floris** (Netherlands)                     |              7 |
 | :KOR: **Rudy** (Korea Republic)                    |              6 |
 | :URU: **AJ** (Uruguay)                             |              6 |
 | :SVK: **Viktor** (Slovakia)                        |              5 |
@@ -32,8 +32,8 @@
 | :GER: **Harmen** (Germany)                         |       8' |
 | :URU: **AJ** (Uruguay)                             |       8' |
 | :CMR: **Lisa** (Cameroon)                          |      10' |
+| :BRA: **Vendulka** (Brazil)                        |      10' |
 | :AUS: **Sonia** (Australia)                        |      11' |
-| :NGA: **Pippa** (Nigeria)                          |      12' |
 
 
 ==== Most goals per game ====
@@ -55,6 +55,7 @@
 
 ^  No.  ^       When       ^  Match                                                                                     ^    Yellow    ^     2Y=R     ^  Direct red  ^  Weighted Total  ^
 |    31 |    21 June 16:00 | Group H: :CHI: **Ailee** (Chile) //vs.// :SUI: **Paul** (Switzerland)                      | 9 (6:3)      | 0 (0:0)      | 1 (0:1)      | **13** (6:7)     |
+|    57 |    02 July 16:00 | Quarter-finals: :NED: **Floris** (Netherlands) //vs.// :BRA: **Vendulka** (Brazil)         | 5 (4:1)      | 0 (0:0)      | 1 (0:1)      | **9** (4:5)      |
 |     7 |    13 June 20:30 | Group D: :GER: **Harmen** (Germany) //vs.// :AUS: **Sonia** (Australia)                    | 5 (2:3)      | 0 (0:0)      | 1 (0:1)      | **9** (2:7)      |
 |    21 |    18 June 13:30 | Group D: :GER: **Harmen** (Germany) //vs.// :SRB: **Olivia** (Serbia)                      | 7 (3:4)      | 1 (1:0)      | 0 (0:0)      | **9** (5:4)      |
 |    19 |    17 June 16:00 | Group B: :GRE: **Paul** (Greece) //vs.// :NGA: **Pippa** (Nigeria)                         | 4 (3:1)      | 0 (0:0)      | 1 (0:1)      | **8** (3:5)      |
@@ -63,7 +64,6 @@
 |     2 |    11 June 20:30 | Group A: :URU: **AJ** (Uruguay) //vs.// :FRA: **Bas** (France)                             | 5 (2:3)      | 1 (1:0)      | 0 (0:0)      | **7** (4:3)      |
 |    45 |    25 June 16:00 | Group G: :POR: **Jens** (Portugal) //vs.// :BRA: **Vendulka** (Brazil)                     | 7 (4:3)      | 0 (0:0)      | 0 (0:0)      | **7** (4:3)      |
 |     5 |    12 June 20:30 | Group C: :ENG: **George** (England) //vs.// :USA: **Harmen** (USA)                         | 6 (3:3)      | 0 (0:0)      | 0 (0:0)      | **6** (3:3)      |
-|     8 |    13 June 16:00 | Group D: :SRB: **Olivia** (Serbia) //vs.// :GHA: **AJ** (Ghana)                            | 4 (2:2)      | 1 (1:0)      | 0 (0:0)      | **6** (4:2)      |
 
 
 ==== Most yellow cards in group stage ====
@@ -107,7 +107,7 @@
 |    54 |    28 June 20:30 | Round of 16: :BRA: **Vendulka** (Brazil) //vs.// :CHI: **Ailee** (Chile)                   |      3:0  |  **5** (2:3)     | **35'** -- :BRA: **Vendulka** (Brazil) |
 |    55 |    29 June 16:00 | Round of 16: :PAR: **Martine** (Paraguay) //vs.// :JPN: **Marty** (Japan)                  |      0:0  |  **5** (1:4)     | //(no goals)//           |
 |    56 |    29 June 20:30 | Round of 16: :ESP: **Katka** (Spain) //vs.// :POR: **Jens** (Portugal)                     |      1:0  |  **6** (1:5)     | **63'** -- :ESP: **Katka** (Spain) |
-|    57 |    02 July 16:00 | Quarter-finals: :NED: **Floris** (Netherlands) //vs.// :BRA: **Vendulka** (Brazil)         |           |                  |                          |
+|    57 |    02 July 16:00 | Quarter-finals: :NED: **Floris** (Netherlands) //vs.// :BRA: **Vendulka** (Brazil)         |      2:1  |  **9** (4:5)     | **10'** -- :BRA: **Vendulka** (Brazil) |
 |    58 |    02 July 20:30 | Quarter-finals: :URU: **AJ** (Uruguay) //vs.// :GHA: **AJ** (Ghana)                        |           |                  |                          |
 |    59 |    03 July 16:00 | Quarter-finals: :ARG: **George** (Argentina) //vs.// :GER: **Harmen** (Germany)            |           |                  |                          |
 |    60 |    03 July 20:30 | Quarter-finals: :PAR: **Martine** (Paraguay) //vs.// :ESP: **Katka** (Spain)               |           |                  |                          |

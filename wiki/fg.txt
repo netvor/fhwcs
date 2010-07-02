@@ -11,5 +11,5 @@
 | :GER: **Harmen** (Germany)                         |       8' |
 | :URU: **AJ** (Uruguay)                             |       8' |
 | :CMR: **Lisa** (Cameroon)                          |      10' |
+| :BRA: **Vendulka** (Brazil)                        |      10' |
 | :AUS: **Sonia** (Australia)                        |      11' |
-| :NGA: **Pippa** (Nigeria)                          |      12' |
