@@ -14,8 +14,8 @@
 | :NED: **Floris** (Netherlands)                     |              9 |
 | :GER: **Harmen** (Germany)                         |              9 |
 | :POR: **Jens** (Portugal)                          |              7 |
+| :URU: **AJ** (Uruguay)                             |              7 |
 | :KOR: **Rudy** (Korea Republic)                    |              6 |
-| :URU: **AJ** (Uruguay)                             |              6 |
 | :SVK: **Viktor** (Slovakia)                        |              5 |
 | :USA: **Harmen** (USA)                             |              5 |
 | :ESP: **Katka** (Spain)                            |              5 |
@@ -55,6 +55,7 @@
 
 ^  No.  ^       When       ^  Match                                                                                     ^    Yellow    ^     2Y=R     ^  Direct red  ^  Weighted Total  ^
 |    31 |    21 June 16:00 | Group H: :CHI: **Ailee** (Chile) //vs.// :SUI: **Paul** (Switzerland)                      | 9 (6:3)      | 0 (0:0)      | 1 (0:1)      | **13** (6:7)     |
+|    58 |    02 July 20:30 | Quarter-finals: :URU: **AJ** (Uruguay) //vs.// :GHA: **AJ** (Ghana)                        | 6 (3:3)      | 0 (0:0)      | 1 (1:0)      | **10** (7:3)     |
 |    57 |    02 July 16:00 | Quarter-finals: :NED: **Floris** (Netherlands) //vs.// :BRA: **Vendulka** (Brazil)         | 5 (4:1)      | 0 (0:0)      | 1 (0:1)      | **9** (4:5)      |
 |     7 |    13 June 20:30 | Group D: :GER: **Harmen** (Germany) //vs.// :AUS: **Sonia** (Australia)                    | 5 (2:3)      | 0 (0:0)      | 1 (0:1)      | **9** (2:7)      |
 |    21 |    18 June 13:30 | Group D: :GER: **Harmen** (Germany) //vs.// :SRB: **Olivia** (Serbia)                      | 7 (3:4)      | 1 (1:0)      | 0 (0:0)      | **9** (5:4)      |
@@ -63,7 +64,6 @@
 |    41 |    24 June 16:00 | Group F: :SVK: **Viktor** (Slovakia) //vs.// :ITA: **Rudy** (Italy)                        | 8 (4:4)      | 0 (0:0)      | 0 (0:0)      | **8** (4:4)      |
 |     2 |    11 June 20:30 | Group A: :URU: **AJ** (Uruguay) //vs.// :FRA: **Bas** (France)                             | 5 (2:3)      | 1 (1:0)      | 0 (0:0)      | **7** (4:3)      |
 |    45 |    25 June 16:00 | Group G: :POR: **Jens** (Portugal) //vs.// :BRA: **Vendulka** (Brazil)                     | 7 (4:3)      | 0 (0:0)      | 0 (0:0)      | **7** (4:3)      |
-|     5 |    12 June 20:30 | Group C: :ENG: **George** (England) //vs.// :USA: **Harmen** (USA)                         | 6 (3:3)      | 0 (0:0)      | 0 (0:0)      | **6** (3:3)      |
 
 
 ==== Most yellow cards in group stage ====
@@ -108,9 +108,10 @@
 |    55 |    29 June 16:00 | Round of 16: :PAR: **Martine** (Paraguay) //vs.// :JPN: **Marty** (Japan)                  |      0:0  |  **5** (1:4)     | //(no goals)//           |
 |    56 |    29 June 20:30 | Round of 16: :ESP: **Katka** (Spain) //vs.// :POR: **Jens** (Portugal)                     |      1:0  |  **6** (1:5)     | **63'** -- :ESP: **Katka** (Spain) |
 |    57 |    02 July 16:00 | Quarter-finals: :NED: **Floris** (Netherlands) //vs.// :BRA: **Vendulka** (Brazil)         |      2:1  |  **9** (4:5)     | **10'** -- :BRA: **Vendulka** (Brazil) |
-|    58 |    02 July 20:30 | Quarter-finals: :URU: **AJ** (Uruguay) //vs.// :GHA: **AJ** (Ghana)                        |           |                  |                          |
+|    58 |    02 July 20:30 | Quarter-finals: :URU: **AJ** (Uruguay) //vs.// :GHA: **AJ** (Ghana)                        |      1:1  |  **10** (7:3)    | **45'** -- :GHA: **AJ** (Ghana) |
 |    59 |    03 July 16:00 | Quarter-finals: :ARG: **George** (Argentina) //vs.// :GER: **Harmen** (Germany)            |           |                  |                          |
 |    60 |    03 July 20:30 | Quarter-finals: :PAR: **Martine** (Paraguay) //vs.// :ESP: **Katka** (Spain)               |           |                  |                          |
+|    61 |    06 July 20:30 | Semi-finals: :URU: **AJ** (Uruguay) //vs.// :NED: **Floris** (Netherlands)                 |           |                  |                          |
 
 //[[2010 fifa world cup sweeps/group stage|Click here for group stage standings and results]]//
 

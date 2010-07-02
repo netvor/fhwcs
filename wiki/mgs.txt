@@ -8,8 +8,8 @@
 | :NED: **Floris** (Netherlands)                     |              9 |
 | :GER: **Harmen** (Germany)                         |              9 |
 | :POR: **Jens** (Portugal)                          |              7 |
+| :URU: **AJ** (Uruguay)                             |              7 |
 | :KOR: **Rudy** (Korea Republic)                    |              6 |
-| :URU: **AJ** (Uruguay)                             |              6 |
 | :SVK: **Viktor** (Slovakia)                        |              5 |
 | :USA: **Harmen** (USA)                             |              5 |
 | :ESP: **Katka** (Spain)                            |              5 |
