@@ -4,10 +4,10 @@
 
 ^ Team                                               ^  Goals scored  ^
 | :ARG: **Míša** (Argentina)                         |             10 |
+| :BRA: **Dana** (Brazil)                            |              9 |
 | :GER: **Lenny** (Germany)                          |              9 |
-| :BRA: **Dana** (Brazil)                            |              8 |
+| :NED: **Olina K.** (Netherlands)                   |              9 |
 | :POR: **Eva** (Portugal)                           |              7 |
-| :NED: **Olina K.** (Netherlands)                   |              7 |
 | :KOR: **Vlasta** (Korea Republic)                  |              6 |
 | :URU: **Renata Z.** (Uruguay)                      |              6 |
 | :USA: **Tomáš** (USA)                              |              5 |

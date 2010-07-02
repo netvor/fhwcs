@@ -11,5 +11,5 @@
 | :GER: **Lenny** (Germany)                          |       8' |
 | :URU: **Renata Z.** (Uruguay)                      |       8' |
 | :CMR: **Markéta** (Cameroon)                       |      10' |
+| :BRA: **Dana** (Brazil)                            |      10' |
 | :AUS: **Petra** (Australia)                        |      11' |
-| :NGA: **Standa** (Nigeria)                         |      12' |
