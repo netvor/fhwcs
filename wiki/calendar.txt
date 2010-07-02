@@ -12,6 +12,7 @@
 |    55 |    29 June 16:00 | Round of 16: :PAR: **Jana L.** (Paraguay) //vs.// :JPN: **Standa** (Japan)                 |      0:0  |  **5** (1:4)     | //(no goals)//           |
 |    56 |    29 June 20:30 | Round of 16: :ESP: **Jana V.** (Spain) //vs.// :POR: **Eva** (Portugal)                    |      1:0  |  **6** (1:5)     | **63'** -- :ESP: **Jana V.** (Spain) |
 |    57 |    02 July 16:00 | Quarter-finals: :NED: **Olina K.** (Netherlands) //vs.// :BRA: **Dana** (Brazil)           |      2:1  |  **9** (4:5)     | **10'** -- :BRA: **Dana** (Brazil) |
-|    58 |    02 July 20:30 | Quarter-finals: :URU: **Renata Z.** (Uruguay) //vs.// :GHA: **Franta** (Ghana)             |           |                  |                          |
+|    58 |    02 July 20:30 | Quarter-finals: :URU: **Renata Z.** (Uruguay) //vs.// :GHA: **Franta** (Ghana)             |      1:1  |  **10** (7:3)    | **45'** -- :GHA: **Franta** (Ghana) |
 |    59 |    03 July 16:00 | Quarter-finals: :ARG: **Míša** (Argentina) //vs.// :GER: **Lenny** (Germany)               |           |                  |                          |
 |    60 |    03 July 20:30 | Quarter-finals: :PAR: **Jana L.** (Paraguay) //vs.// :ESP: **Jana V.** (Spain)             |           |                  |                          |
+|    61 |    06 July 20:30 | Semi-finals: :URU: **Renata Z.** (Uruguay) //vs.// :NED: **Olina K.** (Netherlands)        |           |                  |                          |

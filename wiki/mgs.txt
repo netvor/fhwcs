@@ -8,8 +8,8 @@
 | :GER: **Lenny** (Germany)                          |              9 |
 | :NED: **Olina K.** (Netherlands)                   |              9 |
 | :POR: **Eva** (Portugal)                           |              7 |
+| :URU: **Renata Z.** (Uruguay)                      |              7 |
 | :KOR: **Vlasta** (Korea Republic)                  |              6 |
-| :URU: **Renata Z.** (Uruguay)                      |              6 |
+| :GHA: **Franta** (Ghana)                           |              5 |
 | :USA: **Tomáš** (USA)                              |              5 |
 | :SVK: **Franta** (Slovakia)                        |              5 |
-| :ESP: **Jana V.** (Spain)                          |              5 |
