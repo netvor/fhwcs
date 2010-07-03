@@ -3,6 +3,7 @@
 ==== Fastest goal ====
 
 ^ Team                                               ^  Minute  ^
+| :GER: **Lenny** (Germany)                          |       3' |
 | :ENG: **Hanka** (England)                          |       4' |
 | :GHA: **Franta** (Ghana)                           |       5' |
 | :ARG: **Míša** (Argentina)                         |       6' |
@@ -12,4 +13,3 @@
 | :URU: **Renata Z.** (Uruguay)                      |       8' |
 | :CMR: **Markéta** (Cameroon)                       |      10' |
 | :BRA: **Dana** (Brazil)                            |      10' |
-| :AUS: **Petra** (Australia)                        |      11' |
