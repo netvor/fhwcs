@@ -15,10 +15,10 @@
 | :NED: **Floris** (Netherlands)                     |              9 |
 | :POR: **Jens** (Portugal)                          |              7 |
 | :URU: **AJ** (Uruguay)                             |              7 |
+| :ESP: **Katka** (Spain)                            |              6 |
 | :KOR: **Rudy** (Korea Republic)                    |              6 |
 | :SVK: **Viktor** (Slovakia)                        |              5 |
 | :USA: **Harmen** (USA)                             |              5 |
-| :ESP: **Katka** (Spain)                            |              5 |
 
 
 ==== Fastest goal ====
@@ -110,7 +110,7 @@
 |    57 |    02 July 16:00 | Quarter-finals: :NED: **Floris** (Netherlands) //vs.// :BRA: **Vendulka** (Brazil)         |      2:1  |  **9** (4:5)     | **10'** -- :BRA: **Vendulka** (Brazil) |
 |    58 |    02 July 20:30 | Quarter-finals: :URU: **AJ** (Uruguay) //vs.// :GHA: **AJ** (Ghana)                        |      1:1  |  **10** (7:3)    | **45'** -- :GHA: **AJ** (Ghana) |
 |    59 |    03 July 16:00 | Quarter-finals: :ARG: **George** (Argentina) //vs.// :GER: **Harmen** (Germany)            |      0:4  |  **3** (2:1)     | **3'** -- :GER: **Harmen** (Germany) |
-|    60 |    03 July 20:30 | Quarter-finals: :PAR: **Martine** (Paraguay) //vs.// :ESP: **Katka** (Spain)               |           |                  |                          |
+|    60 |    03 July 20:30 | Quarter-finals: :PAR: **Martine** (Paraguay) //vs.// :ESP: **Katka** (Spain)               |      0:1  |  **6** (4:2)     | **83'** -- :ESP: **Katka** (Spain) |
 |    61 |    06 July 20:30 | Semi-finals: :URU: **AJ** (Uruguay) //vs.// :NED: **Floris** (Netherlands)                 |           |                  |                          |
 
 //[[2010 fifa world cup sweeps/group stage|Click here for group stage standings and results]]//
