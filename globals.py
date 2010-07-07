@@ -3,6 +3,7 @@
 from operator import attrgetter
 import sys
 import pickle
+import time
 
 class BaseStat:
   @staticmethod
@@ -27,6 +28,8 @@ class MatchStat(BaseStat):
   def goals(self):
     wiki = { self.homeCode : self.homeWiki(), self.awayCode : self.awayWiki() }
     return [ (minute,wiki[code]) for minute,code in self.goalsCode ]
+  def when_tm(self):
+    return time.strptime(self.when + ' 2010', '%d %B %H:%M %Y')
 
 def teamSorted(teams):
   temp = sorted(teams, key=attrgetter('goalsFor'), reverse=True)
