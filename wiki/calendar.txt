@@ -17,3 +17,5 @@
 |    60 |    03 July 20:30 | Quarter-finals: :PAR: **Martine** (Paraguay) //vs.// :ESP: **Katka** (Spain)               |      0:1  |  **6** (4:2)     | **83'** -- :ESP: **Katka** (Spain) |
 |    61 |    06 July 20:30 | Semi-finals: :URU: **AJ** (Uruguay) //vs.// :NED: **Floris** (Netherlands)                 |      2:3  |  **5** (2:3)     | **18'** -- :NED: **Floris** (Netherlands) |
 |    62 |    07 July 20:30 | Semi-finals: :GER: **Harmen** (Germany) //vs.// :ESP: **Katka** (Spain)                    |      0:1  |  **0** (0:0)     | **73'** -- :ESP: **Katka** (Spain) |
+|    63 |    10 July 20:30 | Match for third place: :URU: **AJ** (Uruguay) //vs.// :GER: **Harmen** (Germany)           |           |                  |                          |
+|    64 |    11 July 20:30 | Final: :NED: **Floris** (Netherlands) //vs.// :ESP: **Katka** (Spain)                      |           |                  |                          |
