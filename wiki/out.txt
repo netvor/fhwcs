@@ -15,7 +15,7 @@
 | :BRA: **Vendulka** (Brazil)                        |              9 |
 | :URU: **AJ** (Uruguay)                             |              9 |
 | :POR: **Jens** (Portugal)                          |              7 |
-| :ESP: **Katka** (Spain)                            |              6 |
+| :ESP: **Katka** (Spain)                            |              7 |
 | :KOR: **Rudy** (Korea Republic)                    |              6 |
 | :SVK: **Viktor** (Slovakia)                        |              5 |
 | :USA: **Harmen** (USA)                             |              5 |
@@ -112,7 +112,7 @@
 |    59 |    03 July 16:00 | Quarter-finals: :ARG: **George** (Argentina) //vs.// :GER: **Harmen** (Germany)            |      0:4  |  **3** (2:1)     | **3'** -- :GER: **Harmen** (Germany) |
 |    60 |    03 July 20:30 | Quarter-finals: :PAR: **Martine** (Paraguay) //vs.// :ESP: **Katka** (Spain)               |      0:1  |  **6** (4:2)     | **83'** -- :ESP: **Katka** (Spain) |
 |    61 |    06 July 20:30 | Semi-finals: :URU: **AJ** (Uruguay) //vs.// :NED: **Floris** (Netherlands)                 |      2:3  |  **5** (2:3)     | **18'** -- :NED: **Floris** (Netherlands) |
-|    62 |    07 July 20:30 | Semi-finals: :GER: **Harmen** (Germany) //vs.// :ESP: **Katka** (Spain)                    |           |                  |                          |
+|    62 |    07 July 20:30 | Semi-finals: :GER: **Harmen** (Germany) //vs.// :ESP: **Katka** (Spain)                    |      0:1  |  **0** (0:0)     | **73'** -- :ESP: **Katka** (Spain) |
 
 //[[2010 fifa world cup sweeps/group stage|Click here for group stage standings and results]]//
 

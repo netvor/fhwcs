@@ -9,7 +9,7 @@
 | :BRA: **Vendulka** (Brazil)                        |              9 |
 | :URU: **AJ** (Uruguay)                             |              9 |
 | :POR: **Jens** (Portugal)                          |              7 |
-| :ESP: **Katka** (Spain)                            |              6 |
+| :ESP: **Katka** (Spain)                            |              7 |
 | :KOR: **Rudy** (Korea Republic)                    |              6 |
 | :SVK: **Viktor** (Slovakia)                        |              5 |
 | :USA: **Harmen** (USA)                             |              5 |
