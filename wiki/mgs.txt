@@ -9,7 +9,7 @@
 | :BRA: **Dana** (Brazil)                            |              9 |
 | :URU: **Renata Z.** (Uruguay)                      |              9 |
 | :POR: **Eva** (Portugal)                           |              7 |
+| :ESP: **Jana V.** (Spain)                          |              7 |
 | :KOR: **Vlasta** (Korea Republic)                  |              6 |
-| :ESP: **Jana V.** (Spain)                          |              6 |
 | :GHA: **Franta** (Ghana)                           |              5 |
 | :USA: **Tomáš** (USA)                              |              5 |
