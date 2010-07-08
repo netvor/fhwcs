@@ -2,14 +2,14 @@
 
 ==== Most goals scored ====
 
-^ Team                                               ^  Goals scored  ^
-| :GER: **Harmen** (Germany)                         |             13 |
-| :NED: **Floris** (Netherlands)                     |             12 |
-| :ARG: **George** (Argentina)                       |             10 |
-| :BRA: **Vendulka** (Brazil)                        |              9 |
-| :URU: **AJ** (Uruguay)                             |              9 |
-| :POR: **Jens** (Portugal)                          |              7 |
-| :ESP: **Katka** (Spain)                            |              7 |
-| :KOR: **Rudy** (Korea Republic)                    |              6 |
-| :SVK: **Viktor** (Slovakia)                        |              5 |
-| :USA: **Harmen** (USA)                             |              5 |
+^ Team                                               ^  Goals scored  ^  Goals against  ^
+| :GER: **Harmen** (Germany)                         |         **13** |               3 |
+| :NED: **Floris** (Netherlands)                     |         **12** |               5 |
+| :ARG: **George** (Argentina)                       |         **10** |               6 |
+| :BRA: **Vendulka** (Brazil)                        |          **9** |               4 |
+| :URU: **AJ** (Uruguay)                             |          **9** |               5 |
+| :POR: **Jens** (Portugal)                          |          **7** |               1 |
+| :ESP: **Katka** (Spain)                            |          **7** |               2 |
+| :KOR: **Rudy** (Korea Republic)                    |          **6** |               8 |
+| :GHA: **AJ** (Ghana)                               |          **5** |               4 |
+| :USA: **Harmen** (USA)                             |          **5** |               5 |
