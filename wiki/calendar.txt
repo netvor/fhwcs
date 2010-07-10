@@ -17,5 +17,5 @@
 |    60 |    03 July 20:30 | Quarter-finals: :PAR: **Jana L.** (Paraguay) //vs.// :ESP: **Jana V.** (Spain)             |      0:1  |  **6** (4:2)     | **83'** -- :ESP: **Jana V.** (Spain) |
 |    61 |    06 July 20:30 | Semi-finals: :URU: **Renata Z.** (Uruguay) //vs.// :NED: **Olina K.** (Netherlands)        |      2:3  |  **5** (2:3)     | **18'** -- :NED: **Olina K.** (Netherlands) |
 |    62 |    07 July 20:30 | Semi-finals: :GER: **Lenny** (Germany) //vs.// :ESP: **Jana V.** (Spain)                   |      0:1  |  **0** (0:0)     | **73'** -- :ESP: **Jana V.** (Spain) |
-|    63 |    10 July 20:30 | Match for third place: :URU: **Renata Z.** (Uruguay) //vs.// :GER: **Lenny** (Germany)     |           |                  |                          |
+|    63 |    10 July 20:30 | Match for third place: :URU: **Renata Z.** (Uruguay) //vs.// :GER: **Lenny** (Germany)     |      2:3  |  **4** (1:3)     | **19'** -- :GER: **Lenny** (Germany) |
 |    64 |    11 July 20:30 | Final: :NED: **Olina K.** (Netherlands) //vs.// :ESP: **Jana V.** (Spain)                  |           |                  |                          |

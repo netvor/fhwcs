@@ -3,11 +3,11 @@
 ==== Most goals scored ====
 
 ^ Team                                               ^  Goals scored  ^  Goals against  ^
-| :GER: **Lenny** (Germany)                          |         **13** |               3 |
+| :GER: **Lenny** (Germany)                          |         **16** |               5 |
 | :NED: **Olina K.** (Netherlands)                   |         **12** |               5 |
+| :URU: **Renata Z.** (Uruguay)                      |         **11** |               8 |
 | :ARG: **Míša** (Argentina)                         |         **10** |               6 |
 | :BRA: **Dana** (Brazil)                            |          **9** |               4 |
-| :URU: **Renata Z.** (Uruguay)                      |          **9** |               5 |
 | :POR: **Eva** (Portugal)                           |          **7** |               1 |
 | :ESP: **Jana V.** (Spain)                          |          **7** |               2 |
 | :KOR: **Vlasta** (Korea Republic)                  |          **6** |               8 |
