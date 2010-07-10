@@ -9,11 +9,11 @@
 ==== Most goals scored ====
 
 ^ Team                                               ^  Goals scored  ^  Goals against  ^
-| :GER: **Harmen** (Germany)                         |         **13** |               3 |
+| :GER: **Harmen** (Germany)                         |         **16** |               5 |
 | :NED: **Floris** (Netherlands)                     |         **12** |               5 |
+| :URU: **AJ** (Uruguay)                             |         **11** |               8 |
 | :ARG: **George** (Argentina)                       |         **10** |               6 |
 | :BRA: **Vendulka** (Brazil)                        |          **9** |               4 |
-| :URU: **AJ** (Uruguay)                             |          **9** |               5 |
 | :POR: **Jens** (Portugal)                          |          **7** |               1 |
 | :ESP: **Katka** (Spain)                            |          **7** |               2 |
 | :KOR: **Rudy** (Korea Republic)                    |          **6** |               8 |
@@ -44,11 +44,11 @@
 |    41 |    24 June 16:00 | Group F: :SVK: **Viktor** (Slovakia) //vs.// :ITA: **Rudy** (Italy)                        | **5** (3:2)    |
 |    51 |    27 June 16:00 | Round of 16: :GER: **Harmen** (Germany) //vs.// :ENG: **George** (England)                 | **5** (4:1)    |
 |    61 |    06 July 20:30 | Semi-finals: :URU: **AJ** (Uruguay) //vs.// :NED: **Floris** (Netherlands)                 | **5** (2:3)    |
+|    63 |    10 July 20:30 | Match for third place: :URU: **AJ** (Uruguay) //vs.// :GER: **Harmen** (Germany)           | **5** (2:3)    |
 |     7 |    13 June 20:30 | Group D: :GER: **Harmen** (Germany) //vs.// :AUS: **Sonia** (Australia)                    | **4** (4:0)    |
 |    22 |    18 June 16:00 | Group C: :SVN: **Jens** (Slovenia) //vs.// :USA: **Harmen** (USA)                          | **4** (2:2)    |
 |    29 |    20 June 20:30 | Group G: :BRA: **Vendulka** (Brazil) //vs.// :CIV: **Quido** (Côte d'Ivoire)               | **4** (3:1)    |
 |    35 |    22 June 20:30 | Group B: :NGA: **Pippa** (Nigeria) //vs.// :KOR: **Rudy** (Korea Republic)                 | **4** (2:2)    |
-|    43 |    24 June 20:30 | Group E: :DEN: **Bas** (Denmark) //vs.// :JPN: **Marty** (Japan)                           | **4** (1:3)    |
 
 
 ==== Most yellow cards per game ====
@@ -113,7 +113,7 @@
 |    60 |    03 July 20:30 | Quarter-finals: :PAR: **Martine** (Paraguay) //vs.// :ESP: **Katka** (Spain)               |      0:1  |  **6** (4:2)     | **83'** -- :ESP: **Katka** (Spain) |
 |    61 |    06 July 20:30 | Semi-finals: :URU: **AJ** (Uruguay) //vs.// :NED: **Floris** (Netherlands)                 |      2:3  |  **5** (2:3)     | **18'** -- :NED: **Floris** (Netherlands) |
 |    62 |    07 July 20:30 | Semi-finals: :GER: **Harmen** (Germany) //vs.// :ESP: **Katka** (Spain)                    |      0:1  |  **0** (0:0)     | **73'** -- :ESP: **Katka** (Spain) |
-|    63 |    10 July 20:30 | Match for third place: :URU: **AJ** (Uruguay) //vs.// :GER: **Harmen** (Germany)           |           |                  |                          |
+|    63 |    10 July 20:30 | Match for third place: :URU: **AJ** (Uruguay) //vs.// :GER: **Harmen** (Germany)           |      2:3  |  **4** (1:3)     | **19'** -- :GER: **Harmen** (Germany) |
 |    64 |    11 July 20:30 | Final: :NED: **Floris** (Netherlands) //vs.// :ESP: **Katka** (Spain)                      |           |                  |                          |
 
 //[[2010 fifa world cup sweeps/group stage|Click here for group stage standings and results]]//
