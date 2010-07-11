@@ -4,12 +4,12 @@
 
 ^ Team                                               ^  Goals scored  ^  Goals against  ^
 | :GER: **Harmen** (Germany)                         |         **16** |               5 |
-| :NED: **Floris** (Netherlands)                     |         **12** |               5 |
+| :NED: **Floris** (Netherlands)                     |         **12** |               6 |
 | :URU: **AJ** (Uruguay)                             |         **11** |               8 |
 | :ARG: **George** (Argentina)                       |         **10** |               6 |
 | :BRA: **Vendulka** (Brazil)                        |          **9** |               4 |
+| :ESP: **Katka** (Spain)                            |          **8** |               2 |
 | :POR: **Jens** (Portugal)                          |          **7** |               1 |
-| :ESP: **Katka** (Spain)                            |          **7** |               2 |
 | :KOR: **Rudy** (Korea Republic)                    |          **6** |               8 |
 | :GHA: **AJ** (Ghana)                               |          **5** |               4 |
 | :USA: **Harmen** (USA)                             |          **5** |               5 |
