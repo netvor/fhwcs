@@ -3,6 +3,7 @@
 ==== Most yellow cards per game ====
 
 ^  No.  ^       When       ^  Match                                                                                     ^    Yellow    ^     2Y=R     ^  Direct red  ^  Weighted Total  ^
+|    64 |    11 July 20:30 | Final: :NED: **Olina K.** (Netherlands) //vs.// :ESP: **Jana V.** (Spain)                  | 12 (7:5)     | 1 (1:0)      | 0 (0:0)      | **14** (9:5)     |
 |    31 |    21 June 16:00 | Group H: :CHI: **Hanka** (Chile) //vs.// :SUI: **Renata Z.** (Switzerland)                 | 9 (6:3)      | 0 (0:0)      | 1 (0:1)      | **13** (6:7)     |
 |    58 |    02 July 20:30 | Quarter-finals: :URU: **Renata Z.** (Uruguay) //vs.// :GHA: **Franta** (Ghana)             | 6 (3:3)      | 0 (0:0)      | 1 (1:0)      | **10** (7:3)     |
 |     7 |    13 June 20:30 | Group D: :GER: **Lenny** (Germany) //vs.// :AUS: **Petra** (Australia)                     | 5 (2:3)      | 0 (0:0)      | 1 (0:1)      | **9** (2:7)      |
@@ -12,4 +13,3 @@
 |    24 |    19 June 16:00 | Group D: :GHA: **Franta** (Ghana) //vs.// :AUS: **Petra** (Australia)                      | 4 (3:1)      | 0 (0:0)      | 1 (0:1)      | **8** (3:5)      |
 |    41 |    24 June 16:00 | Group F: :SVK: **Franta** (Slovakia) //vs.// :ITA: **Jana V.** (Italy)                     | 8 (4:4)      | 0 (0:0)      | 0 (0:0)      | **8** (4:4)      |
 |     2 |    11 June 20:30 | Group A: :URU: **Renata Z.** (Uruguay) //vs.// :FRA: **Jana L.** (France)                  | 5 (2:3)      | 1 (1:0)      | 0 (0:0)      | **7** (4:3)      |
-|    45 |    25 June 16:00 | Group G: :POR: **Eva** (Portugal) //vs.// :BRA: **Dana** (Brazil)                          | 7 (4:3)      | 0 (0:0)      | 0 (0:0)      | **7** (4:3)      |

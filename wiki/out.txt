@@ -10,12 +10,12 @@
 
 ^ Team                                               ^  Goals scored  ^  Goals against  ^
 | :GER: **Lenny** (Germany)                          |         **16** |               5 |
-| :NED: **Olina K.** (Netherlands)                   |         **12** |               5 |
+| :NED: **Olina K.** (Netherlands)                   |         **12** |               6 |
 | :URU: **Renata Z.** (Uruguay)                      |         **11** |               8 |
 | :ARG: **Míša** (Argentina)                         |         **10** |               6 |
 | :BRA: **Dana** (Brazil)                            |          **9** |               4 |
+| :ESP: **Jana V.** (Spain)                          |          **8** |               2 |
 | :POR: **Eva** (Portugal)                           |          **7** |               1 |
-| :ESP: **Jana V.** (Spain)                          |          **7** |               2 |
 | :KOR: **Vlasta** (Korea Republic)                  |          **6** |               8 |
 | :GHA: **Franta** (Ghana)                           |          **5** |               4 |
 | :USA: **Tomáš** (USA)                              |          **5** |               5 |
@@ -54,6 +54,7 @@
 ==== Most yellow cards per game ====
 
 ^  No.  ^       When       ^  Match                                                                                     ^    Yellow    ^     2Y=R     ^  Direct red  ^  Weighted Total  ^
+|    64 |    11 July 20:30 | Final: :NED: **Olina K.** (Netherlands) //vs.// :ESP: **Jana V.** (Spain)                  | 12 (7:5)     | 1 (1:0)      | 0 (0:0)      | **14** (9:5)     |
 |    31 |    21 June 16:00 | Group H: :CHI: **Hanka** (Chile) //vs.// :SUI: **Renata Z.** (Switzerland)                 | 9 (6:3)      | 0 (0:0)      | 1 (0:1)      | **13** (6:7)     |
 |    58 |    02 July 20:30 | Quarter-finals: :URU: **Renata Z.** (Uruguay) //vs.// :GHA: **Franta** (Ghana)             | 6 (3:3)      | 0 (0:0)      | 1 (1:0)      | **10** (7:3)     |
 |     7 |    13 June 20:30 | Group D: :GER: **Lenny** (Germany) //vs.// :AUS: **Petra** (Australia)                     | 5 (2:3)      | 0 (0:0)      | 1 (0:1)      | **9** (2:7)      |
@@ -63,7 +64,6 @@
 |    24 |    19 June 16:00 | Group D: :GHA: **Franta** (Ghana) //vs.// :AUS: **Petra** (Australia)                      | 4 (3:1)      | 0 (0:0)      | 1 (0:1)      | **8** (3:5)      |
 |    41 |    24 June 16:00 | Group F: :SVK: **Franta** (Slovakia) //vs.// :ITA: **Jana V.** (Italy)                     | 8 (4:4)      | 0 (0:0)      | 0 (0:0)      | **8** (4:4)      |
 |     2 |    11 June 20:30 | Group A: :URU: **Renata Z.** (Uruguay) //vs.// :FRA: **Jana L.** (France)                  | 5 (2:3)      | 1 (1:0)      | 0 (0:0)      | **7** (4:3)      |
-|    45 |    25 June 16:00 | Group G: :POR: **Eva** (Portugal) //vs.// :BRA: **Dana** (Brazil)                          | 7 (4:3)      | 0 (0:0)      | 0 (0:0)      | **7** (4:3)      |
 
 
 ==== Most yellow cards in group stage ====
@@ -114,7 +114,7 @@
 |    61 |    06 July 20:30 | Semi-finals: :URU: **Renata Z.** (Uruguay) //vs.// :NED: **Olina K.** (Netherlands)        |      2:3  |  **5** (2:3)     | **18'** -- :NED: **Olina K.** (Netherlands) |
 |    62 |    07 July 20:30 | Semi-finals: :GER: **Lenny** (Germany) //vs.// :ESP: **Jana V.** (Spain)                   |      0:1  |  **0** (0:0)     | **73'** -- :ESP: **Jana V.** (Spain) |
 |    63 |    10 July 20:30 | Match for third place: :URU: **Renata Z.** (Uruguay) //vs.// :GER: **Lenny** (Germany)     |      2:3  |  **4** (1:3)     | **19'** -- :GER: **Lenny** (Germany) |
-|    64 |    11 July 20:30 | Final: :NED: **Olina K.** (Netherlands) //vs.// :ESP: **Jana V.** (Spain)                  |           |                  |                          |
+|    64 |    11 July 20:30 | Final: :NED: **Olina K.** (Netherlands) //vs.// :ESP: **Jana V.** (Spain)                  |      0:1  |  **14** (9:5)    | **116'** -- :ESP: **Jana V.** (Spain) |
 
 //[[2010 fifa world cup sweeps/group stage|Click here for group stage standings and results]]//
 
