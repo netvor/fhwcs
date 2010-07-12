@@ -2,14 +2,47 @@
 
 ==== Lowest score in group stage ====
 
-^ Team                                               ^  Group  ^  GF/GA  ^  GD  ^  Pts  ^
-| :PRK: **Sonia** (Korea DPR)                        |      G  |  1/12   |  -11 |     0 |
-| :CMR: **Lisa** (Cameroon)                          |      E  |  2/5    |   -3 |     0 |
-| :HON: **Sue** (Honduras)                           |      H  |  0/3    |   -3 |     1 |
-| :FRA: **Bas** (France)                             |      A  |  1/4    |   -3 |     1 |
-| :ALG: **Martine** (Algeria)                        |      C  |  0/2    |   -2 |     1 |
-| :NGA: **Pippa** (Nigeria)                          |      B  |  3/5    |   -2 |     1 |
-| :ITA: **Rudy** (Italy)                             |      F  |  4/5    |   -1 |     2 |
-| :GRE: **Paul** (Greece)                            |      B  |  2/5    |   -3 |     3 |
-| :DEN: **Bas** (Denmark)                            |      E  |  3/6    |   -3 |     3 |
-| :SRB: **Olivia** (Serbia)                          |      D  |  2/3    |   -1 |     3 |
+^  #  ^ Team                                               ^  Group  ^  GF/GA  ^  GD  ^  Pts  ^
+|   1 | :PRK: **Sonia** (Korea DPR)                        |      G  |  1/12   |  -11 |     0 |
+|   2 | :CMR: **Lisa** (Cameroon)                          |      E  |  2/5    |   -3 |     0 |
+|   3 | :HON: **Sue** (Honduras)                           |      H  |  0/3    |   -3 |     1 |
+|   4 | :FRA: **Bas** (France)                             |      A  |  1/4    |   -3 |     1 |
+|   5 | :ALG: **Martine** (Algeria)                        |      C  |  0/2    |   -2 |     1 |
+<hidden Click to display the full table ⇲>
+^  #  ^ Team                                               ^  Group  ^  GF/GA  ^  GD  ^  Pts  ^
+|   1 | :PRK: **Sonia** (Korea DPR)                        |      G  |  1/12   |  -11 |     0 |
+|   2 | :CMR: **Lisa** (Cameroon)                          |      E  |  2/5    |   -3 |     0 |
+|   3 | :HON: **Sue** (Honduras)                           |      H  |  0/3    |   -3 |     1 |
+|   4 | :FRA: **Bas** (France)                             |      A  |  1/4    |   -3 |     1 |
+|   5 | :ALG: **Martine** (Algeria)                        |      C  |  0/2    |   -2 |     1 |
+|   6 | :NGA: **Pippa** (Nigeria)                          |      B  |  3/5    |   -2 |     1 |
+|   7 | :ITA: **Rudy** (Italy)                             |      F  |  4/5    |   -1 |     2 |
+|   8 | :GRE: **Paul** (Greece)                            |      B  |  2/5    |   -3 |     3 |
+|   9 | :DEN: **Bas** (Denmark)                            |      E  |  3/6    |   -3 |     3 |
+|  10 | :SRB: **Olivia** (Serbia)                          |      D  |  2/3    |   -1 |     3 |
+|  11 | :NZL: **George** (New Zealand)                     |      F  |  2/2    |    0 |     3 |
+|  12 | :AUS: **Sonia** (Australia)                        |      D  |  3/6    |   -3 |     4 |
+|  13 | :RSA: **Scott** (South Africa)                     |      A  |  3/5    |   -2 |     4 |
+|  14 | :SVK: **Viktor** (Slovakia)                        |      F  |  4/5    |   -1 |     4 |
+|  15 | :KOR: **Rudy** (Korea Republic)                    |      B  |  5/6    |   -1 |     4 |
+|  16 | :SUI: **Paul** (Switzerland)                       |      H  |  1/1    |    0 |     4 |
+|  17 | :GHA: **AJ** (Ghana)                               |      D  |  2/2    |    0 |     4 |
+|  18 | :SVN: **Jens** (Slovenia)                          |      C  |  3/3    |    0 |     4 |
+|  19 | :MEX: **Sue** (Mexico)                             |      A  |  3/2    |    1 |     4 |
+|  20 | :CIV: **Quido** (Côte d'Ivoire)                    |      G  |  4/3    |    1 |     4 |
+|  21 | :ENG: **George** (England)                         |      C  |  2/1    |    1 |     5 |
+|  22 | :USA: **Harmen** (USA)                             |      C  |  4/3    |    1 |     5 |
+|  23 | :PAR: **Martine** (Paraguay)                       |      F  |  3/1    |    2 |     5 |
+|  24 | :POR: **Jens** (Portugal)                          |      G  |  7/0    |    7 |     5 |
+|  25 | :CHI: **Ailee** (Chile)                            |      H  |  3/2    |    1 |     6 |
+|  26 | :ESP: **Katka** (Spain)                            |      H  |  4/2    |    2 |     6 |
+|  27 | :JPN: **Marty** (Japan)                            |      E  |  4/2    |    2 |     6 |
+|  28 | :GER: **Harmen** (Germany)                         |      D  |  5/1    |    4 |     6 |
+|  29 | :BRA: **Vendulka** (Brazil)                        |      G  |  5/2    |    3 |     7 |
+|  30 | :URU: **AJ** (Uruguay)                             |      A  |  4/0    |    4 |     7 |
+|  31 | :NED: **Floris** (Netherlands)                     |      E  |  5/1    |    4 |     9 |
+|  32 | :ARG: **George** (Argentina)                       |      B  |  7/1    |    6 |     9 |
+</hidden>
+
+   
+

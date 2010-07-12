@@ -2,14 +2,47 @@
 
 ==== Most goals scored ====
 
-^ Team                                               ^  Goals scored  ^  Goals against  ^
-| :GER: **Harmen** (Germany)                         |         **16** |               5 |
-| :NED: **Floris** (Netherlands)                     |         **12** |               6 |
-| :URU: **AJ** (Uruguay)                             |         **11** |               8 |
-| :ARG: **George** (Argentina)                       |         **10** |               6 |
-| :BRA: **Vendulka** (Brazil)                        |          **9** |               4 |
-| :ESP: **Katka** (Spain)                            |          **8** |               2 |
-| :POR: **Jens** (Portugal)                          |          **7** |               1 |
-| :KOR: **Rudy** (Korea Republic)                    |          **6** |               8 |
-| :GHA: **AJ** (Ghana)                               |          **5** |               4 |
-| :USA: **Harmen** (USA)                             |          **5** |               5 |
+^  #  ^ Team                                               ^  Goals scored  ^  Goals against  ^
+|   1 | :GER: **Harmen** (Germany)                         |         **16** |               5 |
+|   2 | :NED: **Floris** (Netherlands)                     |         **12** |               6 |
+|   3 | :URU: **AJ** (Uruguay)                             |         **11** |               8 |
+|   4 | :ARG: **George** (Argentina)                       |         **10** |               6 |
+|   5 | :BRA: **Vendulka** (Brazil)                        |          **9** |               4 |
+<hidden Click to display the full table ⇲>
+^  #  ^ Team                                               ^  Goals scored  ^  Goals against  ^
+|   1 | :GER: **Harmen** (Germany)                         |         **16** |               5 |
+|   2 | :NED: **Floris** (Netherlands)                     |         **12** |               6 |
+|   3 | :URU: **AJ** (Uruguay)                             |         **11** |               8 |
+|   4 | :ARG: **George** (Argentina)                       |         **10** |               6 |
+|   5 | :BRA: **Vendulka** (Brazil)                        |          **9** |               4 |
+|   6 | :ESP: **Katka** (Spain)                            |          **8** |               2 |
+|   7 | :POR: **Jens** (Portugal)                          |          **7** |               1 |
+|   8 | :KOR: **Rudy** (Korea Republic)                    |          **6** |               8 |
+|   9 | :GHA: **AJ** (Ghana)                               |          **5** |               4 |
+|  10 | :USA: **Harmen** (USA)                             |          **5** |               5 |
+|  11 | :SVK: **Viktor** (Slovakia)                        |          **5** |               7 |
+|  12 | :JPN: **Marty** (Japan)                            |          **4** |               2 |
+|  13 | :CIV: **Quido** (Côte d'Ivoire)                    |          **4** |               3 |
+|  14 | :MEX: **Sue** (Mexico)                             |          **4** |               5 |
+|  15 | :ITA: **Rudy** (Italy)                             |          **4** |               5 |
+|  16 | :PAR: **Martine** (Paraguay)                       |          **3** |               2 |
+|  17 | :SVN: **Jens** (Slovenia)                          |          **3** |               3 |
+|  18 | :RSA: **Scott** (South Africa)                     |          **3** |               5 |
+|  19 | :NGA: **Pippa** (Nigeria)                          |          **3** |               5 |
+|  20 | :ENG: **George** (England)                         |          **3** |               5 |
+|  21 | :CHI: **Ailee** (Chile)                            |          **3** |               5 |
+|  22 | :DEN: **Bas** (Denmark)                            |          **3** |               6 |
+|  23 | :AUS: **Sonia** (Australia)                        |          **3** |               6 |
+|  24 | :NZL: **George** (New Zealand)                     |          **2** |               2 |
+|  25 | :SRB: **Olivia** (Serbia)                          |          **2** |               3 |
+|  26 | :CMR: **Lisa** (Cameroon)                          |          **2** |               5 |
+|  27 | :GRE: **Paul** (Greece)                            |          **2** |               5 |
+|  28 | :SUI: **Paul** (Switzerland)                       |          **1** |               1 |
+|  29 | :FRA: **Bas** (France)                             |          **1** |               4 |
+|  30 | :PRK: **Sonia** (Korea DPR)                        |          **1** |              12 |
+|  31 | :ALG: **Martine** (Algeria)                        |          **0** |               2 |
+|  32 | :HON: **Sue** (Honduras)                           |          **0** |               3 |
+</hidden>
+
+   
+

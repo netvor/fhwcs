@@ -3,12 +3,13 @@
 
 ===== Prizes =====
 
-  * Winning the Gold: **300 Kč**
-  * Winning the Silver: **200 Kč**
-  * Winning the Bronze: **100 Kč**
-  * Most goals scored: **100 Kč** -- if score is equal, Goals Against will break the tie.
-  * Fastest goal: **150 Kč** -- if equal, the teams' second fastest goals will break the tie.
-  * Most goals per game: **100 Kč** for each of the two teams -- if score is equal, the game number will break the tie (earlier game wins).
-  * Most (yellow) cards per game: **100 Kč** for each of the two teams -- if score is equal, the game number will break the tie (earlier game wins). A direct red card counts as 4 cards, an indirect red counts as 3 (yellow + yellow + red).
-  * Most (yellow) cards in group stage: **150 Kč** -- if equal, prize is shared. A direct red card counts as 4 cards, an indirect red counts as 3 (yellow + yellow + red).
-  * Lowest score in group stage: **200 Kč** -- score counted according to points, goal diff. and goals scored. If equal, prize is shared.
+  * Winning the Gold: **300 Kč** for :ESP: **Katka** (Spain)
+  * Winning the Silver: **200 Kč** for :NED: **Floris** (Netherlands)
+  * Winning the Bronze: **100 Kč** for :GER: **Harmen** (Germany)
+  * Most goals scored: **100 Kč** for :GER: **Harmen** (Germany)
+  * Fastest goal: **150 Kč** for :GER: **Harmen** (Germany)
+  * Most goals per game: **100 Kč** each for **Jens** (Portugal) & :PRK: **Sonia** (Korea DPR)
+  * Most (yellow) cards per game: **100 Kč** each for :NED: **Floris** (Netherlands) & :ESP: **Katka** (Spain)
+  * Most (yellow) cards in group stage: **150 Kč** for :AUS: **Sonia** (Australia)
+  * Lowest score in group stage: **200 Kč** for :PRK: **Sonia** (Korea DPR)
+
