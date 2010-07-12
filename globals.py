@@ -5,6 +5,8 @@ import sys
 import pickle
 import time
 
+counter=(i for i in xrange(1,1000))
+
 class BaseStat:
   @staticmethod
   def wiki(code, name):
