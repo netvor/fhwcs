@@ -1,6 +1,10 @@
 ﻿====== 2010 FIFA World Cup Sweeps ======
 
-===== Current Standings =====
+===== Winners =====
 
-//[[2010 fifa world cup sweeps/group stage|Click here for group stage standings and results]]//
+{{gallery>:2010-fifa-world-cup-sweeps?3}}
+
+===== Final Standings =====
+
+//[[2010 fifa world cup sweeps/final results|Click here for the final match results]]//
 
