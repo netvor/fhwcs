@@ -2,14 +2,160 @@
 
 ==== Fastest goal ====
 
-^ Team                                               ^  Minute  ^
-| :GER: **Lenny** (Germany)                          |       3' |
-| :ENG: **Hanka** (England)                          |       4' |
-| :GHA: **Franta** (Ghana)                           |       5' |
-| :ARG: **Míša** (Argentina)                         |       6' |
-| :KOR: **Vlasta** (Korea Republic)                  |       7' |
-| :NZL: **Martin** (New Zealand)                     |       7' |
-| :GER: **Lenny** (Germany)                          |       8' |
-| :URU: **Renata Z.** (Uruguay)                      |       8' |
-| :CMR: **Markéta** (Cameroon)                       |      10' |
-| :BRA: **Dana** (Brazil)                            |      10' |
+^  #  ^ Team                                               ^  Minute  ^
+|   1 | :GER: **Lenny** (Germany)                          |       3' |
+|   2 | :ENG: **Hanka** (England)                          |       4' |
+|   3 | :GHA: **Franta** (Ghana)                           |       5' |
+|   4 | :ARG: **Míša** (Argentina)                         |       6' |
+|   5 | :KOR: **Vlasta** (Korea Republic)                  |       7' |
+<hidden Click to display the full table ⇲>
+^  #  ^ Team                                               ^  Minute  ^
+|   1 | :GER: **Lenny** (Germany)                          |       3' |
+|   2 | :ENG: **Hanka** (England)                          |       4' |
+|   3 | :GHA: **Franta** (Ghana)                           |       5' |
+|   4 | :ARG: **Míša** (Argentina)                         |       6' |
+|   5 | :KOR: **Vlasta** (Korea Republic)                  |       7' |
+|   6 | :NZL: **Martin** (New Zealand)                     |       7' |
+|   7 | :GER: **Lenny** (Germany)                          |       8' |
+|   8 | :URU: **Renata Z.** (Uruguay)                      |       8' |
+|   9 | :CMR: **Markéta** (Cameroon)                       |      10' |
+|  10 | :BRA: **Dana** (Brazil)                            |      10' |
+|  11 | :AUS: **Petra** (Australia)                        |      11' |
+|  12 | :NGA: **Standa** (Nigeria)                         |      12' |
+|  13 | :SVN: **Eva** (Slovenia)                           |      13' |
+|  14 | :CIV: **Martin** (Côte d'Ivoire)                   |      14' |
+|  15 | :NGA: **Standa** (Nigeria)                         |      16' |
+|  16 | :ARG: **Míša** (Argentina)                         |      17' |
+|  17 | :ESP: **Jana V.** (Spain)                          |      17' |
+|  18 | :JPN: **Standa** (Japan)                           |      17' |
+|  19 | :NED: **Olina K.** (Netherlands)                   |      18' |
+|  20 | :NED: **Olina K.** (Netherlands)                   |      18' |
+|  21 | :GER: **Lenny** (Germany)                          |      19' |
+|  22 | :RSA: **Wendy** (South Africa)                     |      20' |
+|  23 | :CIV: **Martin** (Côte d'Ivoire)                   |      20' |
+|  24 | :GER: **Lenny** (Germany)                          |      20' |
+|  25 | :ENG: **Hanka** (England)                          |      23' |
+|  26 | :URU: **Renata Z.** (Uruguay)                      |      24' |
+|  27 | :ESP: **Jana V.** (Spain)                          |      24' |
+|  28 | :GHA: **Franta** (Ghana)                           |      25' |
+|  29 | :BRA: **Dana** (Brazil)                            |      25' |
+|  30 | :SVK: **Franta** (Slovakia)                        |      25' |
+|  31 | :GER: **Lenny** (Germany)                          |      26' |
+|  32 | :ARG: **Míša** (Argentina)                         |      26' |
+|  33 | :PAR: **Jana L.** (Paraguay)                       |      27' |
+|  34 | :URU: **Renata Z.** (Uruguay)                      |      28' |
+|  35 | :ITA: **Jana V.** (Italy)                          |      29' |
+|  36 | :POR: **Eva** (Portugal)                           |      29' |
+|  37 | :JPN: **Standa** (Japan)                           |      30' |
+|  38 | :GER: **Lenny** (Germany)                          |      32' |
+|  39 | :ARG: **Míša** (Argentina)                         |      33' |
+|  40 | :DEN: **Martina** (Denmark)                        |      33' |
+|  41 | :ARG: **Míša** (Argentina)                         |      33' |
+|  42 | :CHI: **Hanka** (Chile)                            |      34' |
+|  43 | :BRA: **Dana** (Brazil)                            |      35' |
+|  44 | :NED: **Olina K.** (Netherlands)                   |      36' |
+|  45 | :RSA: **Wendy** (South Africa)                     |      37' |
+|  46 | :ESP: **Jana V.** (Spain)                          |      37' |
+|  47 | :ENG: **Hanka** (England)                          |      37' |
+|  48 | :SRB: **Denisa** (Serbia)                          |      38' |
+|  49 | :KOR: **Vlasta** (Korea Republic)                  |      38' |
+|  50 | :BRA: **Dana** (Brazil)                            |      38' |
+|  51 | :JPN: **Standa** (Japan)                           |      39' |
+|  52 | :PAR: **Jana L.** (Paraguay)                       |      39' |
+|  53 | :USA: **Tomáš** (USA)                              |      40' |
+|  54 | :URU: **Renata Z.** (Uruguay)                      |      41' |
+|  55 | :SVN: **Eva** (Slovenia)                           |      42' |
+|  56 | :URU: **Renata Z.** (Uruguay)                      |      43' |
+|  57 | :GRE: **Denisa** (Greece)                          |      44' |
+|  58 | :KOR: **Vlasta** (Korea Republic)                  |      45' |
+|  59 | :GHA: **Franta** (Ghana)                           |      45' |
+|  60 | :NED: **Olina K.** (Netherlands)                   |      46' |
+|  61 | :CHI: **Hanka** (Chile)                            |      47' |
+|  62 | :USA: **Tomáš** (USA)                              |      48' |
+|  63 | :KOR: **Vlasta** (Korea Republic)                  |      49' |
+|  64 | :SVK: **Franta** (Slovakia)                        |      50' |
+|  65 | :BRA: **Dana** (Brazil)                            |      50' |
+|  66 | :ESP: **Jana V.** (Spain)                          |      51' |
+|  67 | :URU: **Renata Z.** (Uruguay)                      |      51' |
+|  68 | :KOR: **Vlasta** (Korea Republic)                  |      52' |
+|  69 | :SUI: **Renata Z.** (Switzerland)                  |      52' |
+|  70 | :ARG: **Míša** (Argentina)                         |      52' |
+|  71 | :NED: **Olina K.** (Netherlands)                   |      53' |
+|  72 | :POR: **Eva** (Portugal)                           |      53' |
+|  73 | :NED: **Olina K.** (Netherlands)                   |      53' |
+|  74 | :RSA: **Wendy** (South Africa)                     |      55' |
+|  75 | :BRA: **Dana** (Brazil)                            |      55' |
+|  76 | :URU: **Renata Z.** (Uruguay)                      |      55' |
+|  77 | :POR: **Eva** (Portugal)                           |      56' |
+|  78 | :GER: **Lenny** (Germany)                          |      56' |
+|  79 | :BRA: **Dana** (Brazil)                            |      59' |
+|  80 | :POR: **Eva** (Portugal)                           |      60' |
+|  81 | :GER: **Lenny** (Germany)                          |      60' |
+|  82 | :DEN: **Martina** (Denmark)                        |      61' |
+|  83 | :BRA: **Dana** (Brazil)                            |      62' |
+|  84 | :USA: **Tomáš** (USA)                              |      62' |
+|  85 | :ITA: **Jana V.** (Italy)                          |      63' |
+|  86 | :ESP: **Jana V.** (Spain)                          |      63' |
+|  87 | :MEX: **Olina H.** (Mexico)                        |      64' |
+|  88 | :CMR: **Markéta** (Cameroon)                       |      65' |
+|  89 | :GER: **Lenny** (Germany)                          |      67' |
+|  90 | :GER: **Lenny** (Germany)                          |      68' |
+|  91 | :KOR: **Vlasta** (Korea Republic)                  |      68' |
+|  92 | :NED: **Olina K.** (Netherlands)                   |      68' |
+|  93 | :GER: **Lenny** (Germany)                          |      68' |
+|  94 | :NGA: **Standa** (Nigeria)                         |      69' |
+|  95 | :AUS: **Petra** (Australia)                        |      69' |
+|  96 | :GER: **Lenny** (Germany)                          |      70' |
+|  97 | :FRA: **Jana L.** (France)                         |      70' |
+|  98 | :GER: **Lenny** (Germany)                          |      70' |
+|  99 | :NED: **Olina K.** (Netherlands)                   |      70' |
+| 100 | :GRE: **Denisa** (Greece)                          |      71' |
+| 101 | :MEX: **Olina H.** (Mexico)                        |      71' |
+| 102 | :BRA: **Dana** (Brazil)                            |      72' |
+| 103 | :AUS: **Petra** (Australia)                        |      73' |
+| 104 | :SVK: **Franta** (Slovakia)                        |      73' |
+| 105 | :NED: **Olina K.** (Netherlands)                   |      73' |
+| 106 | :ESP: **Jana V.** (Spain)                          |      73' |
+| 107 | :GER: **Lenny** (Germany)                          |      74' |
+| 108 | :CHI: **Hanka** (Chile)                            |      75' |
+| 109 | :ARG: **Míša** (Argentina)                         |      76' |
+| 110 | :ARG: **Míša** (Argentina)                         |      77' |
+| 111 | :MEX: **Olina H.** (Mexico)                        |      79' |
+| 112 | :SVN: **Eva** (Slovenia)                           |      79' |
+| 113 | :MEX: **Olina H.** (Mexico)                        |      79' |
+| 114 | :CIV: **Martin** (Côte d'Ivoire)                   |      79' |
+| 115 | :URU: **Renata Z.** (Uruguay)                      |      80' |
+| 116 | :ARG: **Míša** (Argentina)                         |      80' |
+| 117 | :URU: **Renata Z.** (Uruguay)                      |      80' |
+| 118 | :POR: **Eva** (Portugal)                           |      81' |
+| 119 | :ITA: **Jana V.** (Italy)                          |      81' |
+| 120 | :DEN: **Martina** (Denmark)                        |      81' |
+| 121 | :USA: **Tomáš** (USA)                              |      82' |
+| 122 | :CIV: **Martin** (Côte d'Ivoire)                   |      82' |
+| 123 | :GER: **Lenny** (Germany)                          |      82' |
+| 124 | :NED: **Olina K.** (Netherlands)                   |      83' |
+| 125 | :ESP: **Jana V.** (Spain)                          |      83' |
+| 126 | :SRB: **Denisa** (Serbia)                          |      84' |
+| 127 | :NED: **Olina K.** (Netherlands)                   |      84' |
+| 128 | :GHA: **Franta** (Ghana)                           |      85' |
+| 129 | :NED: **Olina K.** (Netherlands)                   |      85' |
+| 130 | :PAR: **Jana L.** (Paraguay)                       |      86' |
+| 131 | :POR: **Eva** (Portugal)                           |      87' |
+| 132 | :JPN: **Standa** (Japan)                           |      87' |
+| 133 | :PRK: **Martina** (Korea DPR)                      |      89' |
+| 134 | :POR: **Eva** (Portugal)                           |      89' |
+| 135 | :ARG: **Míša** (Argentina)                         |      89' |
+| 136 | :SVK: **Franta** (Slovakia)                        |      89' |
+| 137 | :GER: **Lenny** (Germany)                          |      89' |
+| 138 | :NZL: **Martin** (New Zealand)                     |      90' |
+| 139 | :URU: **Renata Z.** (Uruguay)                      |      90' |
+| 140 | :USA: **Tomáš** (USA)                              |      90' |
+| 141 | :ITA: **Jana V.** (Italy)                          |      90' |
+| 142 | :SVK: **Franta** (Slovakia)                        |      90' |
+| 143 | :URU: **Renata Z.** (Uruguay)                      |      90' |
+| 144 | :GHA: **Franta** (Ghana)                           |      93' |
+| 145 | :ESP: **Jana V.** (Spain)                          |     116' |
+</hidden>
+
+   
+

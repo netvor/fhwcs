@@ -2,14 +2,47 @@
 
 ==== Most goals scored ====
 
-^ Team                                               ^  Goals scored  ^  Goals against  ^
-| :GER: **Lenny** (Germany)                          |         **16** |               5 |
-| :NED: **Olina K.** (Netherlands)                   |         **12** |               6 |
-| :URU: **Renata Z.** (Uruguay)                      |         **11** |               8 |
-| :ARG: **Míša** (Argentina)                         |         **10** |               6 |
-| :BRA: **Dana** (Brazil)                            |          **9** |               4 |
-| :ESP: **Jana V.** (Spain)                          |          **8** |               2 |
-| :POR: **Eva** (Portugal)                           |          **7** |               1 |
-| :KOR: **Vlasta** (Korea Republic)                  |          **6** |               8 |
-| :GHA: **Franta** (Ghana)                           |          **5** |               4 |
-| :USA: **Tomáš** (USA)                              |          **5** |               5 |
+^  #  ^ Team                                               ^  Goals scored  ^  Goals against  ^
+|   1 | :GER: **Lenny** (Germany)                          |         **16** |               5 |
+|   2 | :NED: **Olina K.** (Netherlands)                   |         **12** |               6 |
+|   3 | :URU: **Renata Z.** (Uruguay)                      |         **11** |               8 |
+|   4 | :ARG: **Míša** (Argentina)                         |         **10** |               6 |
+|   5 | :BRA: **Dana** (Brazil)                            |          **9** |               4 |
+<hidden Click to display the full table ⇲>
+^  #  ^ Team                                               ^  Goals scored  ^  Goals against  ^
+|   1 | :GER: **Lenny** (Germany)                          |         **16** |               5 |
+|   2 | :NED: **Olina K.** (Netherlands)                   |         **12** |               6 |
+|   3 | :URU: **Renata Z.** (Uruguay)                      |         **11** |               8 |
+|   4 | :ARG: **Míša** (Argentina)                         |         **10** |               6 |
+|   5 | :BRA: **Dana** (Brazil)                            |          **9** |               4 |
+|   6 | :ESP: **Jana V.** (Spain)                          |          **8** |               2 |
+|   7 | :POR: **Eva** (Portugal)                           |          **7** |               1 |
+|   8 | :KOR: **Vlasta** (Korea Republic)                  |          **6** |               8 |
+|   9 | :GHA: **Franta** (Ghana)                           |          **5** |               4 |
+|  10 | :USA: **Tomáš** (USA)                              |          **5** |               5 |
+|  11 | :SVK: **Franta** (Slovakia)                        |          **5** |               7 |
+|  12 | :JPN: **Standa** (Japan)                           |          **4** |               2 |
+|  13 | :CIV: **Martin** (Côte d'Ivoire)                   |          **4** |               3 |
+|  14 | :MEX: **Olina H.** (Mexico)                        |          **4** |               5 |
+|  15 | :ITA: **Jana V.** (Italy)                          |          **4** |               5 |
+|  16 | :PAR: **Jana L.** (Paraguay)                       |          **3** |               2 |
+|  17 | :SVN: **Eva** (Slovenia)                           |          **3** |               3 |
+|  18 | :ENG: **Hanka** (England)                          |          **3** |               5 |
+|  19 | :RSA: **Wendy** (South Africa)                     |          **3** |               5 |
+|  20 | :CHI: **Hanka** (Chile)                            |          **3** |               5 |
+|  21 | :NGA: **Standa** (Nigeria)                         |          **3** |               5 |
+|  22 | :AUS: **Petra** (Australia)                        |          **3** |               6 |
+|  23 | :DEN: **Martina** (Denmark)                        |          **3** |               6 |
+|  24 | :NZL: **Martin** (New Zealand)                     |          **2** |               2 |
+|  25 | :SRB: **Denisa** (Serbia)                          |          **2** |               3 |
+|  26 | :GRE: **Denisa** (Greece)                          |          **2** |               5 |
+|  27 | :CMR: **Markéta** (Cameroon)                       |          **2** |               5 |
+|  28 | :SUI: **Renata Z.** (Switzerland)                  |          **1** |               1 |
+|  29 | :FRA: **Jana L.** (France)                         |          **1** |               4 |
+|  30 | :PRK: **Martina** (Korea DPR)                      |          **1** |              12 |
+|  31 | :ALG: **Žužu** (Algeria)                           |          **0** |               2 |
+|  32 | :HON: **Žužu** (Honduras)                          |          **0** |               3 |
+</hidden>
+
+   
+
