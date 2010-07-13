@@ -54,7 +54,7 @@ p22
 (I0
 I1
 I0
-I2
+I3
 tp23
 sS'goalsCode'
 p24

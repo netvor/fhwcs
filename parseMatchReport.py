@@ -40,8 +40,8 @@ assert( (len(homeGoals),len(awayGoals)) == score )
 assert( sum(score) == len(goals) )
 
 cards = [ int(c) for c in re.search(r'\n(\d+)Cautions(\d+)\n(\d+)Expulsions due to Second Caution(\d+)\n(\d+)Direct Expulsions(\d+)\n',contents).groups() ]
-homeCards = tuple( cards[1:6:2] + [ cards[1]+2*cards[3]+4*cards[5] ] )
-awayCards = tuple( cards[0:5:2] + [ cards[0]+2*cards[2]+4*cards[4] ] )
+homeCards = tuple( cards[1:6:2] + [ cards[1]+3*cards[3]+4*cards[5] ] )
+awayCards = tuple( cards[0:5:2] + [ cards[0]+3*cards[2]+4*cards[4] ] )
 assert(len(homeCards)==len(awayCards))
 
 number = int( re.search(ur'(?<=2010# )\d+(?=\n\u000c)',contents).group() )
