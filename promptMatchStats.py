@@ -36,8 +36,8 @@ try:
   awayCards[2] = int(_awayCards[2])
 except IndexError:
   pass
-homeCards = tuple(homeCards + [homeCards[0] + 2 * homeCards[1] + 4 * homeCards[2]])
-awayCards = tuple(awayCards + [awayCards[0] + 2 * awayCards[1] + 4 * awayCards[2]])
+homeCards = tuple(homeCards + [homeCards[0] + 3 * homeCards[1] + 4 * homeCards[2]])
+awayCards = tuple(awayCards + [awayCards[0] + 3 * awayCards[1] + 4 * awayCards[2]])
 
 goals=list()
 for g in homeGoals:
