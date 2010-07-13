@@ -4,39 +4,39 @@
 
 ^  #  ^ Team                                               ^  Yellow  ^  2Y=R  ^  Direct Red  ^  Weighted Total  ^
 |   1 | :AUS: **Petra** (Australia)                        |        7 |      0 |            2 |           **15** |
-|   2 | :SUI: **Renata Z.** (Switzerland)                  |        8 |      0 |            1 |           **12** |
-|   3 | :CHI: **Hanka** (Chile)                            |       10 |      1 |            0 |           **12** |
-|   4 | :SRB: **Denisa** (Serbia)                          |        8 |      1 |            0 |           **10** |
+|   2 | :CHI: **Hanka** (Chile)                            |       10 |      1 |            0 |           **13** |
+|   3 | :SUI: **Renata Z.** (Switzerland)                  |        8 |      0 |            1 |           **12** |
+|   4 | :SRB: **Denisa** (Serbia)                          |        8 |      1 |            0 |           **11** |
 |   5 | :FRA: **Jana L.** (France)                         |        6 |      0 |            1 |           **10** |
 <hidden Click to display the full table ⇲>
 ^  #  ^ Team                                               ^  Yellow  ^  2Y=R  ^  Direct Red  ^  Weighted Total  ^
 |   1 | :AUS: **Petra** (Australia)                        |        7 |      0 |            2 |           **15** |
-|   2 | :SUI: **Renata Z.** (Switzerland)                  |        8 |      0 |            1 |           **12** |
-|   3 | :CHI: **Hanka** (Chile)                            |       10 |      1 |            0 |           **12** |
-|   4 | :SRB: **Denisa** (Serbia)                          |        8 |      1 |            0 |           **10** |
+|   2 | :CHI: **Hanka** (Chile)                            |       10 |      1 |            0 |           **13** |
+|   3 | :SUI: **Renata Z.** (Switzerland)                  |        8 |      0 |            1 |           **12** |
+|   4 | :SRB: **Denisa** (Serbia)                          |        8 |      1 |            0 |           **11** |
 |   5 | :FRA: **Jana L.** (France)                         |        6 |      0 |            1 |           **10** |
-|   6 | :SVN: **Eva** (Slovenia)                           |        9 |      0 |            0 |            **9** |
-|   7 | :NGA: **Standa** (Nigeria)                         |        5 |      0 |            1 |            **9** |
-|   8 | :MEX: **Olina H.** (Mexico)                        |        8 |      0 |            0 |            **8** |
-|   9 | :SVK: **Franta** (Slovakia)                        |        8 |      0 |            0 |            **8** |
-|  10 | :ALG: **Žužu** (Algeria)                           |        4 |      2 |            0 |            **8** |
-|  11 | :RSA: **Wendy** (South Africa)                     |        4 |      0 |            1 |            **8** |
-|  12 | :GER: **Lenny** (Germany)                          |        6 |      1 |            0 |            **8** |
-|  13 | :POR: **Eva** (Portugal)                           |        7 |      0 |            0 |            **7** |
-|  14 | :HON: **Žužu** (Honduras)                          |        7 |      0 |            0 |            **7** |
-|  15 | :BRA: **Dana** (Brazil)                            |        4 |      1 |            0 |            **6** |
+|   6 | :ALG: **Žužu** (Algeria)                           |        4 |      2 |            0 |           **10** |
+|   7 | :SVN: **Eva** (Slovenia)                           |        9 |      0 |            0 |            **9** |
+|   8 | :GER: **Lenny** (Germany)                          |        6 |      1 |            0 |            **9** |
+|   9 | :NGA: **Standa** (Nigeria)                         |        5 |      0 |            1 |            **9** |
+|  10 | :MEX: **Olina H.** (Mexico)                        |        8 |      0 |            0 |            **8** |
+|  11 | :SVK: **Franta** (Slovakia)                        |        8 |      0 |            0 |            **8** |
+|  12 | :RSA: **Wendy** (South Africa)                     |        4 |      0 |            1 |            **8** |
+|  13 | :BRA: **Dana** (Brazil)                            |        4 |      1 |            0 |            **7** |
+|  14 | :POR: **Eva** (Portugal)                           |        7 |      0 |            0 |            **7** |
+|  15 | :HON: **Žužu** (Honduras)                          |        7 |      0 |            0 |            **7** |
 |  16 | :GHA: **Franta** (Ghana)                           |        6 |      0 |            0 |            **6** |
 |  17 | :USA: **Tomáš** (USA)                              |        6 |      0 |            0 |            **6** |
 |  18 | :NED: **Olina K.** (Netherlands)                   |        6 |      0 |            0 |            **6** |
 |  19 | :DEN: **Martina** (Denmark)                        |        6 |      0 |            0 |            **6** |
 |  20 | :NZL: **Martin** (New Zealand)                     |        6 |      0 |            0 |            **6** |
-|  21 | :ENG: **Hanka** (England)                          |        5 |      0 |            0 |            **5** |
-|  22 | :ARG: **Míša** (Argentina)                         |        5 |      0 |            0 |            **5** |
-|  23 | :GRE: **Denisa** (Greece)                          |        5 |      0 |            0 |            **5** |
-|  24 | :CMR: **Markéta** (Cameroon)                       |        5 |      0 |            0 |            **5** |
-|  25 | :ITA: **Jana V.** (Italy)                          |        5 |      0 |            0 |            **5** |
-|  26 | :CIV: **Martin** (Côte d'Ivoire)                   |        5 |      0 |            0 |            **5** |
-|  27 | :URU: **Renata Z.** (Uruguay)                      |        3 |      1 |            0 |            **5** |
+|  21 | :URU: **Renata Z.** (Uruguay)                      |        3 |      1 |            0 |            **6** |
+|  22 | :ENG: **Hanka** (England)                          |        5 |      0 |            0 |            **5** |
+|  23 | :ARG: **Míša** (Argentina)                         |        5 |      0 |            0 |            **5** |
+|  24 | :GRE: **Denisa** (Greece)                          |        5 |      0 |            0 |            **5** |
+|  25 | :CMR: **Markéta** (Cameroon)                       |        5 |      0 |            0 |            **5** |
+|  26 | :ITA: **Jana V.** (Italy)                          |        5 |      0 |            0 |            **5** |
+|  27 | :CIV: **Martin** (Côte d'Ivoire)                   |        5 |      0 |            0 |            **5** |
 |  28 | :PAR: **Jana L.** (Paraguay)                       |        4 |      0 |            0 |            **4** |
 |  29 | :KOR: **Vlasta** (Korea Republic)                  |        3 |      0 |            0 |            **3** |
 |  30 | :JPN: **Standa** (Japan)                           |        3 |      0 |            0 |            **3** |
