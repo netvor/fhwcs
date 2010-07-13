@@ -302,53 +302,53 @@
 ==== Most yellow cards per game ====
 
 ^  #  ^  No.  ^       When       ^  Match                                                                                     ^    Yellow    ^     2Y=R     ^  Direct red  ^  Weighted Total  ^
-|   1 |    64 |    11 July 20:30 | Final: :NED: **Floris** (Netherlands) //vs.// :ESP: **Katka** (Spain)                      | 12 (7:5)     | 1 (1:0)      | 0 (0:0)      | **14** (9:5)     |
+|   1 |    64 |    11 July 20:30 | Final: :NED: **Floris** (Netherlands) //vs.// :ESP: **Katka** (Spain)                      | 12 (7:5)     | 1 (1:0)      | 0 (0:0)      | **15** (10:5)    |
 |   2 |    31 |    21 June 16:00 | Group H: :CHI: **Ailee** (Chile) //vs.// :SUI: **Paul** (Switzerland)                      | 9 (6:3)      | 0 (0:0)      | 1 (0:1)      | **13** (6:7)     |
-|   3 |    58 |    02 July 20:30 | Quarter-finals: :URU: **AJ** (Uruguay) //vs.// :GHA: **AJ** (Ghana)                        | 6 (3:3)      | 0 (0:0)      | 1 (1:0)      | **10** (7:3)     |
-|   4 |     7 |    13 June 20:30 | Group D: :GER: **Harmen** (Germany) //vs.// :AUS: **Sonia** (Australia)                    | 5 (2:3)      | 0 (0:0)      | 1 (0:1)      | **9** (2:7)      |
-|   5 |    21 |    18 June 13:30 | Group D: :GER: **Harmen** (Germany) //vs.// :SRB: **Olivia** (Serbia)                      | 7 (3:4)      | 1 (1:0)      | 0 (0:0)      | **9** (5:4)      |
+|   3 |    21 |    18 June 13:30 | Group D: :GER: **Harmen** (Germany) //vs.// :SRB: **Olivia** (Serbia)                      | 7 (3:4)      | 1 (1:0)      | 0 (0:0)      | **10** (6:4)     |
+|   4 |    58 |    02 July 20:30 | Quarter-finals: :URU: **AJ** (Uruguay) //vs.// :GHA: **AJ** (Ghana)                        | 6 (3:3)      | 0 (0:0)      | 1 (1:0)      | **10** (7:3)     |
+|   5 |     7 |    13 June 20:30 | Group D: :GER: **Harmen** (Germany) //vs.// :AUS: **Sonia** (Australia)                    | 5 (2:3)      | 0 (0:0)      | 1 (0:1)      | **9** (2:7)      |
 <hidden Click to display the full table ⇲>
 ^  #  ^  No.  ^       When       ^  Match                                                                                     ^    Yellow    ^     2Y=R     ^  Direct red  ^  Weighted Total  ^
-|   1 |    64 |    11 July 20:30 | Final: :NED: **Floris** (Netherlands) //vs.// :ESP: **Katka** (Spain)                      | 12 (7:5)     | 1 (1:0)      | 0 (0:0)      | **14** (9:5)     |
+|   1 |    64 |    11 July 20:30 | Final: :NED: **Floris** (Netherlands) //vs.// :ESP: **Katka** (Spain)                      | 12 (7:5)     | 1 (1:0)      | 0 (0:0)      | **15** (10:5)    |
 |   2 |    31 |    21 June 16:00 | Group H: :CHI: **Ailee** (Chile) //vs.// :SUI: **Paul** (Switzerland)                      | 9 (6:3)      | 0 (0:0)      | 1 (0:1)      | **13** (6:7)     |
-|   3 |    58 |    02 July 20:30 | Quarter-finals: :URU: **AJ** (Uruguay) //vs.// :GHA: **AJ** (Ghana)                        | 6 (3:3)      | 0 (0:0)      | 1 (1:0)      | **10** (7:3)     |
-|   4 |     7 |    13 June 20:30 | Group D: :GER: **Harmen** (Germany) //vs.// :AUS: **Sonia** (Australia)                    | 5 (2:3)      | 0 (0:0)      | 1 (0:1)      | **9** (2:7)      |
-|   5 |    21 |    18 June 13:30 | Group D: :GER: **Harmen** (Germany) //vs.// :SRB: **Olivia** (Serbia)                      | 7 (3:4)      | 1 (1:0)      | 0 (0:0)      | **9** (5:4)      |
+|   3 |    21 |    18 June 13:30 | Group D: :GER: **Harmen** (Germany) //vs.// :SRB: **Olivia** (Serbia)                      | 7 (3:4)      | 1 (1:0)      | 0 (0:0)      | **10** (6:4)     |
+|   4 |    58 |    02 July 20:30 | Quarter-finals: :URU: **AJ** (Uruguay) //vs.// :GHA: **AJ** (Ghana)                        | 6 (3:3)      | 0 (0:0)      | 1 (1:0)      | **10** (7:3)     |
+|   5 |     7 |    13 June 20:30 | Group D: :GER: **Harmen** (Germany) //vs.// :AUS: **Sonia** (Australia)                    | 5 (2:3)      | 0 (0:0)      | 1 (0:1)      | **9** (2:7)      |
 |   6 |    57 |    02 July 16:00 | Quarter-finals: :NED: **Floris** (Netherlands) //vs.// :BRA: **Vendulka** (Brazil)         | 5 (4:1)      | 0 (0:0)      | 1 (0:1)      | **9** (4:5)      |
-|   7 |    19 |    17 June 16:00 | Group B: :GRE: **Paul** (Greece) //vs.// :NGA: **Pippa** (Nigeria)                         | 4 (3:1)      | 0 (0:0)      | 1 (0:1)      | **8** (3:5)      |
-|   8 |    24 |    19 June 16:00 | Group D: :GHA: **AJ** (Ghana) //vs.// :AUS: **Sonia** (Australia)                          | 4 (3:1)      | 0 (0:0)      | 1 (0:1)      | **8** (3:5)      |
-|   9 |    41 |    24 June 16:00 | Group F: :SVK: **Viktor** (Slovakia) //vs.// :ITA: **Rudy** (Italy)                        | 8 (4:4)      | 0 (0:0)      | 0 (0:0)      | **8** (4:4)      |
-|  10 |     2 |    11 June 20:30 | Group A: :URU: **AJ** (Uruguay) //vs.// :FRA: **Bas** (France)                             | 5 (2:3)      | 1 (1:0)      | 0 (0:0)      | **7** (4:3)      |
-|  11 |    45 |    25 June 16:00 | Group G: :POR: **Jens** (Portugal) //vs.// :BRA: **Vendulka** (Brazil)                     | 7 (4:3)      | 0 (0:0)      | 0 (0:0)      | **7** (4:3)      |
-|  12 |     5 |    12 June 20:30 | Group C: :ENG: **George** (England) //vs.// :USA: **Harmen** (USA)                         | 6 (3:3)      | 0 (0:0)      | 0 (0:0)      | **6** (3:3)      |
-|  13 |     8 |    13 June 16:00 | Group D: :SRB: **Olivia** (Serbia) //vs.// :GHA: **AJ** (Ghana)                            | 4 (2:2)      | 1 (1:0)      | 0 (0:0)      | **6** (4:2)      |
-|  14 |    17 |    16 June 20:30 | Group A: :RSA: **Scott** (South Africa) //vs.// :URU: **AJ** (Uruguay)                     | 2 (2:0)      | 0 (0:0)      | 1 (1:0)      | **6** (6:0)      |
-|  15 |    18 |    17 June 20:30 | Group A: :FRA: **Bas** (France) //vs.// :MEX: **Sue** (Mexico)                             | 6 (2:4)      | 0 (0:0)      | 0 (0:0)      | **6** (2:4)      |
-|  16 |    38 |    23 June 16:00 | Group C: :USA: **Harmen** (USA) //vs.// :ALG: **Martine** (Algeria)                        | 4 (2:2)      | 1 (0:1)      | 0 (0:0)      | **6** (2:4)      |
-|  17 |    56 |    29 June 20:30 | Round of 16: :ESP: **Katka** (Spain) //vs.// :POR: **Jens** (Portugal)                     | 2 (1:1)      | 0 (0:0)      | 1 (0:1)      | **6** (1:5)      |
-|  18 |    60 |    03 July 20:30 | Quarter-finals: :PAR: **Martine** (Paraguay) //vs.// :ESP: **Katka** (Spain)               | 6 (4:2)      | 0 (0:0)      | 0 (0:0)      | **6** (4:2)      |
-|  19 |     6 |    13 June 13:30 | Group C: :ALG: **Martine** (Algeria) //vs.// :SVN: **Jens** (Slovenia)                     | 3 (1:2)      | 1 (1:0)      | 0 (0:0)      | **5** (3:2)      |
-|  20 |    20 |    17 June 13:30 | Group B: :ARG: **George** (Argentina) //vs.// :KOR: **Rudy** (Korea Republic)              | 5 (3:2)      | 0 (0:0)      | 0 (0:0)      | **5** (3:2)      |
-|  21 |    22 |    18 June 16:00 | Group C: :SVN: **Jens** (Slovenia) //vs.// :USA: **Harmen** (USA)                          | 5 (4:1)      | 0 (0:0)      | 0 (0:0)      | **5** (4:1)      |
-|  22 |    29 |    20 June 20:30 | Group G: :BRA: **Vendulka** (Brazil) //vs.// :CIV: **Quido** (Côte d'Ivoire)               | 3 (0:3)      | 1 (1:0)      | 0 (0:0)      | **5** (2:3)      |
+|   7 |     2 |    11 June 20:30 | Group A: :URU: **AJ** (Uruguay) //vs.// :FRA: **Bas** (France)                             | 5 (2:3)      | 1 (1:0)      | 0 (0:0)      | **8** (5:3)      |
+|   8 |    19 |    17 June 16:00 | Group B: :GRE: **Paul** (Greece) //vs.// :NGA: **Pippa** (Nigeria)                         | 4 (3:1)      | 0 (0:0)      | 1 (0:1)      | **8** (3:5)      |
+|   9 |    24 |    19 June 16:00 | Group D: :GHA: **AJ** (Ghana) //vs.// :AUS: **Sonia** (Australia)                          | 4 (3:1)      | 0 (0:0)      | 1 (0:1)      | **8** (3:5)      |
+|  10 |    41 |    24 June 16:00 | Group F: :SVK: **Viktor** (Slovakia) //vs.// :ITA: **Rudy** (Italy)                        | 8 (4:4)      | 0 (0:0)      | 0 (0:0)      | **8** (4:4)      |
+|  11 |     8 |    13 June 16:00 | Group D: :SRB: **Olivia** (Serbia) //vs.// :GHA: **AJ** (Ghana)                            | 4 (2:2)      | 1 (1:0)      | 0 (0:0)      | **7** (5:2)      |
+|  12 |    38 |    23 June 16:00 | Group C: :USA: **Harmen** (USA) //vs.// :ALG: **Martine** (Algeria)                        | 4 (2:2)      | 1 (0:1)      | 0 (0:0)      | **7** (2:5)      |
+|  13 |    45 |    25 June 16:00 | Group G: :POR: **Jens** (Portugal) //vs.// :BRA: **Vendulka** (Brazil)                     | 7 (4:3)      | 0 (0:0)      | 0 (0:0)      | **7** (4:3)      |
+|  14 |     5 |    12 June 20:30 | Group C: :ENG: **George** (England) //vs.// :USA: **Harmen** (USA)                         | 6 (3:3)      | 0 (0:0)      | 0 (0:0)      | **6** (3:3)      |
+|  15 |     6 |    13 June 13:30 | Group C: :ALG: **Martine** (Algeria) //vs.// :SVN: **Jens** (Slovenia)                     | 3 (1:2)      | 1 (1:0)      | 0 (0:0)      | **6** (4:2)      |
+|  16 |    17 |    16 June 20:30 | Group A: :RSA: **Scott** (South Africa) //vs.// :URU: **AJ** (Uruguay)                     | 2 (2:0)      | 0 (0:0)      | 1 (1:0)      | **6** (6:0)      |
+|  17 |    18 |    17 June 20:30 | Group A: :FRA: **Bas** (France) //vs.// :MEX: **Sue** (Mexico)                             | 6 (2:4)      | 0 (0:0)      | 0 (0:0)      | **6** (2:4)      |
+|  18 |    29 |    20 June 20:30 | Group G: :BRA: **Vendulka** (Brazil) //vs.// :CIV: **Quido** (Côte d'Ivoire)               | 3 (0:3)      | 1 (1:0)      | 0 (0:0)      | **6** (3:3)      |
+|  19 |    56 |    29 June 20:30 | Round of 16: :ESP: **Katka** (Spain) //vs.// :POR: **Jens** (Portugal)                     | 2 (1:1)      | 0 (0:0)      | 1 (0:1)      | **6** (1:5)      |
+|  20 |    60 |    03 July 20:30 | Quarter-finals: :PAR: **Martine** (Paraguay) //vs.// :ESP: **Katka** (Spain)               | 6 (4:2)      | 0 (0:0)      | 0 (0:0)      | **6** (4:2)      |
+|  21 |    20 |    17 June 13:30 | Group B: :ARG: **George** (Argentina) //vs.// :KOR: **Rudy** (Korea Republic)              | 5 (3:2)      | 0 (0:0)      | 0 (0:0)      | **5** (3:2)      |
+|  22 |    22 |    18 June 16:00 | Group C: :SVN: **Jens** (Slovenia) //vs.// :USA: **Harmen** (USA)                          | 5 (4:1)      | 0 (0:0)      | 0 (0:0)      | **5** (4:1)      |
 |  23 |    34 |    22 June 16:00 | Group A: :FRA: **Bas** (France) //vs.// :RSA: **Scott** (South Africa)                     | 1 (1:0)      | 0 (0:0)      | 1 (1:0)      | **5** (5:0)      |
 |  24 |    40 |    23 June 20:30 | Group D: :AUS: **Sonia** (Australia) //vs.// :SRB: **Olivia** (Serbia)                     | 5 (3:2)      | 0 (0:0)      | 0 (0:0)      | **5** (3:2)      |
 |  25 |    43 |    24 June 20:30 | Group E: :DEN: **Bas** (Denmark) //vs.// :JPN: **Marty** (Japan)                           | 5 (3:2)      | 0 (0:0)      | 0 (0:0)      | **5** (3:2)      |
 |  26 |    44 |    24 June 20:30 | Group E: :CMR: **Lisa** (Cameroon) //vs.// :NED: **Floris** (Netherlands)                  | 5 (2:3)      | 0 (0:0)      | 0 (0:0)      | **5** (2:3)      |
-|  27 |    48 |    25 June 20:30 | Group H: :SUI: **Paul** (Switzerland) //vs.// :HON: **Sue** (Honduras)                     | 5 (1:4)      | 0 (0:0)      | 0 (0:0)      | **5** (1:4)      |
-|  28 |    50 |    26 June 20:30 | Round of 16: :USA: **Harmen** (USA) //vs.// :GHA: **AJ** (Ghana)                           | 5 (3:2)      | 0 (0:0)      | 0 (0:0)      | **5** (3:2)      |
-|  29 |    53 |    28 June 16:00 | Round of 16: :NED: **Floris** (Netherlands) //vs.// :SVK: **Viktor** (Slovakia)            | 5 (2:3)      | 0 (0:0)      | 0 (0:0)      | **5** (2:3)      |
-|  30 |    54 |    28 June 20:30 | Round of 16: :BRA: **Vendulka** (Brazil) //vs.// :CHI: **Ailee** (Chile)                   | 5 (2:3)      | 0 (0:0)      | 0 (0:0)      | **5** (2:3)      |
-|  31 |    55 |    29 June 16:00 | Round of 16: :PAR: **Martine** (Paraguay) //vs.// :JPN: **Marty** (Japan)                  | 5 (1:4)      | 0 (0:0)      | 0 (0:0)      | **5** (1:4)      |
-|  32 |    61 |    06 July 20:30 | Semi-finals: :URU: **AJ** (Uruguay) //vs.// :NED: **Floris** (Netherlands)                 | 5 (2:3)      | 0 (0:0)      | 0 (0:0)      | **5** (2:3)      |
-|  33 |     1 |    11 June 16:00 | Group A: :RSA: **Scott** (South Africa) //vs.// :MEX: **Sue** (Mexico)                     | 4 (2:2)      | 0 (0:0)      | 0 (0:0)      | **4** (2:2)      |
-|  34 |    16 |    16 June 16:00 | Group H: :ESP: **Katka** (Spain) //vs.// :SUI: **Paul** (Switzerland)                      | 4 (0:4)      | 0 (0:0)      | 0 (0:0)      | **4** (0:4)      |
-|  35 |    26 |    19 June 20:30 | Group E: :CMR: **Lisa** (Cameroon) //vs.// :DEN: **Bas** (Denmark)                         | 4 (2:2)      | 0 (0:0)      | 0 (0:0)      | **4** (2:2)      |
-|  36 |    27 |    20 June 13:30 | Group F: :SVK: **Viktor** (Slovakia) //vs.// :PAR: **Martine** (Paraguay)                  | 4 (3:1)      | 0 (0:0)      | 0 (0:0)      | **4** (3:1)      |
-|  37 |    30 |    21 June 13:30 | Group G: :POR: **Jens** (Portugal) //vs.// :PRK: **Sonia** (Korea DPR)                     | 4 (2:2)      | 0 (0:0)      | 0 (0:0)      | **4** (2:2)      |
-|  38 |    35 |    22 June 20:30 | Group B: :NGA: **Pippa** (Nigeria) //vs.// :KOR: **Rudy** (Korea Republic)                 | 4 (3:1)      | 0 (0:0)      | 0 (0:0)      | **4** (3:1)      |
-|  39 |    37 |    23 June 16:00 | Group C: :SVN: **Jens** (Slovenia) //vs.// :ENG: **George** (England)                      | 4 (3:1)      | 0 (0:0)      | 0 (0:0)      | **4** (3:1)      |
-|  40 |    47 |    25 June 20:30 | Group H: :CHI: **Ailee** (Chile) //vs.// :ESP: **Katka** (Spain)                           | 2 (2:0)      | 1 (1:0)      | 0 (0:0)      | **4** (4:0)      |
+|  27 |    47 |    25 June 20:30 | Group H: :CHI: **Ailee** (Chile) //vs.// :ESP: **Katka** (Spain)                           | 2 (2:0)      | 1 (1:0)      | 0 (0:0)      | **5** (5:0)      |
+|  28 |    48 |    25 June 20:30 | Group H: :SUI: **Paul** (Switzerland) //vs.// :HON: **Sue** (Honduras)                     | 5 (1:4)      | 0 (0:0)      | 0 (0:0)      | **5** (1:4)      |
+|  29 |    50 |    26 June 20:30 | Round of 16: :USA: **Harmen** (USA) //vs.// :GHA: **AJ** (Ghana)                           | 5 (3:2)      | 0 (0:0)      | 0 (0:0)      | **5** (3:2)      |
+|  30 |    53 |    28 June 16:00 | Round of 16: :NED: **Floris** (Netherlands) //vs.// :SVK: **Viktor** (Slovakia)            | 5 (2:3)      | 0 (0:0)      | 0 (0:0)      | **5** (2:3)      |
+|  31 |    54 |    28 June 20:30 | Round of 16: :BRA: **Vendulka** (Brazil) //vs.// :CHI: **Ailee** (Chile)                   | 5 (2:3)      | 0 (0:0)      | 0 (0:0)      | **5** (2:3)      |
+|  32 |    55 |    29 June 16:00 | Round of 16: :PAR: **Martine** (Paraguay) //vs.// :JPN: **Marty** (Japan)                  | 5 (1:4)      | 0 (0:0)      | 0 (0:0)      | **5** (1:4)      |
+|  33 |    61 |    06 July 20:30 | Semi-finals: :URU: **AJ** (Uruguay) //vs.// :NED: **Floris** (Netherlands)                 | 5 (2:3)      | 0 (0:0)      | 0 (0:0)      | **5** (2:3)      |
+|  34 |     1 |    11 June 16:00 | Group A: :RSA: **Scott** (South Africa) //vs.// :MEX: **Sue** (Mexico)                     | 4 (2:2)      | 0 (0:0)      | 0 (0:0)      | **4** (2:2)      |
+|  35 |    16 |    16 June 16:00 | Group H: :ESP: **Katka** (Spain) //vs.// :SUI: **Paul** (Switzerland)                      | 4 (0:4)      | 0 (0:0)      | 0 (0:0)      | **4** (0:4)      |
+|  36 |    26 |    19 June 20:30 | Group E: :CMR: **Lisa** (Cameroon) //vs.// :DEN: **Bas** (Denmark)                         | 4 (2:2)      | 0 (0:0)      | 0 (0:0)      | **4** (2:2)      |
+|  37 |    27 |    20 June 13:30 | Group F: :SVK: **Viktor** (Slovakia) //vs.// :PAR: **Martine** (Paraguay)                  | 4 (3:1)      | 0 (0:0)      | 0 (0:0)      | **4** (3:1)      |
+|  38 |    30 |    21 June 13:30 | Group G: :POR: **Jens** (Portugal) //vs.// :PRK: **Sonia** (Korea DPR)                     | 4 (2:2)      | 0 (0:0)      | 0 (0:0)      | **4** (2:2)      |
+|  39 |    35 |    22 June 20:30 | Group B: :NGA: **Pippa** (Nigeria) //vs.// :KOR: **Rudy** (Korea Republic)                 | 4 (3:1)      | 0 (0:0)      | 0 (0:0)      | **4** (3:1)      |
+|  40 |    37 |    23 June 16:00 | Group C: :SVN: **Jens** (Slovenia) //vs.// :ENG: **George** (England)                      | 4 (3:1)      | 0 (0:0)      | 0 (0:0)      | **4** (3:1)      |
 |  41 |    63 |    10 July 20:30 | Match for third place: :URU: **AJ** (Uruguay) //vs.// :GER: **Harmen** (Germany)           | 4 (1:3)      | 0 (0:0)      | 0 (0:0)      | **4** (1:3)      |
 |  42 |     9 |    14 June 13:30 | Group E: :NED: **Floris** (Netherlands) //vs.// :DEN: **Bas** (Denmark)                    | 3 (2:1)      | 0 (0:0)      | 0 (0:0)      | **3** (2:1)      |
 |  43 |    12 |    15 June 13:30 | Group F: :NZL: **George** (New Zealand) //vs.// :SVK: **Viktor** (Slovakia)                | 3 (2:1)      | 0 (0:0)      | 0 (0:0)      | **3** (2:1)      |
@@ -383,39 +383,39 @@
 
 ^  #  ^ Team                                               ^  Yellow  ^  2Y=R  ^  Direct Red  ^  Weighted Total  ^
 |   1 | :AUS: **Sonia** (Australia)                        |        7 |      0 |            2 |           **15** |
-|   2 | :SUI: **Paul** (Switzerland)                       |        8 |      0 |            1 |           **12** |
-|   3 | :CHI: **Ailee** (Chile)                            |       10 |      1 |            0 |           **12** |
-|   4 | :SRB: **Olivia** (Serbia)                          |        8 |      1 |            0 |           **10** |
-|   5 | :FRA: **Bas** (France)                             |        6 |      0 |            1 |           **10** |
+|   2 | :CHI: **Ailee** (Chile)                            |       10 |      1 |            0 |           **13** |
+|   3 | :SUI: **Paul** (Switzerland)                       |        8 |      0 |            1 |           **12** |
+|   4 | :SRB: **Olivia** (Serbia)                          |        8 |      1 |            0 |           **11** |
+|   5 | :ALG: **Martine** (Algeria)                        |        4 |      2 |            0 |           **10** |
 <hidden Click to display the full table ⇲>
 ^  #  ^ Team                                               ^  Yellow  ^  2Y=R  ^  Direct Red  ^  Weighted Total  ^
 |   1 | :AUS: **Sonia** (Australia)                        |        7 |      0 |            2 |           **15** |
-|   2 | :SUI: **Paul** (Switzerland)                       |        8 |      0 |            1 |           **12** |
-|   3 | :CHI: **Ailee** (Chile)                            |       10 |      1 |            0 |           **12** |
-|   4 | :SRB: **Olivia** (Serbia)                          |        8 |      1 |            0 |           **10** |
-|   5 | :FRA: **Bas** (France)                             |        6 |      0 |            1 |           **10** |
-|   6 | :NGA: **Pippa** (Nigeria)                          |        5 |      0 |            1 |            **9** |
-|   7 | :SVN: **Jens** (Slovenia)                          |        9 |      0 |            0 |            **9** |
-|   8 | :SVK: **Viktor** (Slovakia)                        |        8 |      0 |            0 |            **8** |
-|   9 | :MEX: **Sue** (Mexico)                             |        8 |      0 |            0 |            **8** |
-|  10 | :ALG: **Martine** (Algeria)                        |        4 |      2 |            0 |            **8** |
-|  11 | :RSA: **Scott** (South Africa)                     |        4 |      0 |            1 |            **8** |
-|  12 | :GER: **Harmen** (Germany)                         |        6 |      1 |            0 |            **8** |
+|   2 | :CHI: **Ailee** (Chile)                            |       10 |      1 |            0 |           **13** |
+|   3 | :SUI: **Paul** (Switzerland)                       |        8 |      0 |            1 |           **12** |
+|   4 | :SRB: **Olivia** (Serbia)                          |        8 |      1 |            0 |           **11** |
+|   5 | :ALG: **Martine** (Algeria)                        |        4 |      2 |            0 |           **10** |
+|   6 | :FRA: **Bas** (France)                             |        6 |      0 |            1 |           **10** |
+|   7 | :NGA: **Pippa** (Nigeria)                          |        5 |      0 |            1 |            **9** |
+|   8 | :SVN: **Jens** (Slovenia)                          |        9 |      0 |            0 |            **9** |
+|   9 | :GER: **Harmen** (Germany)                         |        6 |      1 |            0 |            **9** |
+|  10 | :SVK: **Viktor** (Slovakia)                        |        8 |      0 |            0 |            **8** |
+|  11 | :MEX: **Sue** (Mexico)                             |        8 |      0 |            0 |            **8** |
+|  12 | :RSA: **Scott** (South Africa)                     |        4 |      0 |            1 |            **8** |
 |  13 | :POR: **Jens** (Portugal)                          |        7 |      0 |            0 |            **7** |
-|  14 | :HON: **Sue** (Honduras)                           |        7 |      0 |            0 |            **7** |
-|  15 | :USA: **Harmen** (USA)                             |        6 |      0 |            0 |            **6** |
-|  16 | :BRA: **Vendulka** (Brazil)                        |        4 |      1 |            0 |            **6** |
+|  14 | :BRA: **Vendulka** (Brazil)                        |        4 |      1 |            0 |            **7** |
+|  15 | :HON: **Sue** (Honduras)                           |        7 |      0 |            0 |            **7** |
+|  16 | :USA: **Harmen** (USA)                             |        6 |      0 |            0 |            **6** |
 |  17 | :NZL: **George** (New Zealand)                     |        6 |      0 |            0 |            **6** |
 |  18 | :DEN: **Bas** (Denmark)                            |        6 |      0 |            0 |            **6** |
 |  19 | :NED: **Floris** (Netherlands)                     |        6 |      0 |            0 |            **6** |
 |  20 | :GHA: **AJ** (Ghana)                               |        6 |      0 |            0 |            **6** |
-|  21 | :ITA: **Rudy** (Italy)                             |        5 |      0 |            0 |            **5** |
-|  22 | :CMR: **Lisa** (Cameroon)                          |        5 |      0 |            0 |            **5** |
-|  23 | :GRE: **Paul** (Greece)                            |        5 |      0 |            0 |            **5** |
-|  24 | :ARG: **George** (Argentina)                       |        5 |      0 |            0 |            **5** |
-|  25 | :ENG: **George** (England)                         |        5 |      0 |            0 |            **5** |
-|  26 | :CIV: **Quido** (Côte d'Ivoire)                    |        5 |      0 |            0 |            **5** |
-|  27 | :URU: **AJ** (Uruguay)                             |        3 |      1 |            0 |            **5** |
+|  21 | :URU: **AJ** (Uruguay)                             |        3 |      1 |            0 |            **6** |
+|  22 | :ITA: **Rudy** (Italy)                             |        5 |      0 |            0 |            **5** |
+|  23 | :CMR: **Lisa** (Cameroon)                          |        5 |      0 |            0 |            **5** |
+|  24 | :GRE: **Paul** (Greece)                            |        5 |      0 |            0 |            **5** |
+|  25 | :ARG: **George** (Argentina)                       |        5 |      0 |            0 |            **5** |
+|  26 | :ENG: **George** (England)                         |        5 |      0 |            0 |            **5** |
+|  27 | :CIV: **Quido** (Côte d'Ivoire)                    |        5 |      0 |            0 |            **5** |
 |  28 | :PAR: **Martine** (Paraguay)                       |        4 |      0 |            0 |            **4** |
 |  29 | :JPN: **Marty** (Japan)                            |        3 |      0 |            0 |            **3** |
 |  30 | :KOR: **Rudy** (Korea Republic)                    |        3 |      0 |            0 |            **3** |

@@ -4,39 +4,39 @@
 
 ^  #  ^ Team                                               ^  Yellow  ^  2Y=R  ^  Direct Red  ^  Weighted Total  ^
 |   1 | :AUS: **Sonia** (Australia)                        |        7 |      0 |            2 |           **15** |
-|   2 | :SUI: **Paul** (Switzerland)                       |        8 |      0 |            1 |           **12** |
-|   3 | :CHI: **Ailee** (Chile)                            |       10 |      1 |            0 |           **12** |
-|   4 | :SRB: **Olivia** (Serbia)                          |        8 |      1 |            0 |           **10** |
-|   5 | :FRA: **Bas** (France)                             |        6 |      0 |            1 |           **10** |
+|   2 | :CHI: **Ailee** (Chile)                            |       10 |      1 |            0 |           **13** |
+|   3 | :SUI: **Paul** (Switzerland)                       |        8 |      0 |            1 |           **12** |
+|   4 | :SRB: **Olivia** (Serbia)                          |        8 |      1 |            0 |           **11** |
+|   5 | :ALG: **Martine** (Algeria)                        |        4 |      2 |            0 |           **10** |
 <hidden Click to display the full table ⇲>
 ^  #  ^ Team                                               ^  Yellow  ^  2Y=R  ^  Direct Red  ^  Weighted Total  ^
 |   1 | :AUS: **Sonia** (Australia)                        |        7 |      0 |            2 |           **15** |
-|   2 | :SUI: **Paul** (Switzerland)                       |        8 |      0 |            1 |           **12** |
-|   3 | :CHI: **Ailee** (Chile)                            |       10 |      1 |            0 |           **12** |
-|   4 | :SRB: **Olivia** (Serbia)                          |        8 |      1 |            0 |           **10** |
-|   5 | :FRA: **Bas** (France)                             |        6 |      0 |            1 |           **10** |
-|   6 | :NGA: **Pippa** (Nigeria)                          |        5 |      0 |            1 |            **9** |
-|   7 | :SVN: **Jens** (Slovenia)                          |        9 |      0 |            0 |            **9** |
-|   8 | :SVK: **Viktor** (Slovakia)                        |        8 |      0 |            0 |            **8** |
-|   9 | :MEX: **Sue** (Mexico)                             |        8 |      0 |            0 |            **8** |
-|  10 | :ALG: **Martine** (Algeria)                        |        4 |      2 |            0 |            **8** |
-|  11 | :RSA: **Scott** (South Africa)                     |        4 |      0 |            1 |            **8** |
-|  12 | :GER: **Harmen** (Germany)                         |        6 |      1 |            0 |            **8** |
+|   2 | :CHI: **Ailee** (Chile)                            |       10 |      1 |            0 |           **13** |
+|   3 | :SUI: **Paul** (Switzerland)                       |        8 |      0 |            1 |           **12** |
+|   4 | :SRB: **Olivia** (Serbia)                          |        8 |      1 |            0 |           **11** |
+|   5 | :ALG: **Martine** (Algeria)                        |        4 |      2 |            0 |           **10** |
+|   6 | :FRA: **Bas** (France)                             |        6 |      0 |            1 |           **10** |
+|   7 | :NGA: **Pippa** (Nigeria)                          |        5 |      0 |            1 |            **9** |
+|   8 | :SVN: **Jens** (Slovenia)                          |        9 |      0 |            0 |            **9** |
+|   9 | :GER: **Harmen** (Germany)                         |        6 |      1 |            0 |            **9** |
+|  10 | :SVK: **Viktor** (Slovakia)                        |        8 |      0 |            0 |            **8** |
+|  11 | :MEX: **Sue** (Mexico)                             |        8 |      0 |            0 |            **8** |
+|  12 | :RSA: **Scott** (South Africa)                     |        4 |      0 |            1 |            **8** |
 |  13 | :POR: **Jens** (Portugal)                          |        7 |      0 |            0 |            **7** |
-|  14 | :HON: **Sue** (Honduras)                           |        7 |      0 |            0 |            **7** |
-|  15 | :USA: **Harmen** (USA)                             |        6 |      0 |            0 |            **6** |
-|  16 | :BRA: **Vendulka** (Brazil)                        |        4 |      1 |            0 |            **6** |
+|  14 | :BRA: **Vendulka** (Brazil)                        |        4 |      1 |            0 |            **7** |
+|  15 | :HON: **Sue** (Honduras)                           |        7 |      0 |            0 |            **7** |
+|  16 | :USA: **Harmen** (USA)                             |        6 |      0 |            0 |            **6** |
 |  17 | :NZL: **George** (New Zealand)                     |        6 |      0 |            0 |            **6** |
 |  18 | :DEN: **Bas** (Denmark)                            |        6 |      0 |            0 |            **6** |
 |  19 | :NED: **Floris** (Netherlands)                     |        6 |      0 |            0 |            **6** |
 |  20 | :GHA: **AJ** (Ghana)                               |        6 |      0 |            0 |            **6** |
-|  21 | :ITA: **Rudy** (Italy)                             |        5 |      0 |            0 |            **5** |
-|  22 | :CMR: **Lisa** (Cameroon)                          |        5 |      0 |            0 |            **5** |
-|  23 | :GRE: **Paul** (Greece)                            |        5 |      0 |            0 |            **5** |
-|  24 | :ARG: **George** (Argentina)                       |        5 |      0 |            0 |            **5** |
-|  25 | :ENG: **George** (England)                         |        5 |      0 |            0 |            **5** |
-|  26 | :CIV: **Quido** (Côte d'Ivoire)                    |        5 |      0 |            0 |            **5** |
-|  27 | :URU: **AJ** (Uruguay)                             |        3 |      1 |            0 |            **5** |
+|  21 | :URU: **AJ** (Uruguay)                             |        3 |      1 |            0 |            **6** |
+|  22 | :ITA: **Rudy** (Italy)                             |        5 |      0 |            0 |            **5** |
+|  23 | :CMR: **Lisa** (Cameroon)                          |        5 |      0 |            0 |            **5** |
+|  24 | :GRE: **Paul** (Greece)                            |        5 |      0 |            0 |            **5** |
+|  25 | :ARG: **George** (Argentina)                       |        5 |      0 |            0 |            **5** |
+|  26 | :ENG: **George** (England)                         |        5 |      0 |            0 |            **5** |
+|  27 | :CIV: **Quido** (Côte d'Ivoire)                    |        5 |      0 |            0 |            **5** |
 |  28 | :PAR: **Martine** (Paraguay)                       |        4 |      0 |            0 |            **4** |
 |  29 | :JPN: **Marty** (Japan)                            |        3 |      0 |            0 |            **3** |
 |  30 | :KOR: **Rudy** (Korea Republic)                    |        3 |      0 |            0 |            **3** |
